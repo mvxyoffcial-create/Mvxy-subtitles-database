@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Mvxy Subtitle Search</title>
+<style>
+body {
+  background:#0b1220;
+  color:white;
+  font-family:Arial;
+  padding:20px;
+}
+h1 {
+  color:#00bfff;
+  text-align:center;
+}
+input, select {
+  width:100%;
+  padding:10px;
+  margin:8px 0;
+  border-radius:6px;
+  border:none;
+}
+.item {
+  background:#111827;
+  padding:10px;
+  margin:8px 0;
+  border-radius:8px;
+}
+a {
+  color:#00ff99;
+  text-decoration:none;
+}
+.type {
+  font-size:12px;
+  color:#aaa;
+}
+</style>
+</head>
+<body>
+
+<h1>🎬 Mvxy Subtitle Search</h1>
+
+<input type="text" id="search" placeholder="Search movie or TV series...">
+
+<select id="filterType">
+  <option value="">All</option>
+  <option value="movie">Movies 🎬</option>
+  <option value="tv">TV Series 📺</option>
+</select>
+
+<select id="filterLang">
+  <option value="">All Languages</option>
+  <option value="English">English</option>
+  <option value="Sinhala">Sinhala</option>
+</select>
+
+<div id="results"></div>
+
+<script>
+let subtitles = [];
+
+fetch("data.json")
+  .then(res => res.json())
+  .then(data => {
+    subtitles = data;
+    showResults();
+  });
+
+function showResults() {
+  const q = document.getElementById("search").value.toLowerCase();
+  const type = document.getElementById("filterType").value;
+  const lang = document.getElementById("filterLang").value;
+  const results = document.getElementById("results");
+
+  results.innerHTML = "";
+
+  subtitles.filter(s => {
+    return s.name.toLowerCase().includes(q) &&
+           (type === "" || s.type === type) &&
+           (lang === "" || s.lang === lang);
+  }).forEach(s => {
+    const url = location.origin + "/" + s.file;
+    results.innerHTML += `
+      <div class="item">
+        <b>${s.name}</b><br>
+        <span class="type">${s.type.toUpperCase()} • ${s.lang}</span><br>
+        <a href="${url}" target="_blank">Download Subtitle</a><br>
+        <small>${url}</small>
+      </div>
+    `;
+  });
+}
+
+document.getElementById("search").addEventListener("input", showResults);
+document.getElementById("filterType").addEventListener("change", showResults);
+document.getElementById("filterLang").addEventListener("change", showResults);
+</script>
+
+</body>
+</html>

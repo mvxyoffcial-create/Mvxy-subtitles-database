@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Mvxy Subtitle Admin Panel</title>
+<style>
+body {
+  background:#0b1220;
+  color:white;
+  font-family:Arial;
+  padding:20px;
+}
+h2 {color:#00bfff;}
+input, select, button {
+  width:100%;
+  padding:10px;
+  margin:6px 0;
+  border-radius:6px;
+  border:none;
+}
+button {
+  background:#00bfff;
+  color:white;
+  cursor:pointer;
+}
+#status {
+  margin-top:10px;
+  font-size:14px;
+}
+</style>
+</head>
+<body>
+
+<h2>🎬 Mvxy Subtitle Admin Upload</h2>
+
+<input type="password" id="token" placeholder="Paste GitHub Token (Only You)">
+
+<select id="type">
+  <option value="movies">Movies 🎬</option>
+  <option value="tv">TV Series 📺</option>
+</select>
+
+<input type="text" id="folder" placeholder="Folder name (example: smurfs-2025 or got/s01/e01)">
+
+<select id="lang">
+  <option value="en">English</option>
+  <option value="si">Sinhala</option>
+  <option value="ta">Tamil</option>
+</select>
+
+<input type="file" id="file" accept=".srt,.vtt">
+
+<button onclick="upload()">Upload Subtitle</button>
+
+<div id="status"></div>
+
+<script>
+const username = "mvxyoffcial-create";
+const repo = "Mvxy-subtitles-database";
+
+async function upload() {
+  const token = document.getElementById("token").value.trim();
+  const type = document.getElementById("type").value;
+  const folder = document.getElementById("folder").value.trim();
+  const lang = document.getElementById("lang").value;
+  const fileInput = document.getElementById("file");
+  const status = document.getElementById("status");
+
+  if (!token || !folder || fileInput.files.length === 0) {
+    status.innerHTML = "❌ Fill all fields!";
+    return;
+  }
+
+  const file = fileInput.files[0];
+  const reader = new FileReader();
+
+  reader.onload = async function() {
+    const base64 = reader.result.split(",")[1];
+    const path = `${type}/${folder}/${lang}.srt`;
+
+    const url = `https://api.github.com/repos/${username}/${repo}/contents/${path}`;
+
+    try {
+      const res = await fetch(url, {
+        method: "PUT",
+        headers: {
+          "Authorization": "token " + token,
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          message: "Upload subtitle",
+          content: base64
+        })
+      });
+
+      const data = await res.json();
+
+      if (res.ok) {
+        const fileUrl = `https://${username}.github.io/${repo}/${path}`;
+        status.innerHTML = `
+          ✅ Uploaded Successfully!<br>
+          📁 Path: ${path}<br>
+          🔗 Link: <a href="${fileUrl}" target="_blank">${fileUrl}</a>
+        `;
+      } else {
+        status.innerHTML = "❌ Error: " + data.message;
+      }
+    } catch (e) {
+      status.innerHTML = "❌ Network error!";
+    }
+  };
+
+  reader.readAsDataURL(file);
+}
+</script>
+
+</body>
+</html>

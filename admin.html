@@ -10,11 +10,25 @@ body {
   font-family:Arial;
   padding:20px;
 }
-h2 {color:#00bfff;}
+h2 {
+  color:#00bfff;
+  text-align:center;
+}
+.section {
+  background:#111827;
+  padding:15px;
+  border-radius:10px;
+  margin-bottom:15px;
+}
+label {
+  font-size:14px;
+  margin-top:5px;
+  display:block;
+}
 input, select, button {
   width:100%;
   padding:10px;
-  margin:6px 0;
+  margin-top:6px;
   border-radius:6px;
   border:none;
 }
@@ -31,26 +45,52 @@ button {
 </head>
 <body>
 
-<h2>🎬 Mvxy Subtitle Admin Upload</h2>
+<h2>🎬 Mvxy Subtitle Admin Panel</h2>
 
-<input type="password" id="token" placeholder="Paste GitHub Token (Only You)">
+<div class="section">
+  <label>GitHub Token (Admin Only)</label>
+  <input type="password" id="token" placeholder="Paste GitHub Token">
+</div>
 
-<select id="type">
-  <option value="movies">Movies 🎬</option>
-  <option value="tv">TV Series 📺</option>
-</select>
+<div class="section">
+  <h3>🎬 Movies</h3>
+  <label>Movie Name (example: Smurfs 2025)</label>
+  <input type="text" id="movieName" placeholder="Smurfs 2025">
 
-<input type="text" id="folder" placeholder="Folder name (example: smurfs-2025 or got/s01/e01)">
+  <label>Movie Folder (example: smurfs-2025)</label>
+  <input type="text" id="movieFolder" placeholder="smurfs-2025">
 
-<select id="lang">
-  <option value="en">English</option>
-  <option value="si">Sinhala</option>
-  <option value="ta">Tamil</option>
-</select>
+  <label>Language</label>
+  <select id="movieLang">
+    <option value="English">English</option>
+    <option value="Sinhala">Sinhala</option>
+  </select>
 
-<input type="file" id="file" accept=".srt,.vtt">
+  <label>Subtitle File (.srt or .vtt only)</label>
+  <input type="file" id="movieFile" accept=".srt,.vtt">
 
-<button onclick="upload()">Upload Subtitle</button>
+  <button onclick="uploadMovie()">Upload Movie Subtitle</button>
+</div>
+
+<div class="section">
+  <h3>📺 TV Series</h3>
+  <label>Series Name (example: Game of Thrones S01E01)</label>
+  <input type="text" id="tvName" placeholder="Game of Thrones S01E01">
+
+  <label>Series Folder (example: got/s01/e01)</label>
+  <input type="text" id="tvFolder" placeholder="got/s01/e01">
+
+  <label>Language</label>
+  <select id="tvLang">
+    <option value="English">English</option>
+    <option value="Sinhala">Sinhala</option>
+  </select>
+
+  <label>Subtitle File (.srt or .vtt only)</label>
+  <input type="file" id="tvFile" accept=".srt,.vtt">
+
+  <button onclick="uploadTV()">Upload TV Subtitle</button>
+</div>
 
 <div id="status"></div>
 
@@ -58,59 +98,83 @@ button {
 const username = "mvxyoffcial-create";
 const repo = "Mvxy-subtitles-database";
 
-async function upload() {
+async function uploadFile(path, file) {
   const token = document.getElementById("token").value.trim();
-  const type = document.getElementById("type").value;
-  const folder = document.getElementById("folder").value.trim();
-  const lang = document.getElementById("lang").value;
-  const fileInput = document.getElementById("file");
   const status = document.getElementById("status");
 
-  if (!token || !folder || fileInput.files.length === 0) {
-    status.innerHTML = "❌ Fill all fields!";
+  if (!token) {
+    status.innerHTML = "❌ Please enter GitHub token!";
     return;
   }
 
-  const file = fileInput.files[0];
-  const reader = new FileReader();
+  const ext = file.name.split(".").pop().toLowerCase();
+  if (!["srt","vtt"].includes(ext)) {
+    status.innerHTML = "❌ Only .srt or .vtt files allowed!";
+    return;
+  }
 
+  const reader = new FileReader();
   reader.onload = async function() {
     const base64 = reader.result.split(",")[1];
-    const path = `${type}/${folder}/${lang}.srt`;
-
     const url = `https://api.github.com/repos/${username}/${repo}/contents/${path}`;
 
-    try {
-      const res = await fetch(url, {
-        method: "PUT",
-        headers: {
-          "Authorization": "token " + token,
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          message: "Upload subtitle",
-          content: base64
-        })
-      });
+    const res = await fetch(url, {
+      method: "PUT",
+      headers: {
+        "Authorization": "token " + token,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        message: "Upload subtitle",
+        content: base64
+      })
+    });
 
-      const data = await res.json();
+    const data = await res.json();
 
-      if (res.ok) {
-        const fileUrl = `https://${username}.github.io/${repo}/${path}`;
-        status.innerHTML = `
-          ✅ Uploaded Successfully!<br>
-          📁 Path: ${path}<br>
-          🔗 Link: <a href="${fileUrl}" target="_blank">${fileUrl}</a>
-        `;
-      } else {
-        status.innerHTML = "❌ Error: " + data.message;
-      }
-    } catch (e) {
-      status.innerHTML = "❌ Network error!";
+    if (res.ok) {
+      const fileUrl = `https://${username}.github.io/${repo}/${path}`;
+      status.innerHTML = `✅ Uploaded successfully!<br>
+      📁 Path: ${path}<br>
+      🔗 <a href="${fileUrl}" target="_blank">${fileUrl}</a>`;
+    } else {
+      status.innerHTML = "❌ Error: " + data.message;
     }
   };
 
   reader.readAsDataURL(file);
+}
+
+function uploadMovie() {
+  const name = document.getElementById("movieName").value.trim();
+  const folder = document.getElementById("movieFolder").value.trim();
+  const lang = document.getElementById("movieLang").value;
+  const file = document.getElementById("movieFile").files[0];
+
+  if (!name || !folder || !file) {
+    document.getElementById("status").innerHTML = "❌ Fill movie details!";
+    return;
+  }
+
+  const ext = file.name.split(".").pop().toLowerCase();
+  const path = `movies/${folder}/${lang === "English" ? "en" : "si"}.${ext}`;
+  uploadFile(path, file);
+}
+
+function uploadTV() {
+  const name = document.getElementById("tvName").value.trim();
+  const folder = document.getElementById("tvFolder").value.trim();
+  const lang = document.getElementById("tvLang").value;
+  const file = document.getElementById("tvFile").files[0];
+
+  if (!name || !folder || !file) {
+    document.getElementById("status").innerHTML = "❌ Fill TV details!";
+    return;
+  }
+
+  const ext = file.name.split(".").pop().toLowerCase();
+  const path = `tv/${folder}/${lang === "English" ? "en" : "si"}.${ext}`;
+  uploadFile(path, file);
 }
 </script>
 

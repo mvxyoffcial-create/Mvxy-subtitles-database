@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Mvxy Subtitle Admin</title>
+<title>Mvxy Subtitle Admin Panel</title>
 <style>
 body {background:#0b1220;color:white;font-family:Arial;padding:20px;}
 h2 {color:#00bfff;text-align:center;}
@@ -10,6 +10,8 @@ h2 {color:#00bfff;text-align:center;}
 input,select,button {width:100%;padding:10px;margin-top:6px;border-radius:6px;border:none;}
 button {background:#00bfff;color:white;font-weight:bold;cursor:pointer;}
 #status {margin-top:10px;font-size:14px;}
+.link-box {margin-top:10px;background:#0f172a;padding:10px;border-radius:8px;font-size:13px;}
+a {color:#00ff99;text-decoration:none;}
 </style>
 </head>
 <body>
@@ -17,7 +19,7 @@ button {background:#00bfff;color:white;font-weight:bold;cursor:pointer;}
 <h2>🎬 Mvxy Subtitle Admin Panel</h2>
 
 <div class="box">
-  <label>GitHub Token</label>
+  <label>GitHub Token (Admin Only)</label>
   <input type="password" id="token" placeholder="Paste GitHub Token">
 </div>
 
@@ -37,36 +39,46 @@ button {background:#00bfff;color:white;font-weight:bold;cursor:pointer;}
     <option value="sin">Sinhala</option>
   </select>
 
-  <label>Subtitle File (.srt / .vtt)</label>
+  <label>Subtitle File (.srt / .vtt only)</label>
   <input type="file" id="file" accept=".srt,.vtt">
 
   <button onclick="uploadSubtitle()">Upload Subtitle</button>
+
   <div id="status"></div>
+  <div id="linkResult"></div>
 </div>
 
 <script>
 const owner = "mvxyoffcial-create";
 const repo = "Mvxy-subtitles-database";
 const branch = "main";
+const siteUrl = "https://mvxyoffcial-create.github.io/Mvxy-subtitles-database/";
 
 async function uploadSubtitle() {
-  const token = document.getElementById("token").value;
+  const token = document.getElementById("token").value.trim();
   const type = document.getElementById("type").value;
   const name = document.getElementById("name").value.trim();
   const lang = document.getElementById("lang").value;
   const fileInput = document.getElementById("file").files[0];
   const status = document.getElementById("status");
+  const linkResult = document.getElementById("linkResult");
+
+  status.innerHTML = "";
+  linkResult.innerHTML = "";
 
   if (!token || !name || !fileInput) {
-    status.innerHTML = "❌ Fill all fields!";
+    status.innerHTML = "❌ Please fill all fields!";
     return;
   }
 
-  const ext = fileInput.name.split(".").pop(); // srt or vtt
+  const ext = fileInput.name.split(".").pop().toLowerCase();
+  if(ext !== "srt" && ext !== "vtt"){
+    status.innerHTML = "❌ Only .srt and .vtt files allowed!";
+    return;
+  }
 
-  // ✅ Auto rename file like: Smurf 2025 eng.srt
+  // ✅ Auto rename file
   const newFileName = `${name} ${lang}.${ext}`;
-
   const folder = type === "movie" ? "movies" : "tv";
   const path = `${folder}/${newFileName}`;
 
@@ -75,8 +87,8 @@ async function uploadSubtitle() {
   const content = await fileInput.arrayBuffer();
   const base64Content = btoa(String.fromCharCode(...new Uint8Array(content)));
 
-  // Upload subtitle file to GitHub
-  const uploadRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}`, {
+  // ✅ Upload subtitle file to GitHub
+  const uploadRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}`, {
     method: "PUT",
     headers: {
       "Authorization": `token ${token}`,
@@ -90,18 +102,24 @@ async function uploadSubtitle() {
   });
 
   if (!uploadRes.ok) {
-    status.innerHTML = "❌ Upload failed!";
+    status.innerHTML = "❌ Upload failed! Check token permissions.";
     return;
   }
 
-  // ✅ Update data.json automatically
+  // ✅ Get existing data.json
   const dataUrl = `https://api.github.com/repos/${owner}/${repo}/contents/data.json`;
   const dataRes = await fetch(dataUrl, {
     headers: { "Authorization": `token ${token}` }
   });
 
-  const dataJson = await dataRes.json();
-  const oldData = JSON.parse(atob(dataJson.content));
+  let oldData = [];
+  let sha = null;
+
+  if (dataRes.ok) {
+    const dataJson = await dataRes.json();
+    sha = dataJson.sha;
+    oldData = JSON.parse(atob(dataJson.content));
+  }
 
   const newItem = {
     type: type,
@@ -123,12 +141,24 @@ async function uploadSubtitle() {
     body: JSON.stringify({
       message: "Update data.json",
       content: newContent,
-      sha: dataJson.sha,
+      sha: sha,
       branch: branch
     })
   });
 
-  status.innerHTML = "✅ Uploaded & data.json updated successfully!";
+  status.innerHTML = "✅ Uploaded successfully!";
+
+  // ✅ Show subtitle link after upload
+  const finalLink = siteUrl + encodeURI(path);
+  linkResult.innerHTML = `
+    <div class="link-box">
+      🔗 Subtitle Link:<br>
+      <a href="${finalLink}" target="_blank">${finalLink}</a>
+      <br><br>
+      📋 Copy Link:<br>
+      <input type="text" value="${finalLink}" style="width:100%;padding:6px;border-radius:6px;border:none;" onclick="this.select()">
+    </div>
+  `;
 }
 </script>
 

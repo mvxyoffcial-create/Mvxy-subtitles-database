@@ -10,5 +10,12 @@
     "name": "Dhurandhar 2025",
     "lang": "English",
     "file": "movies/Dhurandhar 2025 eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Dhurandhar 2025",
+    "slug": "dhurandhar-2025",
+    "lang": "Sinhala",
+    "file": "movies/dhurandhar-2025-sin.srt"
   }
 ]

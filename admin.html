@@ -19,7 +19,7 @@ a {color:#00ff99;text-decoration:none;}
 <h2>🎬 Mvxy Subtitle Admin Panel</h2>
 
 <div class="box">
-  <label>GitHub Token (Admin Only)</label>
+  <label>GitHub Token</label>
   <input type="password" id="token" placeholder="Paste GitHub Token">
 </div>
 
@@ -31,7 +31,7 @@ a {color:#00ff99;text-decoration:none;}
   </select>
 
   <label>Movie / Series Name</label>
-  <input type="text" id="name" placeholder="Example: Smurf 2025">
+  <input type="text" id="name" placeholder="Example: Smurf 2025 or සිංහල චිත්‍රපටය">
 
   <label>Language</label>
   <select id="lang">
@@ -53,6 +53,16 @@ const owner = "mvxyoffcial-create";
 const repo = "Mvxy-subtitles-database";
 const branch = "main";
 const siteUrl = "https://mvxyoffcial-create.github.io/Mvxy-subtitles-database/";
+
+// ✅ Convert any language name to safe URL slug (Sinhala + English)
+function makeSlug(text) {
+  return text
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, "-")           // spaces → -
+    .replace(/[^a-z0-9\-]/g, "")    // remove non-English chars
+    .replace(/-+/g, "-");
+}
 
 async function uploadSubtitle() {
   const token = document.getElementById("token").value.trim();
@@ -77,18 +87,27 @@ async function uploadSubtitle() {
     return;
   }
 
-  // ✅ Auto rename file
-  const newFileName = `${name} ${lang}.${ext}`;
+  // ✅ Safe filename (works for Sinhala names too)
+  const slug = makeSlug(name) || "subtitle";
+  const newFileName = `${slug}-${lang}.${ext}`;
+
   const folder = type === "movie" ? "movies" : "tv";
   const path = `${folder}/${newFileName}`;
 
   status.innerHTML = "⏳ Uploading subtitle...";
 
+  // ✅ Convert file to base64 (safe method)
   const content = await fileInput.arrayBuffer();
-  const base64Content = btoa(String.fromCharCode(...new Uint8Array(content)));
+  const base64Content = btoa(
+    Array.from(new Uint8Array(content))
+      .map(b => String.fromCharCode(b))
+      .join("")
+  );
 
-  // ✅ Upload subtitle file to GitHub
-  const uploadRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}`, {
+  // ✅ Encode path for GitHub API (IMPORTANT FIX)
+  const apiPath = path.split("/").map(encodeURIComponent).join("/");
+
+  const uploadRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${apiPath}`, {
     method: "PUT",
     headers: {
       "Authorization": `token ${token}`,
@@ -102,11 +121,12 @@ async function uploadSubtitle() {
   });
 
   if (!uploadRes.ok) {
-    status.innerHTML = "❌ Upload failed! Check token permissions.";
+    const err = await uploadRes.text();
+    status.innerHTML = "❌ Upload failed!<br>" + err;
     return;
   }
 
-  // ✅ Get existing data.json
+  // ✅ Update data.json
   const dataUrl = `https://api.github.com/repos/${owner}/${repo}/contents/data.json`;
   const dataRes = await fetch(dataUrl, {
     headers: { "Authorization": `token ${token}` }
@@ -123,7 +143,8 @@ async function uploadSubtitle() {
 
   const newItem = {
     type: type,
-    name: name,
+    name: name, // Sinhala name kept here ✅
+    slug: slug,
     lang: lang === "eng" ? "English" : "Sinhala",
     file: path
   };
@@ -148,13 +169,11 @@ async function uploadSubtitle() {
 
   status.innerHTML = "✅ Uploaded successfully!";
 
-  // ✅ Show subtitle link after upload
-  const finalLink = siteUrl + encodeURI(path);
+  const finalLink = siteUrl + path;
   linkResult.innerHTML = `
     <div class="link-box">
       🔗 Subtitle Link:<br>
-      <a href="${finalLink}" target="_blank">${finalLink}</a>
-      <br><br>
+      <a href="${finalLink}" target="_blank">${finalLink}</a><br><br>
       📋 Copy Link:<br>
       <input type="text" value="${finalLink}" style="width:100%;padding:6px;border-radius:6px;border:none;" onclick="this.select()">
     </div>

@@ -31,5 +31,12 @@
     "slug": "david2025",
     "lang": "English",
     "file": "movies/david2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "David2025",
+    "slug": "david2025",
+    "lang": "Sinhala",
+    "file": "movies/david2025-sin.srt"
   }
 ]

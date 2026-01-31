@@ -24,5 +24,12 @@
     "slug": "dhurandhar-2025",
     "lang": "English",
     "file": "movies/dhurandhar-2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "David2025",
+    "slug": "david2025",
+    "lang": "English",
+    "file": "movies/david2025-eng.srt"
   }
 ]

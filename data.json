@@ -38,5 +38,12 @@
     "slug": "david2025",
     "lang": "Sinhala",
     "file": "movies/david2025-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "NariNariNadumaMurari",
+    "slug": "narinarinadumamurari",
+    "lang": "English",
+    "file": "movies/narinarinadumamurari-eng.srt"
   }
 ]

@@ -59,5 +59,12 @@
     "slug": "relationshipgoals2026",
     "lang": "Sinhala",
     "file": "movies/relationshipgoals2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Relationship.Goals.2026",
+    "slug": "relationshipgoals2026",
+    "lang": "English",
+    "file": "movies/relationshipgoals2026-eng.srt"
   }
 ]

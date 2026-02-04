@@ -45,5 +45,12 @@
     "slug": "narinarinadumamurari",
     "lang": "English",
     "file": "movies/narinarinadumamurari-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "NariNariNadumaMurari",
+    "slug": "narinarinadumamurari",
+    "lang": "Sinhala",
+    "file": "movies/narinarinadumamurari-sin.srt"
   }
 ]

@@ -66,5 +66,12 @@
     "slug": "relationshipgoals2026",
     "lang": "English",
     "file": "movies/relationshipgoals2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Even_If_This_Love_Disappears_Tonight",
+    "slug": "evenifthislovedisappearstonight",
+    "lang": "Sinhala",
+    "file": "movies/evenifthislovedisappearstonight-sin.srt"
   }
 ]

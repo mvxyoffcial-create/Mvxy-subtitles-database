@@ -73,5 +73,12 @@
     "slug": "evenifthislovedisappearstonight",
     "lang": "Sinhala",
     "file": "movies/evenifthislovedisappearstonight-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Even_If_This_Love_Disappears_Tonight",
+    "slug": "evenifthislovedisappearstonight",
+    "lang": "English",
+    "file": "movies/evenifthislovedisappearstonight-eng.srt"
   }
 ]

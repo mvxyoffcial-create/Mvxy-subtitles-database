@@ -87,5 +87,12 @@
     "slug": "the-housemaid-2025",
     "lang": "English",
     "file": "movies/the-housemaid-2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "the-housemaid-2025",
+    "slug": "the-housemaid-2025",
+    "lang": "Sinhala",
+    "file": "movies/the-housemaid-2025-sin.srt"
   }
 ]

@@ -80,5 +80,12 @@
     "slug": "evenifthislovedisappearstonight",
     "lang": "English",
     "file": "movies/evenifthislovedisappearstonight-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "the-housemaid-2025",
+    "slug": "the-housemaid-2025",
+    "lang": "English",
+    "file": "movies/the-housemaid-2025-eng.srt"
   }
 ]

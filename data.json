@@ -108,5 +108,12 @@
     "slug": "return-to-silent-hill-2026",
     "lang": "Sinhala",
     "file": "movies/return-to-silent-hill-2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Shelter-2026",
+    "slug": "shelter-2026",
+    "lang": "Sinhala",
+    "file": "movies/shelter-2026-sin.srt"
   }
 ]

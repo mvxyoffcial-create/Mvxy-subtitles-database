@@ -101,5 +101,12 @@
     "slug": "return-to-silent-hill-2026",
     "lang": "English",
     "file": "movies/return-to-silent-hill-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Return-to-Silent-Hill-2026",
+    "slug": "return-to-silent-hill-2026",
+    "lang": "Sinhala",
+    "file": "movies/return-to-silent-hill-2026-sin.srt"
   }
 ]

@@ -94,5 +94,12 @@
     "slug": "the-housemaid-2025",
     "lang": "Sinhala",
     "file": "movies/the-housemaid-2025-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Return-to-Silent-Hill-2026",
+    "slug": "return-to-silent-hill-2026",
+    "lang": "English",
+    "file": "movies/return-to-silent-hill-2026-eng.srt"
   }
 ]

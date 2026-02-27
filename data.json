@@ -115,5 +115,12 @@
     "slug": "shelter-2026",
     "lang": "Sinhala",
     "file": "movies/shelter-2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Shelter-2026",
+    "slug": "shelter-2026",
+    "lang": "English",
+    "file": "movies/shelter-2026-eng.srt"
   }
 ]

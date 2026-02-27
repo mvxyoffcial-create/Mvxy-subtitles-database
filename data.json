@@ -129,5 +129,12 @@
     "slug": "the-bluff-2026",
     "lang": "Sinhala",
     "file": "movies/the-bluff-2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The-Bluff-2026",
+    "slug": "the-bluff-2026",
+    "lang": "English",
+    "file": "movies/the-bluff-2026-eng.srt"
   }
 ]

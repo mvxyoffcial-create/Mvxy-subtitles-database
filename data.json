@@ -213,5 +213,12 @@
     "slug": "goat-2026-mvxy",
     "lang": "English",
     "file": "movies/goat-2026-mvxy-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Goat 2026 mvxy",
+    "slug": "goat-2026-mvxy",
+    "lang": "Sinhala",
+    "file": "movies/goat-2026-mvxy-sin.srt"
   }
 ]

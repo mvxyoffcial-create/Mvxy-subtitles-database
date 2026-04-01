@@ -185,5 +185,12 @@
     "slug": "scream-7-2026",
     "lang": "English",
     "file": "movies/scream-7-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Scream 7 2026",
+    "slug": "scream-7-2026",
+    "lang": "Sinhala",
+    "file": "movies/scream-7-2026-sin.srt"
   }
 ]

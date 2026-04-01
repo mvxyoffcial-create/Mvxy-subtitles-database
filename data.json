@@ -143,5 +143,12 @@
     "slug": "crime101-2026",
     "lang": "English",
     "file": "movies/crime101-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Crime101 2026",
+    "slug": "crime101-2026",
+    "lang": "Sinhala",
+    "file": "movies/crime101-2026-sin.srt"
   }
 ]

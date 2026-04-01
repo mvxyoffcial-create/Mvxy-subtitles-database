@@ -150,5 +150,12 @@
     "slug": "crime101-2026",
     "lang": "Sinhala",
     "file": "movies/crime101-2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Harry-potter-and-the-sorcerers-stoe 2001 mvxy",
+    "slug": "harry-potter-and-the-sorcerers-stoe-2001-mvxy",
+    "lang": "English",
+    "file": "movies/harry-potter-and-the-sorcerers-stoe-2001-mvxy-eng.srt"
   }
 ]

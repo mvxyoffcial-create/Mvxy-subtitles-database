@@ -136,5 +136,12 @@
     "slug": "the-bluff-2026",
     "lang": "English",
     "file": "movies/the-bluff-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Crime101 2026",
+    "slug": "crime101-2026",
+    "lang": "English",
+    "file": "movies/crime101-2026-eng.srt"
   }
 ]

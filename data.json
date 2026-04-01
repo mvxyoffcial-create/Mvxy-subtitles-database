@@ -171,5 +171,12 @@
     "slug": "dolly-2025",
     "lang": "English",
     "file": "movies/dolly-2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Dolly 2025",
+    "slug": "dolly-2025",
+    "lang": "Sinhala",
+    "file": "movies/dolly-2025-sin.srt"
   }
 ]

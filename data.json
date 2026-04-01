@@ -206,5 +206,12 @@
     "slug": "wardriver2026",
     "lang": "Sinhala",
     "file": "movies/wardriver2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Goat 2026 mvxy",
+    "slug": "goat-2026-mvxy",
+    "lang": "English",
+    "file": "movies/goat-2026-mvxy-eng.srt"
   }
 ]

@@ -157,5 +157,12 @@
     "slug": "harry-potter-and-the-sorcerers-stoe-2001-mvxy",
     "lang": "English",
     "file": "movies/harry-potter-and-the-sorcerers-stoe-2001-mvxy-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Harry-potter-and-the-sorcerers-stoe 2001 mvxy",
+    "slug": "harry-potter-and-the-sorcerers-stoe-2001-mvxy",
+    "lang": "Sinhala",
+    "file": "movies/harry-potter-and-the-sorcerers-stoe-2001-mvxy-sin.srt"
   }
 ]

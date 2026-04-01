@@ -178,5 +178,12 @@
     "slug": "dolly-2025",
     "lang": "Sinhala",
     "file": "movies/dolly-2025-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Scream 7 2026",
+    "slug": "scream-7-2026",
+    "lang": "English",
+    "file": "movies/scream-7-2026-eng.srt"
   }
 ]

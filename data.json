@@ -227,5 +227,12 @@
     "slug": "tangled-2010-mvxy",
     "lang": "English",
     "file": "movies/tangled-2010-mvxy-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Tangled 2010  mvxy",
+    "slug": "tangled-2010-mvxy",
+    "lang": "Sinhala",
+    "file": "movies/tangled-2010-mvxy-sin.srt"
   }
 ]

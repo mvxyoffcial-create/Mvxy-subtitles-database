@@ -192,5 +192,12 @@
     "slug": "scream-7-2026",
     "lang": "Sinhala",
     "file": "movies/scream-7-2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Wardriver.2026",
+    "slug": "wardriver2026",
+    "lang": "English",
+    "file": "movies/wardriver2026-eng.srt"
   }
 ]

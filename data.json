@@ -234,5 +234,12 @@
     "slug": "tangled-2010-mvxy",
     "lang": "Sinhala",
     "file": "movies/tangled-2010-mvxy-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Harry.Potter.And.The.Chamber.Of.Secrets.2002 mvxy",
+    "slug": "harrypotterandthechamberofsecrets2002-mvxy",
+    "lang": "English",
+    "file": "movies/harrypotterandthechamberofsecrets2002-mvxy-eng.srt"
   }
 ]

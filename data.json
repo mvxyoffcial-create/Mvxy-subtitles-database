@@ -255,5 +255,12 @@
     "slug": "harrypotterandtheprisonerofazkaban2004-mvxy",
     "lang": "English",
     "file": "movies/harrypotterandtheprisonerofazkaban2004-mvxy-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Harry..Potter.And.The.Prisoner.Of.Azkaban.2004 mvxy",
+    "slug": "harrypotterandtheprisonerofazkaban2004-mvxy",
+    "lang": "Sinhala",
+    "file": "movies/harrypotterandtheprisonerofazkaban2004-mvxy-sin.srt"
   }
 ]

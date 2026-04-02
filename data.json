@@ -325,5 +325,12 @@
     "slug": "harry-potter-and-the-deathly-hallows-part-2",
     "lang": "English",
     "file": "movies/harry-potter-and-the-deathly-hallows-part-2-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "harry-potter-and-the-deathly-hallows-part-2",
+    "slug": "harry-potter-and-the-deathly-hallows-part-2",
+    "lang": "Sinhala",
+    "file": "movies/harry-potter-and-the-deathly-hallows-part-2-sin.srt"
   }
 ]

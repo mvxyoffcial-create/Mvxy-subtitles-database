@@ -346,5 +346,12 @@
     "slug": "thegarfieldmovie2024",
     "lang": "Sinhala",
     "file": "movies/thegarfieldmovie2024-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Killer_Whale_2026",
+    "slug": "killerwhale2026",
+    "lang": "English",
+    "file": "movies/killerwhale2026-eng.srt"
   }
 ]

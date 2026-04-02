@@ -241,5 +241,12 @@
     "slug": "harrypotterandthechamberofsecrets2002-mvxy",
     "lang": "English",
     "file": "movies/harrypotterandthechamberofsecrets2002-mvxy-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Harry.Potter.And.The.Chamber.Of.Secrets.2002 mvxy",
+    "slug": "harrypotterandthechamberofsecrets2002-mvxy",
+    "lang": "Sinhala",
+    "file": "movies/harrypotterandthechamberofsecrets2002-mvxy-sin.srt"
   }
 ]

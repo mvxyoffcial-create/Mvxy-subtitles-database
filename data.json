@@ -304,5 +304,12 @@
     "slug": "harrypotterandthehalfbloodprince2009",
     "lang": "Sinhala",
     "file": "movies/harrypotterandthehalfbloodprince2009-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Harry.Potter.and.the.Deathly.Hallows-.Part.1.2010",
+    "slug": "harrypotterandthedeathlyhallows-part12010",
+    "lang": "English",
+    "file": "movies/harrypotterandthedeathlyhallows-part12010-eng.srt"
   }
 ]

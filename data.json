@@ -339,5 +339,12 @@
     "slug": "thegarfieldmovie2024",
     "lang": "English",
     "file": "movies/thegarfieldmovie2024-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Garfield.Movie.2024",
+    "slug": "thegarfieldmovie2024",
+    "lang": "Sinhala",
+    "file": "movies/thegarfieldmovie2024-sin.srt"
   }
 ]

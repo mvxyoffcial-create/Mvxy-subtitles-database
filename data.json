@@ -290,5 +290,12 @@
     "slug": "harrypotterandtheorderofthephoenix2007",
     "lang": "Sinhala",
     "file": "movies/harrypotterandtheorderofthephoenix2007-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Harry.Potter.and.the.Half.Blood.Prince.2009",
+    "slug": "harrypotterandthehalfbloodprince2009",
+    "lang": "English",
+    "file": "movies/harrypotterandthehalfbloodprince2009-eng.srt"
   }
 ]

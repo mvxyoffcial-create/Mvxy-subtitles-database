@@ -276,5 +276,12 @@
     "slug": "harrypotterandthegobletoffire2005mvxy",
     "lang": "Sinhala",
     "file": "movies/harrypotterandthegobletoffire2005mvxy-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Harry.Potter.and.the.Order.of.the.Phoenix.2007",
+    "slug": "harrypotterandtheorderofthephoenix2007",
+    "lang": "English",
+    "file": "movies/harrypotterandtheorderofthephoenix2007-eng.srt"
   }
 ]

@@ -262,5 +262,12 @@
     "slug": "harrypotterandtheprisonerofazkaban2004-mvxy",
     "lang": "Sinhala",
     "file": "movies/harrypotterandtheprisonerofazkaban2004-mvxy-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Harry.Potter.And.The.Goblet.Of.Fire.2005.mvxy",
+    "slug": "harrypotterandthegobletoffire2005mvxy",
+    "lang": "English",
+    "file": "movies/harrypotterandthegobletoffire2005mvxy-eng.srt"
   }
 ]

@@ -283,5 +283,12 @@
     "slug": "harrypotterandtheorderofthephoenix2007",
     "lang": "English",
     "file": "movies/harrypotterandtheorderofthephoenix2007-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Harry.Potter.and.the.Order.of.the.Phoenix.2007",
+    "slug": "harrypotterandtheorderofthephoenix2007",
+    "lang": "Sinhala",
+    "file": "movies/harrypotterandtheorderofthephoenix2007-sin.srt"
   }
 ]

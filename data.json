@@ -360,5 +360,12 @@
     "slug": "killerwhale2026",
     "lang": "Sinhala",
     "file": "movies/killerwhale2026-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Daredevil Born Again Season 1 Episode 1",
+    "slug": "daredevil-born-again-season-1-episode-1",
+    "lang": "English",
+    "file": "tv/daredevil-born-again-season-1-episode-1-eng.srt"
   }
 ]

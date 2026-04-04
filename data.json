@@ -535,5 +535,12 @@
     "slug": "hoppers2026",
     "lang": "English",
     "file": "movies/hoppers2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Hoppers_2026",
+    "slug": "hoppers2026",
+    "lang": "Sinhala",
+    "file": "movies/hoppers2026-sin.srt"
   }
 ]

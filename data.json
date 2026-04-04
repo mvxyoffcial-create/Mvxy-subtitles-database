@@ -549,5 +549,12 @@
     "slug": "peakyblinderstheimmortalman2026",
     "lang": "English",
     "file": "movies/peakyblinderstheimmortalman2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Peaky_Blinders_The_Immortal_Man_2026",
+    "slug": "peakyblinderstheimmortalman2026",
+    "lang": "Sinhala",
+    "file": "movies/peakyblinderstheimmortalman2026-sin.srt"
   }
 ]

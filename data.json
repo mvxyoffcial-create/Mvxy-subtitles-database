@@ -556,5 +556,12 @@
     "slug": "peakyblinderstheimmortalman2026",
     "lang": "Sinhala",
     "file": "movies/peakyblinderstheimmortalman2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Demon Slayer: Kimetsu No Yaiba The Movie: Infinity Castle 2025",
+    "slug": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025",
+    "lang": "English",
+    "file": "movies/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-eng.srt"
   }
 ]

@@ -570,5 +570,12 @@
     "slug": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025",
     "lang": "Sinhala",
     "file": "movies/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Avatar.Fire.and.Ash.2025",
+    "slug": "avatarfireandash2025",
+    "lang": "English",
+    "file": "movies/avatarfireandash2025-eng.srt"
   }
 ]

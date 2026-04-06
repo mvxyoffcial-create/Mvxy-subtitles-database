@@ -605,5 +605,12 @@
     "slug": "mrithyunjay2026",
     "lang": "English",
     "file": "movies/mrithyunjay2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Mrithyunjay_2026",
+    "slug": "mrithyunjay2026",
+    "lang": "Sinhala",
+    "file": "movies/mrithyunjay2026-sin.srt"
   }
 ]

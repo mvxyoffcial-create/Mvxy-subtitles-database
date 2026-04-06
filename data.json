@@ -584,5 +584,12 @@
     "slug": "avatarfireandash2025",
     "lang": "Sinhala",
     "file": "movies/avatarfireandash2025-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Karate.Kid.2010",
+    "slug": "thekaratekid2010",
+    "lang": "English",
+    "file": "movies/thekaratekid2010-eng.srt"
   }
 ]

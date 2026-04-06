@@ -661,5 +661,12 @@
     "slug": "pizzamovie2026",
     "lang": "English",
     "file": "movies/pizzamovie2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Pizza.Movie.2026.",
+    "slug": "pizzamovie2026",
+    "lang": "Sinhala",
+    "file": "movies/pizzamovie2026-sin.srt"
   }
 ]

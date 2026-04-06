@@ -591,5 +591,12 @@
     "slug": "thekaratekid2010",
     "lang": "English",
     "file": "movies/thekaratekid2010-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Karate.Kid.2010",
+    "slug": "thekaratekid2010",
+    "lang": "Sinhala",
+    "file": "movies/thekaratekid2010-sin.srt"
   }
 ]

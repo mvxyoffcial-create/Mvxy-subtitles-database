@@ -619,5 +619,12 @@
     "slug": "repuudayam10gantalaku2026",
     "lang": "English",
     "file": "movies/repuudayam10gantalaku2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Repu_Udayam_10_Gantalaku_2026",
+    "slug": "repuudayam10gantalaku2026",
+    "lang": "Sinhala",
+    "file": "movies/repuudayam10gantalaku2026-sin.srt"
   }
 ]

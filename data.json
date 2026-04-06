@@ -633,5 +633,12 @@
     "slug": "theavengers2012",
     "lang": "English",
     "file": "movies/theavengers2012-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Avengers.2012.",
+    "slug": "theavengers2012",
+    "lang": "Sinhala",
+    "file": "movies/theavengers2012-sin.srt"
   }
 ]

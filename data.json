@@ -598,5 +598,12 @@
     "slug": "thekaratekid2010",
     "lang": "Sinhala",
     "file": "movies/thekaratekid2010-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Mrithyunjay_2026",
+    "slug": "mrithyunjay2026",
+    "lang": "English",
+    "file": "movies/mrithyunjay2026-eng.srt"
   }
 ]

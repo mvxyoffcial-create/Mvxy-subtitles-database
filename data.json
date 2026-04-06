@@ -675,5 +675,12 @@
     "slug": "starwarsmaul-shadowlords01e01",
     "lang": "English",
     "file": "movies/starwarsmaul-shadowlords01e01-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Star.Wars.Maul-Shadow.Lord.S01E01",
+    "slug": "starwarsmaul-shadowlords01e01",
+    "lang": "Sinhala",
+    "file": "tv/starwarsmaul-shadowlords01e01-sin.srt"
   }
 ]

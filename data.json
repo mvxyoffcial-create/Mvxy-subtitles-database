@@ -640,5 +640,12 @@
     "slug": "theavengers2012",
     "lang": "Sinhala",
     "file": "movies/theavengers2012-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Bride.2026.",
+    "slug": "thebride2026",
+    "lang": "English",
+    "file": "movies/thebride2026-eng.srt"
   }
 ]

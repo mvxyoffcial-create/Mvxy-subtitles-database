@@ -696,5 +696,12 @@
     "slug": "starwarsmaul-shadowlords01e02",
     "lang": "Sinhala",
     "file": "tv/starwarsmaul-shadowlords01e02-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "LIAR.GAME.S01E01",
+    "slug": "liargames01e01",
+    "lang": "English",
+    "file": "tv/liargames01e01-eng.srt"
   }
 ]

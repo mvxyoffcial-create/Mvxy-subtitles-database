@@ -1,0 +1,1526 @@
+1
+00:00:00,510 --> 00:00:02,969
+<v Cop A>Huh? You found a hundred yen?
+
+2
+00:00:02,969 --> 00:00:05,290
+<v Cop A>How old are you?
+
+3
+00:00:05,290 --> 00:00:06,230
+<v Nao>What?
+
+4
+00:00:06,590 --> 00:00:10,380
+<v Nao>Um, I'm eighteen. Why?
+
+5
+00:00:11,490 --> 00:00:12,990
+<v sign>Tokyo Police
+2nd District Police Station
+
+6
+00:00:13,280 --> 00:00:17,340
+<v Cop B>Don't meet a lot of people 
+that honest these days.
+
+7
+00:00:17,830 --> 00:00:22,330
+<v sign>Nao Kanzaki
+
+8
+00:00:17,820 --> 00:00:20,750
+<v Cop A>Stupidly honest, you might say.
+
+9
+00:00:22,580 --> 00:00:24,680
+<v Nao>"Stupidly honest Nao."
+
+10
+00:00:24,680 --> 00:00:27,310
+<v Nao>That's what people always called me.
+
+11
+00:00:28,090 --> 00:00:30,830
+<v Nao>But I never let it bother me.
+
+12
+00:00:31,380 --> 00:00:35,320
+<v Nao>After all, my father named me Nao
+
+13
+00:00:35,320 --> 00:00:37,840
+<v Nao>because he wanted me 
+to be an honest girl.
+
+14
+00:00:39,930 --> 00:00:41,740
+<v Delivery>Package delivery.
+
+15
+00:00:45,250 --> 00:00:47,150
+<v Nao>I don't remember ordering anything.
+
+16
+00:00:47,830 --> 00:00:51,690
+<v Nao>The sender is... "LGT Office."
+
+17
+00:00:52,530 --> 00:00:53,530
+<v Nao>What is this?
+
+18
+00:00:55,610 --> 00:01:07,290
+<v sign>Ms. Nao Kanzaki, 
+ Congratulations.
+ You have beaten the 1-in-100, 000 odds
+to participate in the Liar Game Tournament.
+
+19
+00:00:56,790 --> 00:01:01,880
+<v Nao>"You have beaten the 1-in-100, 000 odds
+
+20
+00:01:01,880 --> 00:01:06,340
+<v Nao>to participate in the 
+Liar Game Tournament."
+
+21
+00:01:07,680 --> 00:01:08,830
+<v Nao>Huh...
+
+22
+00:01:09,820 --> 00:01:12,130
+<v Nao>Thinking back now, 
+
+23
+00:01:12,130 --> 00:01:16,800
+<v Nao>I really should have thought a lot more 
+carefully before opening that box.
+
+24
+00:01:20,230 --> 00:01:21,950
+<v Nao>Th-This is...
+
+25
+00:01:25,020 --> 00:01:29,480
+<v sign>The Legendary Con Artist
+
+26
+00:01:25,340 --> 00:01:29,480
+<v Nao>Eighty, ninety, a hundred...
+
+27
+00:01:29,810 --> 00:01:32,150
+<v Nao>A hundred million yen, and it's real!
+
+28
+00:01:33,640 --> 00:01:35,490
+<v Nao>Wh-What's that?!
+
+29
+00:01:33,080 --> 00:01:35,490
+<v Voice>If you are hearing this message, 
+
+30
+00:01:35,490 --> 00:01:40,240
+<v Voice>it means that you are now an official 
+participant in the Liar Game.
+
+31
+00:01:40,240 --> 00:01:42,310
+<v Voice>This decision cannot be reversed.
+
+32
+00:01:42,690 --> 00:01:48,290
+<v Voice>The enclosed 100 million yen is your 
+game money for the first round.
+
+33
+00:01:48,960 --> 00:01:52,140
+<v Nao>What in the world is the Liar Game?
+
+34
+00:01:53,250 --> 00:01:55,090
+<v sign>100 Million Yen Battle
+
+35
+00:01:53,160 --> 00:01:55,090
+<v Voice>The rules are simple.
+
+36
+00:01:55,090 --> 00:02:01,050
+<v Voice>Take your opponent's game money
+ by any means necessary.
+
+37
+00:02:01,050 --> 00:02:03,940
+<v Voice>Participation in this game 
+is by mutual consent.
+
+38
+00:02:03,940 --> 00:02:07,600
+<v Voice>No actions taken in the theft of game 
+money will be considered criminal.
+
+39
+00:02:08,110 --> 00:02:10,340
+<v Voice>This is a one-on-one battle.
+
+40
+00:02:10,340 --> 00:02:15,210
+<v Voice>The game begins the moment you are 
+informed of your opponent's identity.
+
+41
+00:02:15,210 --> 00:02:18,710
+<v Voice>The game will end thirty days thereafter.
+
+42
+00:02:18,710 --> 00:02:21,500
+<v Voice>Whoever has more game money 
+at that time will be the winner.
+
+43
+00:02:22,120 --> 00:02:23,610
+<v Voice>Once the game is over, 
+
+44
+00:02:23,610 --> 00:02:26,650
+<v Voice>a representative of the LGT Office
+will come to collect the game money.
+
+45
+00:02:26,650 --> 00:02:31,860
+<v Voice>The serial numbers of the 100 million yen
+ must match those of your starting pool.
+
+46
+00:02:32,290 --> 00:02:35,820
+<v Voice>Please return this to the 
+representative on arrival.
+
+47
+00:02:35,820 --> 00:02:38,030
+<v Voice>If you have stolen game 
+money from your opponent, 
+
+48
+00:02:38,030 --> 00:02:40,630
+<v Voice>you will be allowed to keep the excess.
+
+49
+00:02:40,630 --> 00:02:45,940
+<v Voice>In other words, it is possible to win 
+up to 100 million yen in this game.
+
+50
+00:02:45,940 --> 00:02:48,780
+<v Voice>Conversely, if you have 
+lost any game money, 
+
+51
+00:02:48,780 --> 00:02:52,640
+<v Voice>you will be forced to pay the difference, 
+even if that leaves you in debt.
+
+52
+00:02:53,450 --> 00:02:56,630
+<v Nao>If I lose, I could end up 
+100 million yen in debt?
+
+53
+00:02:58,090 --> 00:03:00,030
+<v Nao>My mind was spinning.
+
+54
+00:03:00,330 --> 00:03:02,960
+<v Nao>Not with dreams of the 
+incredible money I could win, 
+
+55
+00:03:03,410 --> 00:03:07,300
+<v Nao>but with the fear of ending up
+ 100 million yen in debt.
+
+56
+00:03:09,430 --> 00:03:13,910
+<v Nao>What do I do? Who could I even talk to?
+
+57
+00:03:14,700 --> 00:03:16,680
+<v Nao>The only family I had in the world...
+
+58
+00:03:18,850 --> 00:03:21,840
+<v Nao>was fighting terminal cancer 
+in a care facility.
+
+59
+00:03:22,440 --> 00:03:24,180
+<v Nao>Hey, Dad. How are you feeling?
+
+60
+00:03:24,480 --> 00:03:28,180
+<v Nao's Dad>Very well. Thanks to the 
+lovely weather, I suppose.
+
+61
+00:03:28,530 --> 00:03:30,360
+<v Nao>Oh, I'm glad.
+
+62
+00:03:30,360 --> 00:03:35,880
+<v Nao>They said they weren't sure 
+he'd make it to New Year's.
+
+63
+00:03:36,930 --> 00:03:41,940
+<v Nao's Dad>Hey there. Is something bothering you?
+
+64
+00:03:41,940 --> 00:03:45,210
+<v Nao>Huh? No, everything's going great!
+
+65
+00:03:45,510 --> 00:03:47,110
+<v Nao>I'm even getting used to school.
+
+66
+00:03:47,110 --> 00:03:49,170
+<v Nao>Every day is fun!
+
+67
+00:03:46,920 --> 00:03:49,170
+<v Nao>My one trivial hope in this world...
+
+68
+00:03:49,960 --> 00:03:53,970
+<v Nao>was to make my father's final days
+
+69
+00:03:53,970 --> 00:03:57,890
+<v Nao>as peaceful and quiet as possible.
+
+70
+00:03:59,250 --> 00:04:02,430
+<v Nao>I couldn't tell him.
+
+71
+00:04:03,470 --> 00:04:04,970
+<v sign>Mitsuo Tanimura Law Office
+
+72
+00:04:04,970 --> 00:04:08,090
+<v Tanimura>There's nothing you can do 
+about this at the moment.
+
+73
+00:04:08,090 --> 00:04:08,820
+<v Nao>What?!
+
+74
+00:04:08,820 --> 00:04:14,490
+<v Tanimura>It's a lawyer's job to help people 
+who've suffered some kind of damages.
+
+75
+00:04:14,490 --> 00:04:18,310
+<v Tanimura>But you haven't suffered 
+any damages, have you?
+
+76
+00:04:19,649 --> 00:04:22,010
+<v Nao>If a lawyer can't help me...
+
+77
+00:04:22,880 --> 00:04:25,820
+<v Nao>I know! If I take it to the police...
+
+78
+00:04:27,570 --> 00:04:31,090
+<v Tanimura>That's probably exactly 
+what the sender wants.
+
+79
+00:04:31,090 --> 00:04:31,900
+<v Nao>What?!
+
+80
+00:04:31,900 --> 00:04:38,480
+<v Tanimura>I mean, wouldn't most folks go to the cops
+ rather than risk winding up in trouble?
+
+81
+00:04:38,480 --> 00:04:39,510
+<v Nao>Yes!
+
+82
+00:04:39,510 --> 00:04:42,780
+<v Tanimura>But it says right here in the rules
+
+83
+00:04:42,780 --> 00:04:45,390
+<v Tanimura>that the player must return the game money
+
+84
+00:04:45,390 --> 00:04:49,040
+<v Tanimura>to the representative on arrival.
+
+85
+00:04:49,040 --> 00:04:54,350
+<v Tanimura>But if you take it to the police, 
+they'll treat it like a lost article.
+
+86
+00:04:54,350 --> 00:04:56,490
+<v Tanimura>That's the trap!
+
+87
+00:04:56,770 --> 00:04:58,740
+<v Tanimura>When it comes time to collect
+
+88
+00:04:58,740 --> 00:05:01,660
+<v Tanimura>and you tell 'em, "The owner is back, 
+so please return the money, "
+
+89
+00:05:01,660 --> 00:05:03,980
+<v Tanimura>you think the police will give it to you?
+
+90
+00:05:05,210 --> 00:05:09,690
+<v Tanimura>Police only return lost articles 
+to whoever lost them.
+
+91
+00:05:10,250 --> 00:05:16,070
+<v Tanimura>So when the office shows up as the owner
+and claims that money from the police, 
+
+92
+00:05:16,070 --> 00:05:19,740
+<v Tanimura>they're gonna say you owe them 100 mil!
+
+93
+00:05:20,140 --> 00:05:23,750
+<v Nao>That's awful... This is like a scam.
+
+94
+00:05:23,750 --> 00:05:25,630
+<v Nao>Isn't there anything I can do?
+
+95
+00:05:26,420 --> 00:05:29,760
+<v Tanimura>Nothing at this point, like I said.
+
+96
+00:05:30,330 --> 00:05:33,420
+<v Nao>Then who should I talk to?
+
+97
+00:05:33,420 --> 00:05:37,820
+<v Tanimura>For advice on a con, 
+it's best to talk to a con artist.
+
+98
+00:05:38,320 --> 00:05:41,070
+<v Nao>Isn't there anything 
+more useful you can—
+
+99
+00:05:41,070 --> 00:05:43,270
+<v Tanimura>Well, that's your hour up.
+
+100
+00:05:43,750 --> 00:05:47,930
+<v Tanimura>Moving forward, 
+it'll be 15, 000 yen an hour.
+
+101
+00:05:47,930 --> 00:05:49,530
+<v Tanimura>What do you say?
+
+102
+00:05:53,590 --> 00:05:56,540
+<v Nao>What in the world is the Liar Game?
+
+103
+00:05:58,330 --> 00:06:00,710
+<v Nao>Why would they do this to people?
+
+104
+00:06:01,510 --> 00:06:03,410
+<v Nao>Why would they choose me?
+
+105
+00:06:24,230 --> 00:06:28,050
+<v Nao>"Your opponent for the first round 
+of the Liar Game has been selected."
+
+106
+00:06:28,720 --> 00:06:32,030
+<v Nao>"Your opponent is the player enclosed."
+
+107
+00:06:33,410 --> 00:06:34,660
+<v Nao>I know this man!
+
+108
+00:06:35,010 --> 00:06:36,760
+<v Nao>That's Fujisawa-sensei!
+
+109
+00:06:39,180 --> 00:06:40,670
+<v Nao>What a shock.
+
+110
+00:06:41,160 --> 00:06:43,590
+<v Nao>He was my homeroom teacher 
+in middle school.
+
+111
+00:06:43,590 --> 00:06:47,200
+<v Nao>He helped me when my dad got sick and 
+with deciding what high school to attend.
+
+112
+00:06:47,200 --> 00:06:49,160
+<v Nao>He's such a kind teacher...
+
+113
+00:06:50,530 --> 00:06:52,210
+<v Nao>I can work with him!
+
+114
+00:06:52,670 --> 00:06:54,950
+<v Fujisawa>Talk about a lucky break.
+
+115
+00:06:54,950 --> 00:06:57,550
+<v Fujisawa>Never thought you'd be my opponent!
+
+116
+00:06:57,550 --> 00:06:59,000
+<v Nao>I feel the same!
+
+117
+00:06:59,450 --> 00:07:01,350
+<v Fujisawa>By the way, Kanzaki-kun...
+
+118
+00:07:01,760 --> 00:07:06,040
+<v Fujisawa>You don't honestly think this 
+is a real game where people
+
+119
+00:07:06,040 --> 00:07:10,150
+<v Fujisawa>are chosen at random to 
+play for money, do you?
+
+120
+00:07:10,150 --> 00:07:11,800
+<v Nao>You don't think it is?
+
+121
+00:07:11,800 --> 00:07:13,690
+<v Fujisawa>Absolutely not.
+
+122
+00:07:14,370 --> 00:07:19,790
+<v Fujisawa>This is a sham game that 
+neither player can ever win.
+
+123
+00:07:19,790 --> 00:07:21,200
+<v Nao>What?!
+
+124
+00:07:21,410 --> 00:07:25,840
+<v Fujisawa>Let's say you were up 
+against a complete stranger.
+
+125
+00:07:25,840 --> 00:07:30,350
+<v Fujisawa>If the 100 million went missing 
+while you were asleep, 
+
+126
+00:07:30,350 --> 00:07:32,880
+<v Fujisawa>you'd assume he took it, right?
+
+127
+00:07:33,500 --> 00:07:34,730
+<v Nao>Yes.
+
+128
+00:07:34,730 --> 00:07:40,360
+<v Fujisawa>But what if it was the Liar Game 
+Tournament Office that took it?
+
+129
+00:07:41,850 --> 00:07:46,600
+<v Fujisawa>They easily could. They have the names 
+and home addresses of all the players.
+
+130
+00:07:46,880 --> 00:07:51,380
+<v Fujisawa>But each player would assume
+that their opponent was the culprit.
+
+131
+00:07:51,730 --> 00:07:57,380
+<v Fujisawa>Then, when the game is over, 
+they're both 100 million in debt.
+
+132
+00:07:58,290 --> 00:07:59,720
+<v Nao>That's horrible.
+
+133
+00:07:59,720 --> 00:08:04,630
+<v Nao>If not for you, I definitely would 
+have fallen for their trick.
+
+134
+00:08:05,550 --> 00:08:09,700
+<v Fujisawa>Now that you see that, let's 
+move the money somewhere safe!
+
+135
+00:08:10,240 --> 00:08:15,880
+<v Fujisawa>The executive office could be
+ going after yours as we speak!
+
+136
+00:08:17,740 --> 00:08:18,640
+<v Nao>It's still here!
+
+137
+00:08:19,110 --> 00:08:20,840
+<v Nao>Thank goodness.
+
+138
+00:08:20,260 --> 00:08:23,270
+<v Fujisawa>Looks like they haven't made 
+their move just yet.
+
+139
+00:08:23,270 --> 00:08:26,400
+<v Nao>Sensei, what should I do with it?
+
+140
+00:08:27,180 --> 00:08:30,540
+<v Fujisawa>The smartest thing would 
+be to store it with mine
+
+141
+00:08:30,540 --> 00:08:34,460
+<v Fujisawa>in a safe deposit box at the 
+bank until the game is over.
+
+142
+00:08:34,460 --> 00:08:36,169
+<v Nao>Great idea!
+
+143
+00:08:36,169 --> 00:08:38,840
+<v Fujisawa>I'll make the arrangements.
+
+144
+00:08:38,840 --> 00:08:42,179
+<v Fujisawa>I'll accept full responsibility 
+for ensuring the money's safety.
+
+145
+00:08:42,860 --> 00:08:44,250
+<v Nao>Please take care of it.
+
+146
+00:08:55,430 --> 00:08:58,290
+<v Nao>At last, I can get a good night's sleep.
+
+147
+00:09:05,110 --> 00:09:08,890
+<v Nao>How long was I out?
+
+148
+00:09:14,500 --> 00:09:15,590
+<v Nao>What is this?
+
+149
+00:09:17,100 --> 00:09:19,780
+<v Nao>"Liar Game Progress Report."
+
+150
+00:09:16,280 --> 00:09:23,160
+<v sign>Progress Report
+
+151
+00:09:16,280 --> 00:09:23,160
+<v sign>Kazuo Fujisawa
+
+152
+00:09:16,280 --> 00:09:23,160
+<v sign>Nao Kanzaki
+
+153
+00:09:16,280 --> 00:09:23,160
+<v sign>You are currently losing. The game will end in 29 days.
+
+154
+00:09:20,320 --> 00:09:22,680
+<v Nao>"You are currently losing."
+
+155
+00:09:24,490 --> 00:09:26,000
+<v Nao>What in the world?
+
+156
+00:09:26,900 --> 00:09:30,540
+<v Fujisawa>Oh, so that's their play, is it?
+
+157
+00:09:31,100 --> 00:09:35,540
+<v Fujisawa>I suspect they've realized 
+we know each other.
+
+158
+00:09:35,540 --> 00:09:39,290
+<v Fujisawa>They can't scam us if we work together, 
+
+159
+00:09:39,830 --> 00:09:43,630
+<v Fujisawa>so they sent you that card 
+to sow distrust.
+
+160
+00:09:44,190 --> 00:09:45,690
+<v Nao>I see.
+
+161
+00:09:46,690 --> 00:09:50,430
+<v Nao>But of course I still trust you, Sensei!
+
+162
+00:09:50,430 --> 00:09:52,230
+<v Fujisawa>I know that, dear.
+
+163
+00:09:52,440 --> 00:09:54,730
+<v sign>Fujisawa-sensei
+
+164
+00:09:54,970 --> 00:09:57,420
+<v Nao>I feel so silly for saying that...
+
+165
+00:09:58,190 --> 00:09:59,560
+<v Nao>I know!
+
+166
+00:10:00,150 --> 00:10:03,500
+<v Nao>I'll go to his house 
+and apologize in person.
+
+167
+00:10:06,820 --> 00:10:10,610
+<v Fujisawa>Yeah, that's right! A hundred million!
+
+168
+00:10:10,610 --> 00:10:12,680
+<v Fujisawa>Enough to pay off my debts in one go!
+
+169
+00:10:12,680 --> 00:10:14,730
+<v Nao>Is he talking about the Liar Game?
+
+170
+00:10:15,460 --> 00:10:21,380
+<v Fujisawa>My opponent? One of my students 
+from five years ago!
+
+171
+00:10:21,380 --> 00:10:24,230
+<v Fujisawa>She's as honest as they come.
+
+172
+00:10:24,230 --> 00:10:26,730
+<v Fujisawa>She bought it hook, line, and sinker.
+
+173
+00:10:26,730 --> 00:10:29,720
+<v Fujisawa>She doesn't even realize
+ I stole her hundred million!
+
+174
+00:10:31,290 --> 00:10:33,890
+<v Fujisawa>She's stupidly honest.
+
+175
+00:10:45,330 --> 00:10:46,830
+<v sign>Progress Report
+
+176
+00:10:45,330 --> 00:10:46,830
+<v sign>Kazuo Fujisawa
+
+177
+00:10:45,330 --> 00:10:46,830
+<v sign>Nao Kanzaki
+
+178
+00:10:45,330 --> 00:10:46,830
+<v sign>You are currently losing. The game will end in 29 days.
+
+179
+00:10:47,770 --> 00:10:49,030
+<v Nao>"Liar"?
+
+180
+00:10:50,500 --> 00:10:51,720
+<v Nao>One who lies...
+
+181
+00:10:53,610 --> 00:10:54,520
+<v Nao>It can't be!
+
+182
+00:10:55,710 --> 00:10:58,730
+<v Nao>That's it. He...
+
+183
+00:11:00,600 --> 00:11:02,220
+<v Nao>He tricked me!
+
+184
+00:11:12,250 --> 00:11:16,420
+<v Nao>At last, I realized what had happened.
+
+185
+00:11:24,390 --> 00:11:26,060
+<v Nao>I have to get it back...
+
+186
+00:11:27,210 --> 00:11:31,080
+<v Nao>I have to get that 100 million back!
+
+187
+00:11:32,950 --> 00:11:37,370
+<v Nao>For advice on a con, 
+it's best to talk to a con artist.
+
+188
+00:11:38,410 --> 00:11:40,100
+<v Nao>A con artist...
+
+189
+00:11:47,010 --> 00:11:48,580
+<v sign>The Latest on Massive Scam
+Genius Con Artist to Be Released Soon
+
+190
+00:11:48,580 --> 00:11:50,020
+<v sign>The Latest on Massive Scam
+Genius Con Artist to Be Released Soon
+
+191
+00:11:50,200 --> 00:11:52,250
+<v sign>Genius Con Artist to Be Released Soon
+
+192
+00:11:51,040 --> 00:11:54,020
+<v Nao>The genius con artist
+
+193
+00:11:54,520 --> 00:11:58,380
+<v Nao>who took down the corrupt business
+ network Shuei Corporation, 
+
+194
+00:11:58,380 --> 00:12:03,340
+<v Nao>Shinichi Akiyama, 
+will soon complete his sentence.
+
+195
+00:12:00,530 --> 00:12:05,030
+<v sign>Shinichi Akiyama, soon to be released
+
+196
+00:12:06,030 --> 00:12:07,540
+<v Reporter A>Should be just about time.
+
+197
+00:12:10,040 --> 00:12:10,850
+<v Reporter B>That him?
+
+198
+00:12:11,400 --> 00:12:14,600
+<v Reporter C>No, it's a different convict.
+
+199
+00:12:16,770 --> 00:12:18,310
+<v Guard A>Excuse us.
+
+200
+00:12:19,230 --> 00:12:22,170
+<v Guard A>Could we ask you to get going?
+
+201
+00:12:22,170 --> 00:12:24,270
+<v Reporter A>Where's Akiyama?
+
+202
+00:12:24,270 --> 00:12:25,750
+<v Guard B (Akiyama)>He's been released.
+
+203
+00:12:25,750 --> 00:12:27,690
+<v Reporter B>But that wasn't him.
+
+204
+00:12:27,970 --> 00:12:31,550
+<v Guard B (Akiyama)>Akiyama is a master of disguise, you know.
+
+205
+00:12:33,310 --> 00:12:34,510
+<v Reporter A>He tricked us!
+
+206
+00:12:34,510 --> 00:12:36,830
+<v Reporter B>After him! We can still make it!
+
+207
+00:12:40,510 --> 00:12:44,700
+<v Guard A>Nice work driving them off, Akiyama.
+
+208
+00:12:47,130 --> 00:12:48,620
+<v Nao>What will I do?!
+
+209
+00:12:49,330 --> 00:12:50,990
+<v Nao>Where's the way in?
+
+210
+00:12:50,990 --> 00:12:53,160
+<v Nao>How could I get lost now, of all times?
+
+211
+00:12:56,950 --> 00:12:58,890
+<v Nao>Ow...
+
+212
+00:13:00,120 --> 00:13:02,140
+<v Nao>I-I'm so sorry.
+
+213
+00:13:02,570 --> 00:13:03,370
+<v Nao>Um...
+
+214
+00:13:06,700 --> 00:13:08,520
+<v Nao>Are you Akiyama-san?!
+
+215
+00:13:11,330 --> 00:13:13,030
+<v Akiyama>You've got the wrong guy.
+
+216
+00:13:13,030 --> 00:13:14,420
+<v Nao>Wait!
+
+217
+00:13:15,510 --> 00:13:18,760
+<v Nao>Please, help me!
+
+218
+00:13:19,270 --> 00:13:22,990
+<v Nao>I was betrayed by someone I trusted.
+
+219
+00:13:24,470 --> 00:13:27,760
+<v Nao>He took 100 million yen from me.
+
+220
+00:13:30,580 --> 00:13:33,680
+<v Akiyama>There's nothing I can do to help you.
+
+221
+00:13:34,480 --> 00:13:37,230
+<v Akiyama>Talk to the cops or a lawyer or something.
+
+222
+00:13:37,790 --> 00:13:39,090
+<v Nao>I can't!
+
+223
+00:13:39,520 --> 00:13:42,410
+<v Nao>You're the only person who can help me!
+
+224
+00:13:44,910 --> 00:13:48,970
+<v Akiyama>Do you realize what you're saying?
+
+225
+00:13:49,800 --> 00:13:52,620
+<v Akiyama>You're asking a man 
+who just got out of prison
+
+226
+00:13:52,620 --> 00:13:55,260
+<v Akiyama>to help you steal 100 million yen.
+
+227
+00:13:55,800 --> 00:14:00,020
+<v Akiyama>Even if someone scammed you out of it, 
+stealing that money back is theft.
+
+228
+00:14:00,860 --> 00:14:05,050
+<v Akiyama>You're asking me to get 
+myself arrested again!
+
+229
+00:14:06,120 --> 00:14:07,590
+<v Nao>Well...
+
+230
+00:14:28,130 --> 00:14:30,470
+<v Akiyama>How long are you going to follow me?
+
+231
+00:14:30,470 --> 00:14:33,600
+<v Nao>Until you hear me out.
+
+232
+00:14:35,440 --> 00:14:38,980
+<v Akiyama>Fine. I'll listen to your story, at least.
+
+233
+00:14:39,600 --> 00:14:42,840
+<v Akiyama>I'm going to drop my stuff off
+ at my place, so just wait there.
+
+234
+00:14:43,260 --> 00:14:44,800
+<v Akiyama>Wait right there.
+
+235
+00:14:45,490 --> 00:14:46,540
+<v Nao>Okay!
+
+236
+00:14:47,230 --> 00:14:51,470
+<v sign>Izakaya Yocchan
+Japanese Sake, 
+ Shochu, Craft Beer
+
+237
+00:14:54,250 --> 00:14:55,770
+<v Bartender>Thanks for coming.
+
+238
+00:14:57,180 --> 00:14:59,580
+<v Nao>He's been gone a while...
+
+239
+00:15:02,000 --> 00:15:03,550
+<v Akiyama>She's still waiting?
+
+240
+00:15:04,790 --> 00:15:07,000
+<v sign>Izakaya Yocchan
+
+241
+00:15:05,410 --> 00:15:07,000
+<v Punk A>Hey!
+
+242
+00:15:07,000 --> 00:15:09,260
+<v Punk A>Let's have some fun, girlie.
+
+243
+00:15:09,260 --> 00:15:11,660
+<v Nao>I'm waiting for someone.
+
+244
+00:15:11,660 --> 00:15:14,020
+<v Punk A>Come on. You've been here for hours.
+
+245
+00:15:14,020 --> 00:15:19,220
+<v Punk B>I think you're looking for a man 
+who'll really rock your world—
+
+246
+00:15:19,580 --> 00:15:21,160
+<v Nao>Akiyama-san!
+
+247
+00:15:21,160 --> 00:15:22,970
+<v Akiyama>Sorry for the long wait.
+
+248
+00:15:23,220 --> 00:15:24,290
+<v Akiyama>Let's go.
+
+249
+00:15:24,700 --> 00:15:25,610
+<v Nao>Okay!
+
+250
+00:15:26,610 --> 00:15:28,610
+<v sign>Strawberry au Lait
+
+251
+00:15:26,610 --> 00:15:28,610
+<v sign>Umeboshi Rice Ball
+
+252
+00:15:26,610 --> 00:15:28,610
+<v sign>Coarse Red Bean Bun
+
+253
+00:15:30,130 --> 00:15:31,790
+<v Akiyama>You can really pack it in.
+
+254
+00:15:33,270 --> 00:15:36,330
+<v Nao>I didn't have anything to eat 
+the whole time I was waiting.
+
+255
+00:15:36,820 --> 00:15:39,670
+<v Akiyama>Why the hell not? You could've passed out.
+
+256
+00:15:39,670 --> 00:15:42,880
+<v Nao>But you told me to wait right there...
+
+257
+00:15:43,980 --> 00:15:49,150
+<v Akiyama>Seriously? Most people would get
+ the hint after a couple of hours.
+
+258
+00:15:49,150 --> 00:15:51,500
+<v Nao>Huh? What did you just say?
+
+259
+00:15:53,530 --> 00:15:56,880
+<v Akiyama>You're stupidly honest. 
+This is why you got scammed.
+
+260
+00:16:00,340 --> 00:16:03,590
+<v Nao>Is it wrong to be stupidly honest?
+
+261
+00:16:06,500 --> 00:16:09,420
+<v Akiyama>Tell me about your 100 million.
+
+262
+00:16:12,050 --> 00:16:14,210
+<v Akiyama>The Liar Game, huh?
+
+263
+00:16:14,210 --> 00:16:17,170
+<v Akiyama>Seems hard to believe, but...
+
+264
+00:16:17,970 --> 00:16:19,700
+<v Akiyama>What do you want to do?
+
+265
+00:16:20,290 --> 00:16:22,140
+<v Akiyama>Win the game?
+
+266
+00:16:22,140 --> 00:16:25,360
+<v Akiyama>Or wash your hands of the 
+whole shady business?
+
+267
+00:16:26,490 --> 00:16:28,020
+<v Nao>I want out!
+
+268
+00:16:28,020 --> 00:16:31,730
+<v Nao>I just want to get back my 
+100 million and call it a day!
+
+269
+00:16:32,310 --> 00:16:34,300
+<v Akiyama>That's simple, then.
+
+270
+00:16:34,300 --> 00:16:38,910
+<v Akiyama>We'll tell your teacher how you feel 
+and get him to return your money.
+
+271
+00:16:42,810 --> 00:16:46,250
+<v Fujisawa>Hey, Kanzaki-kun. Who's that with you?
+
+272
+00:16:46,840 --> 00:16:48,070
+<v Nao>Sensei...
+
+273
+00:16:48,480 --> 00:16:52,710
+<v Nao>Will you please return 
+my 100 million now?
+
+274
+00:16:53,440 --> 00:16:55,560
+<v Fujisawa>Where's this coming from?
+
+275
+00:16:55,560 --> 00:16:59,030
+<v Fujisawa>I told you, it's in a safe at the bank.
+
+276
+00:16:59,030 --> 00:17:02,940
+<v Fujisawa>The safe can only be accessed 
+during the bank's business hours.
+
+277
+00:17:02,940 --> 00:17:07,950
+<v Fujisawa>And for your safety, it's best to 
+keep it there until the game's over.
+
+278
+00:17:08,380 --> 00:17:11,150
+<v Nao>I overheard you...
+
+279
+00:17:11,150 --> 00:17:13,839
+<v Nao>What you said on the telephone.
+
+280
+00:17:14,470 --> 00:17:18,630
+<v Nao>That you'd scammed 100 million 
+yen from a student.
+
+281
+00:17:19,040 --> 00:17:22,680
+<v Fujisawa>D-Don't know what you're talking about!
+
+282
+00:17:22,680 --> 00:17:24,819
+<v Akiyama>I'll keep this brief.
+
+283
+00:17:25,530 --> 00:17:27,950
+<v Akiyama>Return her 100 million.
+
+284
+00:17:28,470 --> 00:17:32,610
+<v Akiyama>Do it by tomorrow, or we're 
+taking you to the police.
+
+285
+00:17:32,610 --> 00:17:34,540
+<v Fujisawa>Th-The police?!
+
+286
+00:17:34,540 --> 00:17:37,490
+<v Fujisawa>This is just a game! 
+It's there in the rules!
+
+287
+00:17:37,490 --> 00:17:40,360
+<v Fujisawa>Any game money taken 
+isn't considered a crime!
+
+288
+00:17:40,890 --> 00:17:44,120
+<v Akiyama>So you acknowledge that this is a game?
+
+289
+00:17:45,630 --> 00:17:48,870
+<v Akiyama>You see all of this as a game.
+
+290
+00:17:48,870 --> 00:17:52,510
+<v Akiyama>Which is why you tricked her 
+and took her 100 million.
+
+291
+00:18:01,380 --> 00:18:04,160
+<v Fujisawa>That's right! I tricked her!
+
+292
+00:18:04,160 --> 00:18:07,040
+<v Fujisawa>But you're in no position 
+to criticize me for it!
+
+293
+00:18:07,040 --> 00:18:09,890
+<v Fujisawa>Because this is all just a game!
+
+294
+00:18:09,890 --> 00:18:15,150
+<v Fujisawa>If I hadn't taken her 100 million, 
+she might have taken mine!
+
+295
+00:18:15,150 --> 00:18:17,410
+<v Nao>I would never do that!
+
+296
+00:18:17,810 --> 00:18:23,050
+<v Fujisawa>I don't believe you. 
+People just aren't trustworthy.
+
+297
+00:18:23,740 --> 00:18:28,510
+<v Fujisawa>I was in charge of class trips
+ at my old school.
+
+298
+00:18:28,920 --> 00:18:33,270
+<v Fujisawa>Every year, I booked with 
+the same travel agency, 
+
+299
+00:18:33,270 --> 00:18:38,540
+<v Fujisawa>and the head of the agency paid me 
+a small kickback as a thank-you.
+
+300
+00:18:38,920 --> 00:18:44,170
+<v Fujisawa>But one year, they said they 
+weren't going to pay me.
+
+301
+00:18:44,170 --> 00:18:47,730
+<v Fujisawa>And when I said I'd use another agency, 
+
+302
+00:18:47,730 --> 00:18:52,390
+<v Fujisawa>the bastards snitched on me 
+to the board of education!
+
+303
+00:18:54,440 --> 00:18:56,940
+<v Fujisawa>I was fired on the spot.
+
+304
+00:18:57,330 --> 00:19:00,690
+<v Fujisawa>My family left me.
+
+305
+00:19:00,690 --> 00:19:03,350
+<v Fujisawa>That's just what people do!
+
+306
+00:19:03,350 --> 00:19:05,700
+<v Fujisawa>When you trust them, 
+ they make a fool of you!
+
+307
+00:19:05,700 --> 00:19:08,660
+<v Fujisawa>But then I got the message 
+about the Liar Game.
+
+308
+00:19:08,660 --> 00:19:12,700
+<v Fujisawa>"I'm saved. There really 
+is a God, " I thought.
+
+309
+00:19:12,700 --> 00:19:17,080
+<v Fujisawa>So I have to win this game!
+
+310
+00:19:17,080 --> 00:19:20,470
+<v Nao>Don't say that! Please help me, Sensei!
+
+311
+00:19:20,470 --> 00:19:22,620
+<v Nao>My father has terminal cancer.
+
+312
+00:19:22,620 --> 00:19:27,010
+<v Nao>I just want to make sure
+ his final days are peaceful.
+
+313
+00:19:27,580 --> 00:19:31,720
+<v Nao>If I end up 100 million in debt now...
+
+314
+00:19:31,720 --> 00:19:33,970
+<v Fujisawa>I don't give a damn!
+
+315
+00:19:33,970 --> 00:19:37,200
+<v Fujisawa>I don't give a damn about your dad!
+
+316
+00:19:37,200 --> 00:19:41,410
+<v Fujisawa>I don't give a damn 
+about anyone but myself!
+
+317
+00:19:42,250 --> 00:19:47,490
+<v Fujisawa>Well, good luck thinking of a way
+ to get the 100 million back.
+
+318
+00:19:52,500 --> 00:19:55,860
+<v Akiyama>Hard to believe he was ever a teacher.
+
+319
+00:19:57,160 --> 00:19:59,730
+<v Akiyama>Money really changes people.
+
+320
+00:19:59,730 --> 00:20:02,580
+<v Akiyama>I've seen more than my share
+ of that in the past.
+
+321
+00:20:05,610 --> 00:20:08,030
+<v Akiyama>Crying won't get you out of this.
+
+322
+00:20:08,740 --> 00:20:15,510
+<v Nao>A teacher I trusted put me
+100 million yen in debt!
+
+323
+00:20:16,190 --> 00:20:19,480
+<v Akiyama>You're not actually in debt yet.
+
+324
+00:20:19,930 --> 00:20:23,650
+<v Nao>But the money's stowed 
+in a safe deposit box.
+
+325
+00:20:24,160 --> 00:20:25,710
+<v Akiyama>A safe deposit box...
+
+326
+00:20:26,190 --> 00:20:30,700
+<v Akiyama>Ironically, Fujisawa just 
+exposed his own weakness.
+
+327
+00:20:32,010 --> 00:20:33,410
+<v Nao>His weakness?
+
+328
+00:20:34,440 --> 00:20:39,280
+<v Akiyama>Safe deposit boxes can only be
+ accessed when the bank is open.
+
+329
+00:20:40,370 --> 00:20:42,670
+<v Akiyama>How long does the game last?
+
+330
+00:20:43,450 --> 00:20:45,950
+<v Nao>There's 23 days left.
+
+331
+00:20:45,950 --> 00:20:50,120
+<v Nao>So it ends on June 14th... A Sunday.
+
+332
+00:20:46,930 --> 00:20:50,930
+<v sign>Game Ends
+
+333
+00:20:52,670 --> 00:20:55,540
+<v Akiyama>No one's getting into the safe that day.
+
+334
+00:20:56,440 --> 00:21:01,720
+<v Nao>He'd have to take the money 
+out by 5:00 that Friday.
+
+335
+00:21:02,290 --> 00:21:06,950
+<v Nao>Which means it'll be out of the safe 
+for two days before the deadline!
+
+336
+00:21:07,650 --> 00:21:10,070
+<v Akiyama>In other words, this isn't over yet.
+
+337
+00:21:11,570 --> 00:21:17,410
+<v Nao>But even once the money's out of the safe, 
+it won't be easy to steal, will it?
+
+338
+00:21:17,720 --> 00:21:20,780
+<v Akiyama>Don't worry. I have a plan.
+
+339
+00:21:21,160 --> 00:21:22,750
+<v Nao>Really?!
+
+340
+00:21:22,750 --> 00:21:25,380
+<v Nao>Wait, does that mean...
+
+341
+00:21:26,220 --> 00:21:30,670
+<v Nao>Akiyama-san, you're going to help me?!
+
+342
+00:21:31,390 --> 00:21:35,840
+<v Akiyama>I refuse to be an accomplice to a crime, 
+
+343
+00:21:35,840 --> 00:21:39,110
+<v Akiyama>but Fujisawa admitted 
+that this was just a game.
+
+344
+00:21:40,250 --> 00:21:46,110
+<v Akiyama>If it's just a game, and you're ready to
+do what it takes to steal his 100 million, 
+
+345
+00:21:46,800 --> 00:21:48,260
+<v Akiyama>I'm happy to help you.
+
+346
+00:21:50,390 --> 00:21:53,030
+<v Nao>I am ready.
+
+347
+00:21:54,940 --> 00:21:56,990
+<v Akiyama>I don't work cheap.
+
+348
+00:21:56,990 --> 00:21:58,640
+<v Akiyama>We split your gains evenly.
+
+349
+00:21:58,640 --> 00:22:02,240
+<v Akiyama>Meaning if we steal the whole pot, 
+ I expect 50 million.
+
+350
+00:22:04,290 --> 00:22:07,410
+<v Nao>Thank you so much! It's a deal!
+
+351
+00:22:07,410 --> 00:22:09,240
+<v Akiyama>Keep your voice down, stupid.
+
+352
+00:23:45,060 --> 00:23:50,140
+<v Sign>Next Time
+
+353
+00:23:45,060 --> 00:23:50,140
+<v Sign>Shockwave

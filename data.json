@@ -745,5 +745,12 @@
     "slug": "theugly2025",
     "lang": "English",
     "file": "movies/theugly2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The_Ugly_2025_",
+    "slug": "theugly2025",
+    "lang": "Sinhala",
+    "file": "movies/theugly2025-sin.srt"
   }
 ]

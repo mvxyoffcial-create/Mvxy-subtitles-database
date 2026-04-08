@@ -710,5 +710,12 @@
     "slug": "liargames01e01",
     "lang": "Sinhala",
     "file": "tv/liargames01e01-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Daredevil_Born_Again_2026_S02_EP 04",
+    "slug": "daredevilbornagain2026s02ep-04",
+    "lang": "English",
+    "file": "tv/daredevilbornagain2026s02ep-04-eng.srt"
   }
 ]

@@ -724,5 +724,12 @@
     "slug": "daredevilbornagain2026s02ep-04",
     "lang": "Sinhala",
     "file": "tv/daredevilbornagain2026s02ep-04-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Kadhal Reset Repeat 2026",
+    "slug": "kadhal-reset-repeat-2026",
+    "lang": "English",
+    "file": "movies/kadhal-reset-repeat-2026-eng.srt"
   }
 ]

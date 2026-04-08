@@ -738,5 +738,12 @@
     "slug": "kadhal-reset-repeat-2026",
     "lang": "Sinhala",
     "file": "movies/kadhal-reset-repeat-2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The_Ugly_2025_",
+    "slug": "theugly2025",
+    "lang": "English",
+    "file": "movies/theugly2025-eng.srt"
   }
 ]

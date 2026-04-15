@@ -766,5 +766,12 @@
     "slug": "daredevilbornagain2026s02ep-5",
     "lang": "Sinhala",
     "file": "tv/daredevilbornagain2026s02ep-5-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Legend.of.Aang.The.Last.Airbender.2026",
+    "slug": "thelegendofaangthelastairbender2026",
+    "lang": "English",
+    "file": "movies/thelegendofaangthelastairbender2026-eng.srt"
   }
 ]

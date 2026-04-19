@@ -787,5 +787,12 @@
     "slug": "sendhelp2026",
     "lang": "English",
     "file": "movies/sendhelp2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Send.Help.2026",
+    "slug": "sendhelp2026",
+    "lang": "Sinhala",
+    "file": "movies/sendhelp2026-sin.srt"
   }
 ]

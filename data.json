@@ -801,5 +801,12 @@
     "slug": "starwarsmaulshadowlords01e03",
     "lang": "English",
     "file": "tv/starwarsmaulshadowlords01e03-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Star_Wars_Maul_Shadow_Lord_S01E03_",
+    "slug": "starwarsmaulshadowlords01e03",
+    "lang": "Sinhala",
+    "file": "tv/starwarsmaulshadowlords01e03-sin.srt"
   }
 ]

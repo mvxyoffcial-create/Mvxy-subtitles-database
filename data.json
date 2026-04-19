@@ -822,5 +822,12 @@
     "slug": "starwarsmaulshadowlords01e04",
     "lang": "Sinhala",
     "file": "tv/starwarsmaulshadowlords01e04-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Youth 2026",
+    "slug": "youth-2026",
+    "lang": "English",
+    "file": "tv/youth-2026-eng.srt"
   }
 ]

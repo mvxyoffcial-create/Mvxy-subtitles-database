@@ -815,5 +815,12 @@
     "slug": "starwarsmaulshadowlords01e04",
     "lang": "English",
     "file": "tv/starwarsmaulshadowlords01e04-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Star_Wars_Maul_Shadow_Lord_S01E04",
+    "slug": "starwarsmaulshadowlords01e04",
+    "lang": "Sinhala",
+    "file": "tv/starwarsmaulshadowlords01e04-sin.srt"
   }
 ]

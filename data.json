@@ -829,5 +829,12 @@
     "slug": "youth-2026",
     "lang": "English",
     "file": "tv/youth-2026-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Youth 2026",
+    "slug": "youth-2026",
+    "lang": "Sinhala",
+    "file": "tv/youth-2026-sin.srt"
   }
 ]

@@ -794,5 +794,12 @@
     "slug": "sendhelp2026",
     "lang": "Sinhala",
     "file": "movies/sendhelp2026-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Star_Wars_Maul_Shadow_Lord_S01E03_",
+    "slug": "starwarsmaulshadowlords01e03",
+    "lang": "English",
+    "file": "tv/starwarsmaulshadowlords01e03-eng.srt"
   }
 ]

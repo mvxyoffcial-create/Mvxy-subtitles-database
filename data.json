@@ -843,5 +843,12 @@
     "slug": "180-2026",
     "lang": "English",
     "file": "movies/180-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "180 2026",
+    "slug": "180-2026",
+    "lang": "Sinhala",
+    "file": "movies/180-2026-sin.srt"
   }
 ]

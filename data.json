@@ -913,5 +913,12 @@
     "slug": "avengersendgame2019",
     "lang": "English",
     "file": "movies/avengersendgame2019-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Avengers_Endgame_2019",
+    "slug": "avengersendgame2019",
+    "lang": "Sinhala",
+    "file": "movies/avengersendgame2019-sin.srt"
   }
 ]

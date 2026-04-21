@@ -878,5 +878,12 @@
     "slug": "starwarsmaulshadowlords01e06",
     "lang": "Sinhala",
     "file": "tv/starwarsmaulshadowlords01e06-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Avengers.Age.of.Ultron.2015",
+    "slug": "avengersageofultron2015",
+    "lang": "English",
+    "file": "movies/avengersageofultron2015-eng.srt"
   }
 ]

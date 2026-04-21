@@ -850,5 +850,12 @@
     "slug": "180-2026",
     "lang": "Sinhala",
     "file": "movies/180-2026-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Star_Wars_Maul_Shadow_Lord_S01E05",
+    "slug": "starwarsmaulshadowlords01e05",
+    "lang": "English",
+    "file": "tv/starwarsmaulshadowlords01e05-eng.srt"
   }
 ]

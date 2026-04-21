@@ -892,5 +892,12 @@
     "slug": "avengersageofultron2015",
     "lang": "Sinhala",
     "file": "movies/avengersageofultron2015-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Avengers_Infinity_War_2018",
+    "slug": "avengersinfinitywar2018",
+    "lang": "English",
+    "file": "movies/avengersinfinitywar2018-eng.srt"
   }
 ]

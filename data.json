@@ -885,5 +885,12 @@
     "slug": "avengersageofultron2015",
     "lang": "English",
     "file": "movies/avengersageofultron2015-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Avengers.Age.of.Ultron.2015",
+    "slug": "avengersageofultron2015",
+    "lang": "Sinhala",
+    "file": "movies/avengersageofultron2015-sin.srt"
   }
 ]

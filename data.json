@@ -962,5 +962,12 @@
     "slug": "unchosens01e02",
     "lang": "Sinhala",
     "file": "tv/unchosens01e02-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Unchosen_S01E03",
+    "slug": "unchosens01e03",
+    "lang": "English",
+    "file": "tv/unchosens01e03-eng.srt"
   }
 ]

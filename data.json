@@ -1067,5 +1067,12 @@
     "slug": "do-deewane-seher-mein-2026",
     "lang": "English",
     "file": "movies/do-deewane-seher-mein-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Do Deewane Seher Mein 2026",
+    "slug": "do-deewane-seher-mein-2026",
+    "lang": "Sinhala",
+    "file": "movies/do-deewane-seher-mein-2026-sin.srt"
   }
 ]

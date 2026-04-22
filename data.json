@@ -1053,5 +1053,12 @@
     "slug": "thesupermariobrosmovie2023",
     "lang": "Sinhala",
     "file": "movies/thesupermariobrosmovie2023-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Reminders_of_Him_2026",
+    "slug": "remindersofhim2026",
+    "lang": "English",
+    "file": "movies/remindersofhim2026-eng.srt"
   }
 ]

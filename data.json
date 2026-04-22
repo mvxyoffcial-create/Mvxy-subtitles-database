@@ -1039,5 +1039,12 @@
     "slug": "thesupermariogalaxymovie2026",
     "lang": "Sinhala",
     "file": "movies/thesupermariogalaxymovie2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Super.Mario.Bros.Movie.2023",
+    "slug": "thesupermariobrosmovie2023",
+    "lang": "English",
+    "file": "movies/thesupermariobrosmovie2023-eng.srt"
   }
 ]

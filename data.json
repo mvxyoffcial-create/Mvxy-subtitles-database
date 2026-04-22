@@ -934,5 +934,12 @@
     "slug": "daredevilbornagain2026s02ep-6",
     "lang": "Sinhala",
     "file": "tv/daredevilbornagain2026s02ep-6-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Unchosen_S01E01",
+    "slug": "unchosens01e01",
+    "lang": "English",
+    "file": "tv/unchosens01e01-eng.srt"
   }
 ]

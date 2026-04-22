@@ -1018,5 +1018,12 @@
     "slug": "unchosens01e06",
     "lang": "Sinhala",
     "file": "tv/unchosens01e06-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Unchosen_S01E06",
+    "slug": "unchosens01e06",
+    "lang": "English",
+    "file": "movies/unchosens01e06-eng.srt"
   }
 ]

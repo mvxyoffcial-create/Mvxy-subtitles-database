@@ -1032,5 +1032,12 @@
     "slug": "thesupermariogalaxymovie2026",
     "lang": "English",
     "file": "movies/thesupermariogalaxymovie2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The_Super_Mario_Galaxy_Movie_2026_",
+    "slug": "thesupermariogalaxymovie2026",
+    "lang": "Sinhala",
+    "file": "movies/thesupermariogalaxymovie2026-sin.srt"
   }
 ]

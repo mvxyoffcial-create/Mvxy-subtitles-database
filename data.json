@@ -1088,5 +1088,12 @@
     "slug": "scarlet-2025",
     "lang": "Sinhala",
     "file": "movies/scarlet-2025-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Hulk Hogan real america S01 E01",
+    "slug": "hulk-hogan-real-america-s01-e01",
+    "lang": "English",
+    "file": "tv/hulk-hogan-real-america-s01-e01-eng.srt"
   }
 ]

@@ -1074,5 +1074,12 @@
     "slug": "do-deewane-seher-mein-2026",
     "lang": "Sinhala",
     "file": "movies/do-deewane-seher-mein-2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Scarlet 2025",
+    "slug": "scarlet-2025",
+    "lang": "English",
+    "file": "movies/scarlet-2025-eng.srt"
   }
 ]

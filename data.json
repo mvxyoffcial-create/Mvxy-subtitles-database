@@ -1081,5 +1081,12 @@
     "slug": "scarlet-2025",
     "lang": "English",
     "file": "movies/scarlet-2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Scarlet 2025",
+    "slug": "scarlet-2025",
+    "lang": "Sinhala",
+    "file": "movies/scarlet-2025-sin.srt"
   }
 ]

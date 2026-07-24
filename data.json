@@ -1270,5 +1270,12 @@
     "slug": "72-hours2026",
     "lang": "English",
     "file": "tv/72-hours2026-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "72 hours2026",
+    "slug": "72-hours2026",
+    "lang": "Sinhala",
+    "file": "tv/72-hours2026-sin.srt"
   }
 ]

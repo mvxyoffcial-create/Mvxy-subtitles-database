@@ -1277,5 +1277,12 @@
     "slug": "72-hours2026",
     "lang": "Sinhala",
     "file": "tv/72-hours2026-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "The Westies 2026",
+    "slug": "the-westies-2026",
+    "lang": "English",
+    "file": "tv/the-westies-2026-eng.srt"
   }
 ]

@@ -1347,5 +1347,12 @@
     "slug": "yowayowa-sensei-s01e03",
     "lang": "English",
     "file": "movies/yowayowa-sensei-s01e03-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Yowayowa Sensei S01E03",
+    "slug": "yowayowa-sensei-s01e03",
+    "lang": "Sinhala",
+    "file": "movies/yowayowa-sensei-s01e03-sin.srt"
   }
 ]

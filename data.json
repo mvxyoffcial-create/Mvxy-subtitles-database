@@ -1333,5 +1333,12 @@
     "slug": "super-girl-2026",
     "lang": "English",
     "file": "movies/super-girl-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Super girl 2026",
+    "slug": "super-girl-2026",
+    "lang": "Sinhala",
+    "file": "movies/super-girl-2026-sin.srt"
   }
 ]

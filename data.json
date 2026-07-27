@@ -1319,5 +1319,12 @@
     "slug": "in-the-grey-2026",
     "lang": "English",
     "file": "movies/in-the-grey-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "In the grey 2026",
+    "slug": "in-the-grey-2026",
+    "lang": "Sinhala",
+    "file": "movies/in-the-grey-2026-sin.srt"
   }
 ]

@@ -1312,5 +1312,12 @@
     "slug": "yowayowa-sensei-2026-s01-e02",
     "lang": "Sinhala",
     "file": "tv/yowayowa-sensei-2026-s01-e02-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "In the grey 2026",
+    "slug": "in-the-grey-2026",
+    "lang": "English",
+    "file": "movies/in-the-grey-2026-eng.srt"
   }
 ]

@@ -1354,5 +1354,12 @@
     "slug": "yowayowa-sensei-s01e03",
     "lang": "Sinhala",
     "file": "movies/yowayowa-sensei-s01e03-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Avatar_Aang_The_Last_Airbender 2026",
+    "slug": "avataraangthelastairbender-2026",
+    "lang": "English",
+    "file": "movies/avataraangthelastairbender-2026-eng.srt"
   }
 ]

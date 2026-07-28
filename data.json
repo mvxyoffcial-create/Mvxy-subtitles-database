@@ -1361,5 +1361,12 @@
     "slug": "avataraangthelastairbender-2026",
     "lang": "English",
     "file": "movies/avataraangthelastairbender-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Avatar_Aang_The_Last_Airbender 2026",
+    "slug": "avataraangthelastairbender-2026",
+    "lang": "Sinhala",
+    "file": "movies/avataraangthelastairbender-2026-sin.srt"
   }
 ]

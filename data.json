@@ -1459,5 +1459,12 @@
     "slug": "sparksoftomorrows01e01",
     "lang": "English",
     "file": "tv/sparksoftomorrows01e01-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Sparks_of_Tomorrow_S01E02",
+    "slug": "sparksoftomorrows01e02",
+    "lang": "English",
+    "file": "tv/sparksoftomorrows01e02-eng.srt"
   }
 ]

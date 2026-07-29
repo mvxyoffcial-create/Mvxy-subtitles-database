@@ -1578,5 +1578,12 @@
     "slug": "smoking-behind-the-supermarket-with-you-and-more-s01-e03",
     "lang": "English",
     "file": "tv/smoking-behind-the-supermarket-with-you-and-more-s01-e03-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Chainsmoker_Cat_S01E01",
+    "slug": "chainsmokercats01e01",
+    "lang": "English",
+    "file": "tv/chainsmokercats01e01-eng.srt"
   }
 ]

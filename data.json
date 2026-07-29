@@ -1494,5 +1494,12 @@
     "slug": "tamonsbsides01e02",
     "lang": "English",
     "file": "tv/tamonsbsides01e02-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Tamon's_B_Side_S01E03",
+    "slug": "tamonsbsides01e03",
+    "lang": "English",
+    "file": "tv/tamonsbsides01e03-eng.srt"
   }
 ]

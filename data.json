@@ -1543,5 +1543,12 @@
     "slug": "tombraiderkings01e01",
     "lang": "English",
     "file": "tv/tombraiderkings01e01-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "I_Became_a_Legend_After_My_10_Year_Long_Last_Stand_S01E01",
+    "slug": "ibecamealegendaftermy10yearlonglaststands01e01",
+    "lang": "English",
+    "file": "tv/ibecamealegendaftermy10yearlonglaststands01e01-eng.srt"
   }
 ]

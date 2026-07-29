@@ -1480,5 +1480,12 @@
     "slug": "sparksoftomorrows01e04",
     "lang": "English",
     "file": "tv/sparksoftomorrows01e04-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Tamon's_B_Side_S01E01",
+    "slug": "tamonsbsides01e01",
+    "lang": "English",
+    "file": "tv/tamonsbsides01e01-eng.srt"
   }
 ]

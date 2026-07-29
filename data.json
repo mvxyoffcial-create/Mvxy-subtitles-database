@@ -1452,5 +1452,12 @@
     "slug": "chinnachinnaaasai2026",
     "lang": "Sinhala",
     "file": "movies/chinnachinnaaasai2026-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Sparks_of_Tomorrow_S01E01",
+    "slug": "sparksoftomorrows01e01",
+    "lang": "English",
+    "file": "tv/sparksoftomorrows01e01-eng.srt"
   }
 ]

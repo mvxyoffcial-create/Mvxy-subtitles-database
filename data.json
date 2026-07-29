@@ -1438,5 +1438,12 @@
     "slug": "yowayowa-sensei-2026-s01-e08",
     "lang": "Sinhala",
     "file": "tv/yowayowa-sensei-2026-s01-e08-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Chinna.Chinna.Aasai.2026",
+    "slug": "chinnachinnaaasai2026",
+    "lang": "English",
+    "file": "movies/chinnachinnaaasai2026-eng.srt"
   }
 ]

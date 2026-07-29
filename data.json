@@ -1536,5 +1536,12 @@
     "slug": "tamonsbsides01e08",
     "lang": "English",
     "file": "tv/tamonsbsides01e08-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Tomb_Raider_King_S01E01",
+    "slug": "tombraiderkings01e01",
+    "lang": "English",
+    "file": "tv/tombraiderkings01e01-eng.srt"
   }
 ]

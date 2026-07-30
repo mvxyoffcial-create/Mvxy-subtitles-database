@@ -1620,5 +1620,12 @@
     "slug": "anaffair2018",
     "lang": "English",
     "file": "movies/anaffair2018-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Jurassic.Park.II.The.Lost.World.1997",
+    "slug": "jurassicparkiithelostworld1997",
+    "lang": "English",
+    "file": "movies/jurassicparkiithelostworld1997-eng.srt"
   }
 ]

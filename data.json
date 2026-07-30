@@ -1592,5 +1592,12 @@
     "slug": "chainsmokercats01e02",
     "lang": "English",
     "file": "tv/chainsmokercats01e02-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "jurassic-park 1994",
+    "slug": "jurassic-park-1994",
+    "lang": "English",
+    "file": "tv/jurassic-park-1994-eng.srt"
   }
 ]

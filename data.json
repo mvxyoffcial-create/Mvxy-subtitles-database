@@ -1606,5 +1606,12 @@
     "slug": "leviticus2026",
     "lang": "English",
     "file": "movies/leviticus2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Death.of.Robin.Hood.2026",
+    "slug": "thedeathofrobinhood2026",
+    "lang": "English",
+    "file": "movies/thedeathofrobinhood2026-eng.srt"
   }
 ]

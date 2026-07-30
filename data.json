@@ -1613,5 +1613,12 @@
     "slug": "thedeathofrobinhood2026",
     "lang": "English",
     "file": "movies/thedeathofrobinhood2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "An.Affair.2018",
+    "slug": "anaffair2018",
+    "lang": "English",
+    "file": "movies/anaffair2018-eng.srt"
   }
 ]

@@ -1599,5 +1599,12 @@
     "slug": "jurassic-park-1994",
     "lang": "English",
     "file": "tv/jurassic-park-1994-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Leviticus.2026.",
+    "slug": "leviticus2026",
+    "lang": "English",
+    "file": "movies/leviticus2026-eng.srt"
   }
 ]

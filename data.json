@@ -1634,5 +1634,12 @@
     "slug": "jurassicparkiii2001",
     "lang": "English",
     "file": "movies/jurassicparkiii2001-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Hai.Jawani.toh.Ishq.Hona.Hai.2026.",
+    "slug": "haijawanitohishqhonahai2026",
+    "lang": "English",
+    "file": "movies/haijawanitohishqhonahai2026-eng.srt"
   }
 ]

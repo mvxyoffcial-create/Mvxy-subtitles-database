@@ -1683,5 +1683,12 @@
     "slug": "loveohlove-2026",
     "lang": "Sinhala",
     "file": "movies/loveohlove-2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Jurassic world 2015",
+    "slug": "jurassic-world-2015",
+    "lang": "English",
+    "file": "movies/jurassic-world-2015-eng.srt"
   }
 ]

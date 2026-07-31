@@ -1690,5 +1690,12 @@
     "slug": "jurassic-world-2015",
     "lang": "English",
     "file": "movies/jurassic-world-2015-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Jurassic world 2015",
+    "slug": "jurassic-world-2015",
+    "lang": "Sinhala",
+    "file": "movies/jurassic-world-2015-sin.srt"
   }
 ]

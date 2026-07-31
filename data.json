@@ -1676,5 +1676,12 @@
     "slug": "loveohlove-2026",
     "lang": "English",
     "file": "movies/loveohlove-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Love.Oh.Love 2026",
+    "slug": "loveohlove-2026",
+    "lang": "Sinhala",
+    "file": "movies/loveohlove-2026-sin.srt"
   }
 ]

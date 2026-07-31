@@ -1627,5 +1627,12 @@
     "slug": "jurassicparkiithelostworld1997",
     "lang": "English",
     "file": "movies/jurassicparkiithelostworld1997-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Jurassic.Park.III.2001",
+    "slug": "jurassicparkiii2001",
+    "lang": "English",
+    "file": "movies/jurassicparkiii2001-eng.srt"
   }
 ]

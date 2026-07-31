@@ -1648,5 +1648,12 @@
     "slug": "chainsmokercats01e03",
     "lang": "English",
     "file": "movies/chainsmokercats01e03-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Smoking_Behind_the_Supermarket_with_You_S01E04",
+    "slug": "smokingbehindthesupermarketwithyous01e04",
+    "lang": "English",
+    "file": "tv/smokingbehindthesupermarketwithyous01e04-eng.srt"
   }
 ]

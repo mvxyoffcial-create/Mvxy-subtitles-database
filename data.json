@@ -1641,5 +1641,12 @@
     "slug": "haijawanitohishqhonahai2026",
     "lang": "English",
     "file": "movies/haijawanitohishqhonahai2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Chainsmoker_Cat_S01E03.",
+    "slug": "chainsmokercats01e03",
+    "lang": "English",
+    "file": "movies/chainsmokercats01e03-eng.srt"
   }
 ]

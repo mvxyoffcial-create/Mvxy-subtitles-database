@@ -1739,5 +1739,12 @@
     "slug": "gattakusthi2022",
     "lang": "Sinhala",
     "file": "movies/gattakusthi2022-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Deewana 2026",
+    "slug": "deewana-2026",
+    "lang": "English",
+    "file": "movies/deewana-2026-eng.srt"
   }
 ]

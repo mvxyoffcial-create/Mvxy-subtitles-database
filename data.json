@@ -1732,5 +1732,12 @@
     "slug": "gattakusthi2022",
     "lang": "English",
     "file": "movies/gattakusthi2022-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Gatta_Kusthi_2022",
+    "slug": "gattakusthi2022",
+    "lang": "Sinhala",
+    "file": "movies/gattakusthi2022-sin.srt"
   }
 ]

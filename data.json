@@ -1718,5 +1718,12 @@
     "slug": "thetruthers2026",
     "lang": "English",
     "file": "movies/thetruthers2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The_Truthers_2026",
+    "slug": "thetruthers2026",
+    "lang": "Sinhala",
+    "file": "movies/thetruthers2026-sin.srt"
   }
 ]

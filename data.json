@@ -1725,5 +1725,12 @@
     "slug": "thetruthers2026",
     "lang": "Sinhala",
     "file": "movies/thetruthers2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Gatta_Kusthi_2022",
+    "slug": "gattakusthi2022",
+    "lang": "English",
+    "file": "movies/gattakusthi2022-eng.srt"
   }
 ]

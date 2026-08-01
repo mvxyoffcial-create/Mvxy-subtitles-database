@@ -1774,5 +1774,12 @@
     "slug": "raobahadur2026",
     "lang": "English",
     "file": "movies/raobahadur2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Rao_Bahadur.20",
+    "slug": "raobahadur20",
+    "lang": "Sinhala",
+    "file": "movies/raobahadur20-sin.srt"
   }
 ]

@@ -1697,5 +1697,12 @@
     "slug": "jurassic-world-2015",
     "lang": "Sinhala",
     "file": "movies/jurassic-world-2015-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Gatta_Kusthi_2_2026_",
+    "slug": "gattakusthi22026",
+    "lang": "English",
+    "file": "movies/gattakusthi22026-eng.srt"
   }
 ]

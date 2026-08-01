@@ -1760,5 +1760,12 @@
     "slug": "thedink2026",
     "lang": "English",
     "file": "movies/thedink2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Dink.2026",
+    "slug": "thedink2026",
+    "lang": "Sinhala",
+    "file": "movies/thedink2026-sin.srt"
   }
 ]

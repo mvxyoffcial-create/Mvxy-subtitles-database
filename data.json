@@ -1746,5 +1746,12 @@
     "slug": "deewana-2026",
     "lang": "English",
     "file": "movies/deewana-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Deewana 2026",
+    "slug": "deewana-2026",
+    "lang": "Sinhala",
+    "file": "movies/deewana-2026-sin.srt"
   }
 ]

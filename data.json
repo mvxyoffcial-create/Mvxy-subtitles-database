@@ -1767,5 +1767,12 @@
     "slug": "thedink2026",
     "lang": "Sinhala",
     "file": "movies/thedink2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Rao_Bahadur_2026",
+    "slug": "raobahadur2026",
+    "lang": "English",
+    "file": "movies/raobahadur2026-eng.srt"
   }
 ]

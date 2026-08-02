@@ -1998,5 +1998,12 @@
     "slug": "weakheros02e08",
     "lang": "English",
     "file": "tv/weakheros02e08-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Weak.Hero.S02E08",
+    "slug": "weakheros02e08",
+    "lang": "Sinhala",
+    "file": "tv/weakheros02e08-sin.srt"
   }
 ]

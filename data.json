@@ -1816,5 +1816,12 @@
     "slug": "weakheros01e03",
     "lang": "English",
     "file": "tv/weakheros01e03-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Weak.Hero.S01E03",
+    "slug": "weakheros01e03",
+    "lang": "Sinhala",
+    "file": "tv/weakheros01e03-sin.srt"
   }
 ]

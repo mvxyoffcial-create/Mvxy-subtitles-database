@@ -1,0 +1,1263 @@
+1
+00:00:13,120 --> 00:00:15,620
+sign: TOMB RAIDER KING
+
+2
+00:01:30,330 --> 00:01:31,710
+Kyungtae: Die, you bastard!
+
+3
+00:01:44,920 --> 00:01:45,800
+Thug 2: B-Boss!
+
+4
+00:01:45,800 --> 00:01:46,670
+Thug 1: Boss!
+
+5
+00:01:49,710 --> 00:01:51,580
+Jooheon: I'll take good care of this.
+
+6
+00:01:52,000 --> 00:01:54,020
+Kyungtae: But... it's mine.
+
+7
+00:01:54,990 --> 00:01:56,450
+Jooheon: Let me show you
+
+8
+00:01:57,620 --> 00:01:59,080
+Jooheon: how you properly use it.
+
+9
+00:02:26,640 --> 00:02:29,620
+Thug 2: H-He stabbed me!
+
+10
+00:02:29,930 --> 00:02:32,120
+Jooheon: Well? Want to keep going?
+
+11
+00:02:40,420 --> 00:02:42,420
+Kyungjoo: What did you just say?!
+
+12
+00:02:40,420 --> 00:02:42,420
+sign: XIANG GALLERY
+
+13
+00:02:42,760 --> 00:02:45,150
+Kyungjoo: Jooheon Suh beat you up?
+
+14
+00:02:45,150 --> 00:02:47,330
+Kyungjoo: And then he did what?
+
+15
+00:02:47,330 --> 00:02:49,420
+Kyungjoo: You expect me to believe that?
+
+16
+00:02:49,910 --> 00:02:51,330
+Kyungtae: It's like he was possessed!
+
+17
+00:02:51,330 --> 00:02:53,980
+Kyungtae: He just came at us with some crazy moves!
+
+18
+00:02:53,980 --> 00:02:57,910
+Kyungtae: You should've seen the look in his eyes!
+
+19
+00:02:57,910 --> 00:03:00,120
+Kyungtae: How much did he take from you?
+
+20
+00:03:00,440 --> 00:03:05,380
+Kyungtae: All the money in my account
+and... the Buddha statue.
+
+21
+00:03:05,380 --> 00:03:06,780
+Kyungjoo: What?!
+
+22
+00:03:06,780 --> 00:03:08,620
+Kyungjoo: You useless little shit!
+
+23
+00:03:08,620 --> 00:03:11,760
+Kyungjoo: Go get it back right now, idiot!
+
+24
+00:03:16,040 --> 00:03:18,750
+Jooheon: Hm, strange.
+
+25
+00:03:18,750 --> 00:03:22,650
+Pawnbroker: That thing isn't even worth fifty bucks.
+
+26
+00:03:22,650 --> 00:03:24,320
+Pawnbroker: Might as well get rid of it.
+
+27
+00:03:26,460 --> 00:03:31,480
+Jooheon: It can't just be junk if Kyungtae 
+held on to it that tightly.
+
+28
+00:03:32,960 --> 00:03:36,460
+sign: SPY SKILL ACTIVATED
+THE STATUE CONTAINS A SUSPICIOUS SUBSTANCE.
+
+29
+00:03:34,420 --> 00:03:35,980
+Jooheon: A suspicious substance?
+
+30
+00:03:36,780 --> 00:03:38,180
+Jooheon: Don't tell me....
+
+31
+00:03:43,460 --> 00:03:45,120
+Jooheon: Of course.
+
+32
+00:03:59,010 --> 00:04:00,620
+Jooheon: Well, look at that.
+
+33
+00:04:02,130 --> 00:04:04,870
+Jooheon: That’s nothing you'd 
+hand over to a pawnshop.
+
+34
+00:04:06,800 --> 00:04:07,660
+Geonwoo: Hey, Jooheon?
+
+35
+00:04:07,660 --> 00:04:09,370
+Jooheon: Hi, Geonwoo.
+
+36
+00:04:09,370 --> 00:04:13,290
+sign: XIANG GALLERY
+
+37
+00:04:10,040 --> 00:04:12,110
+Kyungjoo: I-I am terribly sorry.
+
+38
+00:04:12,110 --> 00:04:15,060
+Kyungjoo: Yes, sir.
+
+39
+00:04:15,060 --> 00:04:18,870
+Kyungjoo: Of course, I truly am...
+
+40
+00:04:19,459 --> 00:04:21,370
+Kyungjoo: Who is it? I'm on the phone!
+
+41
+00:04:22,910 --> 00:04:24,620
+Kyungtae: K-Kyungjoo.
+
+42
+00:04:24,620 --> 00:04:27,870
+Geonwoo: We received a tip
+about several drug offenses.
+
+43
+00:04:27,870 --> 00:04:32,200
+Kyungjoo: D-Drugs? We're law-abiding citizens!
+
+44
+00:04:32,200 --> 00:04:33,870
+Kyungjoo: All we sell is art.
+
+45
+00:04:36,200 --> 00:04:40,870
+Geonwoo: We already collected the evidence.
+I assume the rest is in the warehouse?
+
+46
+00:04:41,560 --> 00:04:45,090
+Kyungjoo: They even know about
+the warehouse in Gyeonggi-do?
+
+47
+00:04:45,090 --> 00:04:48,790
+Kyungjoo: Good thing every room
+is password protected.
+
+48
+00:04:50,130 --> 00:04:52,470
+Kyungjoo: A warehouse? And what evidence?
+
+49
+00:04:52,470 --> 00:04:54,200
+Kyungjoo: Even the police cannot just...
+
+50
+00:04:54,200 --> 00:04:56,420
+Policeman: All 600 pieces of art have been checked!
+
+51
+00:04:57,510 --> 00:04:59,940
+Policeman: We found drugs in all of them.
+
+52
+00:05:01,090 --> 00:05:05,170
+Kyungjoo: Y-You... opened all the rooms?!
+
+53
+00:05:06,000 --> 00:05:07,580
+Detective: Nice and quiet now.
+
+54
+00:05:07,580 --> 00:05:11,230
+Kyungjoo: But every room had
+a different password. How?
+
+55
+00:05:11,230 --> 00:05:13,670
+Geonwoo: One moment, ma'am.
+
+56
+00:05:14,480 --> 00:05:15,650
+Geonwoo: For you.
+
+57
+00:05:16,610 --> 00:05:20,110
+Jooheon: Maybe you should've
+lived a little more decently.
+
+58
+00:05:19,330 --> 00:05:21,830
+Kyungjoo: N-No … Jooheon Suh?
+
+59
+00:05:22,200 --> 00:05:26,740
+Jooheon: Passwords need to be changed
+every now and then, you know?
+
+60
+00:05:26,740 --> 00:05:29,830
+Jooheon: Well... enjoy prison.
+
+61
+00:05:30,920 --> 00:05:34,440
+Kyungjoo: You filthy little rat!
+
+62
+00:05:34,440 --> 00:05:36,080
+Kyungjoo: I'll kill you for this!
+
+63
+00:05:44,620 --> 00:05:51,620
+sign: GEONWOO
+
+64
+00:05:44,620 --> 00:05:51,620
+sign: YOU’LL GET YOUR
+100 MILLION WON REWARD SOON.
+
+65
+00:05:44,620 --> 00:05:51,620
+sign: DON’T BLOW IT ALL
+AND SAVE THE MONEY!
+
+66
+00:05:44,620 --> 00:05:46,820
+Geonwoo: You'll get your 100 
+million won reward soon.
+
+67
+00:05:46,820 --> 00:05:49,240
+Geonwoo: Don't blow it all and save the money!
+
+68
+00:05:49,240 --> 00:05:51,620
+Jooheon: He worries way too much.
+
+69
+00:05:51,880 --> 00:05:54,400
+Jooheon: That takes care of my starting capital.
+
+70
+00:05:54,400 --> 00:05:56,580
+Jooheon: First, I'll get some sleep.
+
+71
+00:05:56,580 --> 00:06:00,380
+Jooheon: Then tomorrow, the tomb hunt begins.
+
+72
+00:06:06,490 --> 00:06:09,460
+Jooheon: What the? Where's my apartment?
+
+73
+00:06:09,460 --> 00:06:11,920
+Jooheon: Did a tomb... appear here?
+
+74
+00:06:14,210 --> 00:06:17,370
+Jooheon: Is this good or bad luck?
+
+75
+00:06:23,780 --> 00:06:25,620
+Citizen 1: Yeah, it's unbelievable.
+
+76
+00:06:25,620 --> 00:06:26,870
+Citizen 2: How is this possible?
+
+77
+00:06:27,950 --> 00:06:30,370
+Linda: Yes, I just arrived.
+
+78
+00:06:33,690 --> 00:06:36,850
+Linda: Korea doesn't know
+about the tombs yet, correct?
+
+79
+00:06:37,730 --> 00:06:39,860
+Linda: We'll be detonating this one soon.
+
+80
+00:06:39,860 --> 00:06:43,370
+Linda: Yes. So far, no one seems
+to have recognized it as a tomb.
+
+81
+00:06:43,840 --> 00:06:44,890
+Linda: Understood.
+
+82
+00:06:45,840 --> 00:06:46,870
+Kiyoshi: Hello there.
+
+83
+00:06:47,310 --> 00:06:48,870
+Linda: You?
+
+84
+00:06:49,960 --> 00:06:53,080
+Kiyoshi: Why so surprised, Linda Walker?
+
+85
+00:06:53,590 --> 00:06:56,890
+Linda: What is the Japanese
+excavation team doing here?
+
+86
+00:06:56,890 --> 00:07:00,870
+Kiyoshi: That’s hardly something
+someone from the States should ask.
+
+87
+00:07:01,290 --> 00:07:02,870
+Kiyoshi: How's the jet lag?
+
+88
+00:07:03,210 --> 00:07:06,870
+Linda: So we're full-on thieves now, Abe?
+
+89
+00:07:07,200 --> 00:07:10,940
+Kiyoshi: Come on, we both know what 
+we're after. Why the hypocrisy?
+
+90
+00:07:10,940 --> 00:07:14,120
+Kiyoshi: Save your energy. The relic is ours.
+
+91
+00:07:14,570 --> 00:07:16,310
+Jooheon: Well, well.
+
+92
+00:07:16,310 --> 00:07:22,700
+Jooheon: The CIA and the Japanese 
+team are already here.
+
+93
+00:07:22,700 --> 00:07:26,620
+Jooheon: But what kind of amateur
+would blow up a tomb?
+
+94
+00:07:27,210 --> 00:07:30,620
+Jooheon: Good. Looks like 
+there's no experts around.
+
+95
+00:07:33,610 --> 00:07:35,050
+Jooheon: Aren't these...
+
+96
+00:07:37,550 --> 00:07:39,870
+Jooheon: Yes, without a doubt – tomb glyphs.
+
+97
+00:07:41,750 --> 00:07:45,510
+Jooheon: The language of those damned relics.
+
+98
+00:07:45,510 --> 00:07:47,820
+Jooheon: The funny part is:
+
+99
+00:07:47,820 --> 00:07:51,520
+Jooheon: These relics go into great detail
+writing about themselves.
+
+100
+00:07:52,400 --> 00:07:57,460
+Jooheon: If you can read the glyphs, you'll find
+out where the entrance and traps are.
+
+101
+00:08:00,730 --> 00:08:03,460
+Jooheon: This is going great already.
+
+102
+00:08:06,240 --> 00:08:08,600
+Jooheon: Let's start reading, then.
+
+103
+00:08:10,460 --> 00:08:12,620
+sign: [EXPERT CRYPTOGRAPHER]
+YOU HAVE GAINED A NEW TITLE AND UNLOCKED A SKILL.
+
+104
+00:08:12,620 --> 00:08:15,210
+sign: TOMB RAIDER BASIC SKILLS
+LINGUISTICS (RANK F) HAS BEEN ACTIVATED.
+
+105
+00:08:13,310 --> 00:08:16,380
+Jooheon: Ha, how generous of that winged bastard.
+
+106
+00:08:15,210 --> 00:08:16,960
+sign: TOMB RAIDER BASIC SKILLS (2/4)
+
+107
+00:08:15,210 --> 00:08:16,960
+sign: SPY [RANK F]
+DETECT EVERYTHING IN A 1 METER RADIUS
+
+108
+00:08:15,210 --> 00:08:16,960
+sign: LINGUISTICS [RANK F]
+IMPROVED UNDERSTANDING WITH ALL LANGUAGES
+
+109
+00:08:17,910 --> 00:08:22,210
+Jooheon: Perfect. Only two skills left.
+
+110
+00:08:25,260 --> 00:08:26,840
+Jooheon: This should be the place.
+
+111
+00:08:30,460 --> 00:08:32,460
+Jooheon: All right, let's go!
+
+112
+00:08:54,010 --> 00:08:55,250
+Kiyoshi: What is that?
+
+113
+00:08:56,690 --> 00:08:59,060
+CIA Agent: The tomb entrance seems to be opening!
+
+114
+00:08:59,060 --> 00:09:01,650
+Linda: What? It's opening?
+
+115
+00:09:09,240 --> 00:09:11,450
+Kiyoshi: What a spectacle!
+
+116
+00:09:12,600 --> 00:09:14,710
+Linda: How is this happening?
+
+117
+00:09:23,840 --> 00:09:27,090
+Jooheon: Something should be 
+showing up around here by now.
+
+118
+00:09:33,110 --> 00:09:34,230
+Jooheon: Ah.
+
+119
+00:09:35,580 --> 00:09:37,200
+Jooheon: This is the right place.
+
+120
+00:09:47,000 --> 00:09:48,170
+Jooheon: Found it.
+
+121
+00:10:01,210 --> 00:10:04,540
+Jooheon: Hm. This should do it.
+
+122
+00:10:13,330 --> 00:10:15,180
+Snake: Oh, a visitor.
+
+123
+00:10:25,860 --> 00:10:30,220
+Snake: Yet another poor soul
+has dropped his treasure.
+
+124
+00:10:30,220 --> 00:10:31,540
+Snake: Speak.
+
+125
+00:10:32,130 --> 00:10:34,540
+Jooheon: Hey, over here!
+
+126
+00:10:35,290 --> 00:10:36,600
+Jooheon: Can't you see me?
+
+127
+00:10:36,600 --> 00:10:37,660
+Snake: Hm?
+
+128
+00:10:38,350 --> 00:10:40,460
+Snake: You blind old serpent!
+
+129
+00:10:44,350 --> 00:10:45,810
+Snake: Now, then...
+
+130
+00:10:46,530 --> 00:10:50,580
+Snake: The gold knife or the silver knife.
+Which one is yours?
+
+131
+00:10:51,840 --> 00:10:54,910
+Jooheon: This relic is based on
+"The Gold Axe and the Silver Axe".
+
+132
+00:10:55,880 --> 00:11:00,510
+Jooheon: A very famous story that originates 
+from one of Aesop's fables, 
+
+133
+00:11:00,510 --> 00:11:03,490
+Jooheon: with variations found all over the world.
+
+134
+00:11:03,860 --> 00:11:07,530
+Jooheon: Even foreigners can
+clear this tomb easily.
+
+135
+00:11:07,530 --> 00:11:10,420
+Jooheon: But this time, it's my turn first.
+
+136
+00:11:11,020 --> 00:11:13,670
+Snake: I await your answer.
+
+137
+00:11:14,060 --> 00:11:17,670
+Jooheon: Unfortunately, neither one is mine.
+
+138
+00:11:18,290 --> 00:11:22,170
+Snake: Oh-ho. An honest human.
+
+139
+00:11:22,640 --> 00:11:26,750
+Snake: Then perhaps this one belongs to you?
+
+140
+00:11:29,890 --> 00:11:31,860
+Jooheon: You bet it does.
+
+141
+00:11:31,860 --> 00:11:36,840
+Jooheon: If I say yes, I get my knife, 
+a gold axe, and a silver axe.
+
+142
+00:11:36,840 --> 00:11:38,370
+Jooheon: That would clear the tomb.
+
+143
+00:11:38,370 --> 00:11:39,560
+Jooheon: But...
+
+144
+00:11:40,380 --> 00:11:44,120
+Jooheon: May I take a closer look at it?
+
+145
+00:11:45,200 --> 00:11:47,180
+Snake: Of course.
+
+146
+00:11:54,890 --> 00:11:58,120
+Snake: What do you think you're doing?!
+
+147
+00:11:58,490 --> 00:12:01,120
+Jooheon: Shut up. I don't trust you things.
+
+148
+00:12:02,170 --> 00:12:06,510
+Jooheon: There's no guarantee
+you'll reward me fairly.
+
+149
+00:12:07,120 --> 00:12:09,530
+Jooheon: Your gift could easily turn me
+
+150
+00:12:09,530 --> 00:12:12,120
+Jooheon: into a deranged murderer.
+
+151
+00:12:12,540 --> 00:12:15,730
+Snake: H-How do you know about that, human?
+
+152
+00:12:16,380 --> 00:12:18,540
+Jooheon: I think it happened in the US back then.
+
+153
+00:12:18,540 --> 00:12:25,040
+sign: SERIAL KILLINGS IN THE STATES
+
+154
+00:12:18,540 --> 00:12:25,040
+sign: RELIC USER CAUSES YET ANOTHER TRAGEDY
+
+155
+00:12:19,130 --> 00:12:22,860
+Jooheon: At the time, the axe relic
+
+156
+00:12:22,860 --> 00:12:25,040
+Jooheon: turned its user into a serial killer.
+
+157
+00:12:30,910 --> 00:12:32,470
+Jooheon: This is your end.
+
+158
+00:12:32,470 --> 00:12:34,000
+Jooheon: So...
+
+159
+00:12:39,750 --> 00:12:42,250
+Jooheon: submit already, relic!
+
+160
+00:12:43,840 --> 00:12:48,750
+Snake: So this is how you plan to claim me?
+
+161
+00:12:48,750 --> 00:12:50,420
+Jooheon: Let's see how strong you are.
+
+162
+00:12:51,060 --> 00:12:53,250
+Jooheon: I'll use "dominance" to subdue you!
+
+163
+00:13:04,600 --> 00:13:08,790
+Jooheon: Affinity: The ability 
+to control relics through trust.
+
+164
+00:13:09,350 --> 00:13:14,790
+Jooheon: Dominance – the ability 
+to coerce and force a relic to obey.
+
+165
+00:13:15,330 --> 00:13:16,710
+Jooheon: And compatibility.
+
+166
+00:13:16,710 --> 00:13:19,420
+Jooheon: The ideal bond between relic and master.
+
+167
+00:13:19,420 --> 00:13:23,250
+Jooheon: Like a musician with an instrument relic.
+
+168
+00:13:38,110 --> 00:13:40,160
+Jooheon: You... stubborn worm!
+
+169
+00:13:46,200 --> 00:13:48,460
+Snake: Away! Begone!
+
+170
+00:13:49,520 --> 00:13:52,710
+Jooheon: I'm not going to suck up to you relics!
+
+171
+00:13:52,710 --> 00:13:56,120
+Jooheon: I don't give a damn
+about affinity this time round.
+
+172
+00:13:56,870 --> 00:13:59,340
+Jooheon: Obey me, relic!
+
+173
+00:13:59,340 --> 00:14:02,790
+Jooheon: Or I'll destroy you.
+
+174
+00:14:03,290 --> 00:14:05,040
+Jooheon: Do you think I won't do it?!
+
+175
+00:14:05,600 --> 00:14:09,790
+Snake: Enough, you lunatic!
+
+176
+00:14:29,740 --> 00:14:31,460
+Jooheon: What a pest.
+
+177
+00:14:31,460 --> 00:14:33,570
+Jooheon: You should've obeyed from the start.
+
+178
+00:14:41,620 --> 00:14:43,540
+Jooheon: Will you look at that shine.
+
+179
+00:14:43,540 --> 00:14:44,670
+sign: [TOMB SURVIVOR]
+YOU HAVE GAINED A NEW TITLE AND UNLOCKED A SKILL.
+
+180
+00:14:44,670 --> 00:14:46,620
+sign: TOMB RAIDER BASIC SKILLS
+TOMB EXCAVATION [RANK F] HAS BEEN ACTIVATED.
+
+181
+00:14:46,620 --> 00:14:49,040
+sign: TOMB RAIDER BASIC SKILLS (3/4)
+
+182
+00:14:46,620 --> 00:14:49,040
+sign: SPY [RANK F]
+DETECT EVERYTHING IN A 1 METER RADIUS
+
+183
+00:14:46,620 --> 00:14:49,040
+sign: LINGUISTICS [RANK F]
+IMPROVED UNDERSTANDING WITH ALL LANGUAGES
+
+184
+00:14:46,620 --> 00:14:49,040
+sign: TOMB EXCAVATION [RANK F]
+INCREASED UNDERSTANDING OF TOMBS
+
+185
+00:14:49,290 --> 00:14:51,890
+Jooheon: Oh, a new skill.
+
+186
+00:14:51,890 --> 00:14:56,570
+Jooheon: Only one more left.
+How should I unlock it?
+
+187
+00:15:00,540 --> 00:15:03,540
+sign: [ABUSER OF RELICS]
+
+188
+00:15:00,540 --> 00:15:03,540
+sign: YOU HAVE ACQUIRED A NEW TITLE.
+YOUR DOMINANCE HAS INCREASED.
+
+189
+00:15:00,540 --> 00:15:03,540
+sign: YOUR AFFINITY HAS DECREASED.
+
+190
+00:15:00,950 --> 00:15:03,540
+Jooheon: "Abuser of Relics"?
+
+191
+00:15:03,820 --> 00:15:06,090
+Jooheon: "Abuser" of all things, hah.
+
+192
+00:15:06,090 --> 00:15:08,310
+Jooheon: You damn crow, 
+
+193
+00:15:08,310 --> 00:15:11,460
+Jooheon: you're trying to mess with me, aren't you?
+
+194
+00:15:11,460 --> 00:15:12,830
+Kiyoshi: It should be right ahead...
+
+195
+00:15:13,490 --> 00:15:15,330
+Kiyoshi: There's the pond!
+
+196
+00:15:17,600 --> 00:15:19,840
+Kiyoshi: Just as the prophecy foretold.
+
+197
+00:15:21,000 --> 00:15:23,330
+Kiyoshi: Come on out, relic.
+
+198
+00:15:25,330 --> 00:15:27,080
+Linda: W-What are you doing?
+
+199
+00:15:27,380 --> 00:15:30,330
+Jooheon: You idiots are too late.
+
+200
+00:15:34,240 --> 00:15:36,080
+Kiyoshi: Why is nothing happening?
+
+201
+00:15:36,460 --> 00:15:41,020
+Kiyoshi: The prophet said all I needed to do
+was throw a relic in the pond!
+
+202
+00:15:41,020 --> 00:15:42,080
+Linda: A prophet?
+
+203
+00:15:42,400 --> 00:15:46,080
+Linda: So Japan really does
+have a prophecy relic.
+
+204
+00:15:46,080 --> 00:15:50,240
+Kiyoshi: N-No! Stop trying to get intel from me!
+
+205
+00:15:51,000 --> 00:15:52,330
+Kiyoshi: What's going on now?
+
+206
+00:15:52,910 --> 00:15:54,800
+Linda: A-An earthquake.
+
+207
+00:15:59,830 --> 00:16:01,830
+Kiyoshi: Damn it, something's wrong!
+
+208
+00:16:04,420 --> 00:16:05,830
+Kiyoshi: We have to get out!
+
+209
+00:16:11,870 --> 00:16:15,830
+sign: XIANG GALLERY
+
+210
+00:16:14,020 --> 00:16:15,830
+Seungwoo: Damn it!
+
+211
+00:16:16,200 --> 00:16:19,330
+Seungwoo: They really took everything.
+
+212
+00:16:19,750 --> 00:16:24,260
+Thug 1: With both of our bosses arrested
+this business is finished …
+
+213
+00:16:24,260 --> 00:16:26,020
+Seungwoo: I'm aware, dumbass.
+
+214
+00:16:26,020 --> 00:16:30,330
+Seungwoo: And it's all Jooheon Suh's fault.
+
+215
+00:16:30,580 --> 00:16:32,460
+Seungwoo: But this isn't over.
+
+216
+00:16:32,860 --> 00:16:37,710
+Thug 2: Yeah, that’s more like it!
+Are you gonna kick his ass?
+
+217
+00:16:37,980 --> 00:16:40,540
+Seungwoo: Duh! Nobody gets away from me.
+
+218
+00:16:40,540 --> 00:16:44,290
+Seungwoo: Or else I wouldn't be Seungwoo Oh!
+
+219
+00:16:44,600 --> 00:16:45,930
+Thug 1: Wow!
+
+220
+00:16:44,600 --> 00:16:45,930
+Thug 2: Wow!
+
+221
+00:16:46,790 --> 00:16:48,790
+sign: INCOMING CALL
+
+222
+00:16:46,790 --> 00:16:48,790
+sign: ERRAND BOY JOOHEON SUH
+
+223
+00:16:46,790 --> 00:16:48,790
+sign: DECLINE  ACCEPT
+
+224
+00:16:49,510 --> 00:16:50,290
+Seungwoo: Oh?
+
+225
+00:17:09,220 --> 00:17:12,790
+Seungwoo: Y-Yeah? Hello?
+
+226
+00:17:13,109 --> 00:17:16,790
+Jooheon: What took you so long?
+Do you have a death wish?
+
+227
+00:17:17,800 --> 00:17:20,329
+Seungwoo: W-Where's your respect, huh?
+
+228
+00:17:20,329 --> 00:17:21,329
+Jooheon: Yeah, yeah.
+
+229
+00:17:21,670 --> 00:17:25,150
+Jooheon: You guys need to run
+a little errand for me.
+
+230
+00:17:28,349 --> 00:17:30,920
+Kiyoshi: That was a total failure.
+
+231
+00:17:31,350 --> 00:17:35,000
+Kiyoshi: Hm? There was another prophecy?
+
+232
+00:17:35,400 --> 00:17:39,250
+Director of JSDF: A Korean beat us to it.
+We only just found out.
+
+233
+00:17:39,640 --> 00:17:43,290
+Kiyoshi: And you kept that from me?!
+
+234
+00:17:43,290 --> 00:17:46,440
+Director of JSDF: You know what that relic user is like.
+
+235
+00:17:47,200 --> 00:17:48,250
+Kiyoshi: Don't tell me
+
+236
+00:17:48,600 --> 00:17:50,640
+Kiyoshi: she couldn't read the kanji again.
+
+237
+00:17:50,640 --> 00:17:52,380
+Director of JSDF: Well, kids these days.
+
+238
+00:17:52,380 --> 00:17:55,890
+Director of JSDF: We're working on it.
+So you keep doing your best too.
+
+239
+00:17:55,890 --> 00:17:59,310
+Director of JSDF: And be careful of that Korean.
+
+240
+00:18:00,040 --> 00:18:01,670
+Kiyoshi: W-What? Why?
+
+241
+00:18:02,490 --> 00:18:04,460
+Director of JSDF: The prophecy was rather grim.
+
+242
+00:18:07,720 --> 00:18:10,130
+Director of JSDF: He's called
+"the one who will devour the world."
+
+243
+00:18:11,030 --> 00:18:13,540
+Seungwoo: What? Midas?!
+
+244
+00:18:13,890 --> 00:18:16,890
+Jooheon: Midas is the world's
+largest secret auction house
+
+245
+00:18:16,890 --> 00:18:19,310
+Jooheon: based in Las Vegas.
+
+246
+00:18:20,400 --> 00:18:24,790
+Jooheon: If I keep an eye on what's going on there, 
+I might learn what Kwon is planning.
+
+247
+00:18:25,180 --> 00:18:29,710
+Jooheon: Go to this month's auction
+to find a few items and a person for me.
+
+248
+00:18:29,710 --> 00:18:32,290
+Jooheon: Look for Jack Kayman, also known as JK.
+
+249
+00:18:32,880 --> 00:18:34,290
+Jooheon: That's his alias.
+
+250
+00:18:34,600 --> 00:18:38,200
+Seungwoo: Don't be ridiculous!
+How are we supposed to get in there?
+
+251
+00:18:38,200 --> 00:18:40,550
+Jooheon: Figure that out yourselves.
+
+252
+00:18:40,550 --> 00:18:44,020
+Jooheon: I'll pay well, 
+so expenses won't be an issue.
+
+253
+00:18:44,020 --> 00:18:45,850
+Jooheon: I won't be forcing you, of course.
+
+254
+00:18:47,750 --> 00:18:49,860
+Jooheon: You do have a choice:
+
+255
+00:18:50,640 --> 00:18:53,920
+Jooheon: Go willingly, or I'll beat you there.
+
+256
+00:18:59,370 --> 00:19:00,950
+Worker: Goodbye!
+
+257
+00:19:04,440 --> 00:19:07,420
+Jooheon: Good. That should cover
+the preparations for now.
+
+258
+00:19:10,060 --> 00:19:13,420
+Jooheon: Time to go relic hunting.
+
+259
+00:19:11,690 --> 00:19:14,040
+Newscaster: Breaking news.
+
+260
+00:19:14,040 --> 00:19:17,420
+Newscaster: This marks the fourth murder
+reported this month.
+
+261
+00:19:17,420 --> 00:19:21,690
+Newscaster: The suspect allegedly attempted
+suicide by self-immolation.
+
+262
+00:19:17,420 --> 00:19:23,420
+sign: SUICIDE ATTEMPT NEAR YEONGDEUNGPO STATION
+
+263
+00:19:21,690 --> 00:19:23,420
+Newscaster: According to witnesses...
+
+264
+00:19:23,710 --> 00:19:28,980
+Jooheon: Just like how it was back then, 
+before a new tomb appeared.
+
+265
+00:19:33,240 --> 00:19:36,330
+Kiyoshi: Hey! Watch where you're going!
+
+266
+00:19:36,750 --> 00:19:40,500
+Jooheon: Oh? That’s the guy I locked in the tomb.
+
+267
+00:19:42,500 --> 00:19:44,500
+Jooheon: If he's here, then
+
+268
+00:19:42,500 --> 00:19:44,500
+Kiyoshi: How about an apology?
+
+269
+00:19:44,840 --> 00:19:47,210
+Jooheon: the next tomb must be appearing soon.
+
+270
+00:19:47,620 --> 00:19:51,450
+Jooheon: Around this time, 
+someone in Japan had a prophecy relic.
+
+271
+00:19:50,240 --> 00:19:52,290
+Kiyoshi: What are you staring at?
+
+272
+00:19:53,110 --> 00:19:57,440
+Jooheon: And it looks like this guy
+also has a relic on him.
+
+273
+00:19:57,440 --> 00:20:01,660
+Jooheon: That dumbass isn't even hiding its aura.
+
+274
+00:19:58,660 --> 00:20:01,660
+Kiyoshi: Something wrong with your head?
+
+275
+00:20:01,660 --> 00:20:03,040
+Jooheon: Whatever it is, I want it.
+
+276
+00:20:01,660 --> 00:20:03,040
+Kiyoshi: Hey!
+
+277
+00:20:03,420 --> 00:20:05,540
+Kiyoshi: Are you even listening to me?!
+
+278
+00:20:07,660 --> 00:20:08,960
+Kiyoshi: What the hell?!
+
+279
+00:20:09,990 --> 00:20:12,460
+Jooheon: Oh, I'm terribly sorry.
+
+280
+00:20:12,730 --> 00:20:15,460
+Kiyoshi: It's all over my clothes!
+
+281
+00:20:15,840 --> 00:20:19,040
+Kiyoshi: You better pay for dry cleaning!
+This is expensive!
+
+282
+00:20:19,040 --> 00:20:21,460
+Jooheon: Sadly, I don't have any money.
+
+283
+00:20:23,550 --> 00:20:25,690
+Jooheon: It doesn't look expensive anyway.
+
+284
+00:20:25,690 --> 00:20:26,840
+Kiyoshi: Excuse me?
+
+285
+00:20:28,080 --> 00:20:29,830
+sign: JAPANESE EXCAVATION TEAM
+
+286
+00:20:31,550 --> 00:20:34,580
+Jooheon: You dropped your ID.
+
+287
+00:20:35,060 --> 00:20:36,580
+Kiyoshi: G-Give that to me!
+
+288
+00:20:36,950 --> 00:20:38,660
+Kiyoshi: Did he recognize me?
+
+289
+00:20:38,660 --> 00:20:41,540
+Kiyoshi: No one can know that the JSDF is in Korea.
+
+290
+00:20:55,400 --> 00:20:58,860
+Jooheon: Bingo! A tomb manifestation.
+
+291
+00:20:58,860 --> 00:21:01,000
+Jooheon: A new one is appearing right now.
+
+292
+00:21:01,000 --> 00:21:03,410
+Kiyoshi: Good. Just like the prophecy.
+
+293
+00:21:07,250 --> 00:21:09,820
+Kiyoshi: Hello? The manifestation has just begun.
+
+294
+00:21:09,820 --> 00:21:12,530
+Director of JSDF: I know. We also received a prophecy
+
+295
+00:21:12,530 --> 00:21:15,600
+Director of JSDF: that the Korean with 
+the axe relic is near you.
+
+296
+00:21:15,600 --> 00:21:18,460
+Director of JSDF: And that you, for some reason, 
+
+297
+00:21:18,460 --> 00:21:21,210
+Director of JSDF: should be careful around alcohol.
+
+298
+00:21:23,120 --> 00:21:24,210
+Kiyoshi: That little shit
+
+299
+00:21:24,750 --> 00:21:27,370
+Kiyoshi: was the guy from the prophecy?

@@ -2019,5 +2019,12 @@
     "slug": "ibecamealegendaftermy10yearlonglaststands01e02",
     "lang": "Sinhala",
     "file": "tv/ibecamealegendaftermy10yearlonglaststands01e02-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Tomb_Raider_King_S01E02",
+    "slug": "tombraiderkings01e02",
+    "lang": "English",
+    "file": "tv/tombraiderkings01e02-eng.srt"
   }
 ]

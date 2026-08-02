@@ -1865,5 +1865,12 @@
     "slug": "weakheros01e06",
     "lang": "Sinhala",
     "file": "tv/weakheros01e06-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Weak.Hero.S01E07",
+    "slug": "weakheros01e07",
+    "lang": "English",
+    "file": "tv/weakheros01e07-eng.srt"
   }
 ]

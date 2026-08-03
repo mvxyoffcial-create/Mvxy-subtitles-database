@@ -2040,5 +2040,12 @@
     "slug": "jurassicworldfallenkingdom2018",
     "lang": "English",
     "file": "movies/jurassicworldfallenkingdom2018-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Jurassic.World.Fallen.Kingdom.2018",
+    "slug": "jurassicworldfallenkingdom2018",
+    "lang": "Sinhala",
+    "file": "movies/jurassicworldfallenkingdom2018-sin.srt"
   }
 ]

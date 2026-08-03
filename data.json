@@ -2061,5 +2061,12 @@
     "slug": "jurassicworlddominion2022",
     "lang": "Sinhala",
     "file": "movies/jurassicworlddominion2022-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Jurassic.World.Rebirth.2025",
+    "slug": "jurassicworldrebirth2025",
+    "lang": "English",
+    "file": "movies/jurassicworldrebirth2025-eng.srt"
   }
 ]

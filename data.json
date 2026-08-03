@@ -2131,5 +2131,12 @@
     "slug": "transfomersriseofthebeasts2023",
     "lang": "Sinhala",
     "file": "movies/transfomersriseofthebeasts2023-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Transformers_One_2024",
+    "slug": "transformersone2024",
+    "lang": "English",
+    "file": "movies/transformersone2024-eng.srt"
   }
 ]

@@ -2138,5 +2138,12 @@
     "slug": "transformersone2024",
     "lang": "English",
     "file": "movies/transformersone2024-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Transformers_One_2024",
+    "slug": "transformersone2024",
+    "lang": "Sinhala",
+    "file": "movies/transformersone2024-sin.srt"
   }
 ]

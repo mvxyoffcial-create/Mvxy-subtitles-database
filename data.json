@@ -2033,5 +2033,12 @@
     "slug": "tombraiderkings01e02",
     "lang": "Sinhala",
     "file": "tv/tombraiderkings01e02-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Jurassic.World.Fallen.Kingdom.2018",
+    "slug": "jurassicworldfallenkingdom2018",
+    "lang": "English",
+    "file": "movies/jurassicworldfallenkingdom2018-eng.srt"
   }
 ]

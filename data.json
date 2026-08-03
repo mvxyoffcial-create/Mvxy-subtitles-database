@@ -2089,5 +2089,12 @@
     "slug": "transformersageofextinction2014",
     "lang": "Sinhala",
     "file": "movies/transformersageofextinction2014-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Transformers.The.Last.Knight.2017",
+    "slug": "transformersthelastknight2017",
+    "lang": "English",
+    "file": "movies/transformersthelastknight2017-eng.srt"
   }
 ]

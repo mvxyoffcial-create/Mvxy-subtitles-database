@@ -2145,5 +2145,12 @@
     "slug": "transformersone2024",
     "lang": "Sinhala",
     "file": "movies/transformersone2024-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Pallichattambi.2026",
+    "slug": "pallichattambi2026",
+    "lang": "English",
+    "file": "movies/pallichattambi2026-eng.srt"
   }
 ]

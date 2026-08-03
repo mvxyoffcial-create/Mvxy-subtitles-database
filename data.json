@@ -2054,5 +2054,12 @@
     "slug": "jurassicworlddominion2022",
     "lang": "English",
     "file": "movies/jurassicworlddominion2022-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Jurassic.World.Dominion.2022",
+    "slug": "jurassicworlddominion2022",
+    "lang": "Sinhala",
+    "file": "movies/jurassicworlddominion2022-sin.srt"
   }
 ]

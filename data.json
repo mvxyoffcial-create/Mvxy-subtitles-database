@@ -2096,5 +2096,12 @@
     "slug": "transformersthelastknight2017",
     "lang": "English",
     "file": "movies/transformersthelastknight2017-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Transformers.The.Last.Knight.2017",
+    "slug": "transformersthelastknight2017",
+    "lang": "Sinhala",
+    "file": "movies/transformersthelastknight2017-sin.srt"
   }
 ]

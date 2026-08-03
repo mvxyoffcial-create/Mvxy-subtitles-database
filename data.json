@@ -2103,5 +2103,12 @@
     "slug": "transformersthelastknight2017",
     "lang": "Sinhala",
     "file": "movies/transformersthelastknight2017-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Bumblebee.2018",
+    "slug": "bumblebee2018",
+    "lang": "English",
+    "file": "movies/bumblebee2018-eng.srt"
   }
 ]

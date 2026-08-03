@@ -2075,5 +2075,12 @@
     "slug": "jurassicworldrebirth2025",
     "lang": "Sinhala",
     "file": "movies/jurassicworldrebirth2025-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Transformers.Age.of.Extinction.2014",
+    "slug": "transformersageofextinction2014",
+    "lang": "English",
+    "file": "movies/transformersageofextinction2014-eng.srt"
   }
 ]

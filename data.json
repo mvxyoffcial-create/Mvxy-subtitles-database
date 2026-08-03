@@ -2159,5 +2159,12 @@
     "slug": "pallichattambi2026",
     "lang": "Sinhala",
     "file": "movies/pallichattambi2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "29.2026",
+    "slug": "292026",
+    "lang": "English",
+    "file": "movies/292026-eng.srt"
   }
 ]

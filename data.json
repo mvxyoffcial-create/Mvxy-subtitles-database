@@ -2117,5 +2117,12 @@
     "slug": "bumblebee2018",
     "lang": "Sinhala",
     "file": "movies/bumblebee2018-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Transfomers.Rise.of.the.Beasts.2023",
+    "slug": "transfomersriseofthebeasts2023",
+    "lang": "English",
+    "file": "movies/transfomersriseofthebeasts2023-eng.srt"
   }
 ]

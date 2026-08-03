@@ -2124,5 +2124,12 @@
     "slug": "transfomersriseofthebeasts2023",
     "lang": "English",
     "file": "movies/transfomersriseofthebeasts2023-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Transfomers.Rise.of.the.Beasts.2023",
+    "slug": "transfomersriseofthebeasts2023",
+    "lang": "Sinhala",
+    "file": "movies/transfomersriseofthebeasts2023-sin.srt"
   }
 ]

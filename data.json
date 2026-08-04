@@ -2257,5 +2257,12 @@
     "slug": "triggers01e03",
     "lang": "Sinhala",
     "file": "tv/triggers01e03-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Trigger.S01E04",
+    "slug": "triggers01e04",
+    "lang": "English",
+    "file": "tv/triggers01e04-eng.srt"
   }
 ]

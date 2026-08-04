@@ -2194,5 +2194,12 @@
     "slug": "evildeadburn2026",
     "lang": "English",
     "file": "movies/evildeadburn2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Evil_Dead_Burn_2026",
+    "slug": "evildeadburn2026",
+    "lang": "Sinhala",
+    "file": "movies/evildeadburn2026-sin.srt"
   }
 ]

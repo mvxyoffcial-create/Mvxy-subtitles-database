@@ -2201,5 +2201,12 @@
     "slug": "evildeadburn2026",
     "lang": "Sinhala",
     "file": "movies/evildeadburn2026-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "My_Bias_My_Boss_S01E01",
+    "slug": "mybiasmybosss01e01",
+    "lang": "English",
+    "file": "tv/mybiasmybosss01e01-eng.srt"
   }
 ]

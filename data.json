@@ -2348,5 +2348,12 @@
     "slug": "triggers01e10",
     "lang": "English",
     "file": "tv/triggers01e10-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Trigger.S01E10",
+    "slug": "triggers01e10",
+    "lang": "Sinhala",
+    "file": "tv/triggers01e10-sin.srt"
   }
 ]

@@ -2180,5 +2180,12 @@
     "slug": "uyir2026",
     "lang": "English",
     "file": "movies/uyir2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Uyir_2026",
+    "slug": "uyir2026",
+    "lang": "Sinhala",
+    "file": "movies/uyir2026-sin.srt"
   }
 ]

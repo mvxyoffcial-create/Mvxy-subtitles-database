@@ -2369,5 +2369,12 @@
     "slug": "shangchi2021",
     "lang": "Sinhala",
     "file": "movies/shangchi2021-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Crossing Lines 2025",
+    "slug": "crossing-lines-2025",
+    "lang": "English",
+    "file": "movies/crossing-lines-2025-eng.srt"
   }
 ]

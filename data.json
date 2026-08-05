@@ -2355,5 +2355,12 @@
     "slug": "triggers01e10",
     "lang": "Sinhala",
     "file": "tv/triggers01e10-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Shang.Chi.2021",
+    "slug": "shangchi2021",
+    "lang": "English",
+    "file": "movies/shangchi2021-eng.srt"
   }
 ]

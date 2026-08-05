@@ -2383,5 +2383,12 @@
     "slug": "crossing-lines-2025",
     "lang": "Sinhala",
     "file": "movies/crossing-lines-2025-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Devil.2025",
+    "slug": "thedevil2025",
+    "lang": "English",
+    "file": "movies/thedevil2025-eng.srt"
   }
 ]

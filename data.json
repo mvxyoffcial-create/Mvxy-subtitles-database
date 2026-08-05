@@ -2558,5 +2558,12 @@
     "slug": "sterling-point-s01e07",
     "lang": "Sinhala",
     "file": "tv/sterling-point-s01e07-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Sterling Point S01E08",
+    "slug": "sterling-point-s01e08",
+    "lang": "English",
+    "file": "tv/sterling-point-s01e08-eng.srt"
   }
 ]

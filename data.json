@@ -2376,5 +2376,12 @@
     "slug": "crossing-lines-2025",
     "lang": "English",
     "file": "movies/crossing-lines-2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Crossing Lines 2025",
+    "slug": "crossing-lines-2025",
+    "lang": "Sinhala",
+    "file": "movies/crossing-lines-2025-sin.srt"
   }
 ]

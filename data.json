@@ -2397,5 +2397,12 @@
     "slug": "thedevil2025",
     "lang": "Sinhala",
     "file": "movies/thedevil2025-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "My_Bias_My_Boss_S01E02",
+    "slug": "mybiasmybosss01e02",
+    "lang": "English",
+    "file": "tv/mybiasmybosss01e02-eng.srt"
   }
 ]

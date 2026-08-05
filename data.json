@@ -2425,5 +2425,12 @@
     "slug": "stormonsesamestreet2026",
     "lang": "Sinhala",
     "file": "movies/stormonsesamestreet2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Guardians.of.the.Galaxy.2014",
+    "slug": "guardiansofthegalaxy2014",
+    "lang": "English",
+    "file": "movies/guardiansofthegalaxy2014-eng.srt"
   }
 ]

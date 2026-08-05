@@ -2418,5 +2418,12 @@
     "slug": "stormonsesamestreet2026",
     "lang": "English",
     "file": "movies/stormonsesamestreet2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Storm_on_Sesame_Street_2026",
+    "slug": "stormonsesamestreet2026",
+    "lang": "Sinhala",
+    "file": "movies/stormonsesamestreet2026-sin.srt"
   }
 ]

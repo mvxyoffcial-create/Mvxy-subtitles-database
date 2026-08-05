@@ -2453,5 +2453,12 @@
     "slug": "tamons-b-side-s01e09",
     "lang": "Sinhala",
     "file": "tv/tamons-b-side-s01e09-sin.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Sterling Point S01E01",
+    "slug": "sterling-point-s01e01",
+    "lang": "English",
+    "file": "tv/sterling-point-s01e01-eng.srt"
   }
 ]

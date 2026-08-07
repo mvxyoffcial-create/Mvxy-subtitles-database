@@ -2649,5 +2649,12 @@
     "slug": "operationsafedsagartheuntoldstoryofthekargilwars01e01",
     "lang": "Sinhala",
     "file": "movies/operationsafedsagartheuntoldstoryofthekargilwars01e01-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Operation_Safed_Sagar_The_Untold_Story_of_the_Kargil_War_S01E02",
+    "slug": "operationsafedsagartheuntoldstoryofthekargilwars01e02",
+    "lang": "English",
+    "file": "movies/operationsafedsagartheuntoldstoryofthekargilwars01e02-eng.srt"
   }
 ]

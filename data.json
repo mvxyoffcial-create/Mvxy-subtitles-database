@@ -2593,5 +2593,12 @@
     "slug": "bigchickenafastfoodconspiracy2026",
     "lang": "Sinhala",
     "file": "movies/bigchickenafastfoodconspiracy2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Idhayam_Murali_2026",
+    "slug": "idhayammurali2026",
+    "lang": "English",
+    "file": "movies/idhayammurali2026-eng.srt"
   }
 ]

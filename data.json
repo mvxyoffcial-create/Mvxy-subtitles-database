@@ -2621,5 +2621,12 @@
     "slug": "ohsukumari2026",
     "lang": "Sinhala",
     "file": "movies/ohsukumari2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Main_Vaapas_Aaunga 2026",
+    "slug": "mainvaapasaaunga-2026",
+    "lang": "English",
+    "file": "movies/mainvaapasaaunga-2026-eng.srt"
   }
 ]

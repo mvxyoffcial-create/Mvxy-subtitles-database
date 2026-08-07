@@ -2614,5 +2614,12 @@
     "slug": "ohsukumari2026",
     "lang": "English",
     "file": "movies/ohsukumari2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Oh.Sukumari.2026",
+    "slug": "ohsukumari2026",
+    "lang": "Sinhala",
+    "file": "movies/ohsukumari2026-sin.srt"
   }
 ]

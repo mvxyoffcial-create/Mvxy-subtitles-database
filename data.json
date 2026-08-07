@@ -2635,5 +2635,12 @@
     "slug": "mainvaapasaaunga-2026",
     "lang": "Sinhala",
     "file": "movies/mainvaapasaaunga-2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Operation_Safed_Sagar_The_Untold_Story_of_the_Kargil_War_S01E01",
+    "slug": "operationsafedsagartheuntoldstoryofthekargilwars01e01",
+    "lang": "English",
+    "file": "movies/operationsafedsagartheuntoldstoryofthekargilwars01e01-eng.srt"
   }
 ]

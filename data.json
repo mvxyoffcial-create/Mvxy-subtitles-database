@@ -2726,5 +2726,12 @@
     "slug": "mrpneekenthanaakentha2026",
     "lang": "English",
     "file": "movies/mrpneekenthanaakentha2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "MRP_Neekentha_Naakentha.2026",
+    "slug": "mrpneekenthanaakentha2026",
+    "lang": "Sinhala",
+    "file": "movies/mrpneekenthanaakentha2026-sin.srt"
   }
 ]

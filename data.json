@@ -2733,5 +2733,12 @@
     "slug": "mrpneekenthanaakentha2026",
     "lang": "Sinhala",
     "file": "movies/mrpneekenthanaakentha2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Nooru Sami 2026",
+    "slug": "nooru-sami-2026",
+    "lang": "English",
+    "file": "movies/nooru-sami-2026-eng.srt"
   }
 ]

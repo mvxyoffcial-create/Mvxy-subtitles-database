@@ -2747,5 +2747,12 @@
     "slug": "nooru-sami-2026",
     "lang": "Sinhala",
     "file": "movies/nooru-sami-2026-sin.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Last.House.2026",
+    "slug": "thelasthouse2026",
+    "lang": "English",
+    "file": "movies/thelasthouse2026-eng.srt"
   }
 ]

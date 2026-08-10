@@ -2754,5 +2754,12 @@
     "slug": "thelasthouse2026",
     "lang": "English",
     "file": "movies/thelasthouse2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Lucky.Strike.2026",
+    "slug": "luckystrike2026",
+    "lang": "English",
+    "file": "movies/luckystrike2026-eng.srt"
   }
 ]

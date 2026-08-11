@@ -2768,5 +2768,12 @@
     "slug": "the-ribbon-hero-2026",
     "lang": "English",
     "file": "movies/the-ribbon-hero-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Minions.and.Monsters.2026",
+    "slug": "minionsandmonsters2026",
+    "lang": "English",
+    "file": "movies/minionsandmonsters2026-eng.srt"
   }
 ]

@@ -2761,5 +2761,12 @@
     "slug": "luckystrike2026",
     "lang": "English",
     "file": "movies/luckystrike2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The Ribbon Hero 2026",
+    "slug": "the-ribbon-hero-2026",
+    "lang": "English",
+    "file": "movies/the-ribbon-hero-2026-eng.srt"
   }
 ]

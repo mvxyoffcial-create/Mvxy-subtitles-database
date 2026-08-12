@@ -2775,5 +2775,12 @@
     "slug": "minionsandmonsters2026",
     "lang": "English",
     "file": "movies/minionsandmonsters2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Ip.Man.Kung.Fu.Legend.2026",
+    "slug": "ipmankungfulegend2026",
+    "lang": "English",
+    "file": "movies/ipmankungfulegend2026-eng.srt"
   }
 ]

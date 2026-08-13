@@ -2803,5 +2803,12 @@
     "slug": "jumper2026",
     "lang": "English",
     "file": "movies/jumper2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Kattalan.2026",
+    "slug": "kattalan2026",
+    "lang": "English",
+    "file": "movies/kattalan2026-eng.srt"
   }
 ]

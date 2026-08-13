@@ -2796,5 +2796,12 @@
     "slug": "godarigattupaina2026",
     "lang": "English",
     "file": "movies/godarigattupaina2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Jumper.2026",
+    "slug": "jumper2026",
+    "lang": "English",
+    "file": "movies/jumper2026-eng.srt"
   }
 ]

@@ -2810,5 +2810,12 @@
     "slug": "kattalan2026",
     "lang": "English",
     "file": "movies/kattalan2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Star 2024",
+    "slug": "star-2024",
+    "lang": "English",
+    "file": "movies/star-2024-eng.srt"
   }
 ]

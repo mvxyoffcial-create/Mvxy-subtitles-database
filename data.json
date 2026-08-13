@@ -2789,5 +2789,12 @@
     "slug": "bridehard2025",
     "lang": "English",
     "file": "movies/bridehard2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Godari.Gattupaina.2026",
+    "slug": "godarigattupaina2026",
+    "lang": "English",
+    "file": "movies/godarigattupaina2026-eng.srt"
   }
 ]

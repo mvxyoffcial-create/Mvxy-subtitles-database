@@ -2782,5 +2782,12 @@
     "slug": "ipmankungfulegend2026",
     "lang": "English",
     "file": "movies/ipmankungfulegend2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Bride.Hard.2025",
+    "slug": "bridehard2025",
+    "lang": "English",
+    "file": "movies/bridehard2025-eng.srt"
   }
 ]

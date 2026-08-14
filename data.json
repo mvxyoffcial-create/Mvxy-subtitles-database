@@ -2817,5 +2817,12 @@
     "slug": "star-2024",
     "lang": "English",
     "file": "movies/star-2024-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Cocktail_2_2026",
+    "slug": "cocktail22026",
+    "lang": "English",
+    "file": "movies/cocktail22026-eng.srt"
   }
 ]

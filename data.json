@@ -2838,5 +2838,12 @@
     "slug": "achyutaavataaram2026",
     "lang": "English",
     "file": "movies/achyutaavataaram2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Aroopi.2026",
+    "slug": "aroopi2026",
+    "lang": "English",
+    "file": "movies/aroopi2026-eng.srt"
   }
 ]

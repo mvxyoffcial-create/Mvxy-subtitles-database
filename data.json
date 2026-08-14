@@ -2831,5 +2831,12 @@
     "slug": "aakhrisawal2026",
     "lang": "English",
     "file": "movies/aakhrisawal2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Achyuta.Avataaram.2026",
+    "slug": "achyutaavataaram2026",
+    "lang": "English",
+    "file": "movies/achyutaavataaram2026-eng.srt"
   }
 ]

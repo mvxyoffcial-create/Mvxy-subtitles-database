@@ -2824,5 +2824,12 @@
     "slug": "cocktail22026",
     "lang": "English",
     "file": "movies/cocktail22026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Aakhri.Sawal.2026",
+    "slug": "aakhrisawal2026",
+    "lang": "English",
+    "file": "movies/aakhrisawal2026-eng.srt"
   }
 ]

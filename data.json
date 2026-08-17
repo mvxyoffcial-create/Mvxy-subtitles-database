@@ -2845,5 +2845,12 @@
     "slug": "aroopi2026",
     "lang": "English",
     "file": "movies/aroopi2026-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Lanterns.S01E01.2026",
+    "slug": "lanternss01e012026",
+    "lang": "English",
+    "file": "tv/lanternss01e012026-eng.srt"
   }
 ]

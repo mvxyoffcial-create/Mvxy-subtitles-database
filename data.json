@@ -2859,5 +2859,12 @@
     "slug": "toystory052026",
     "lang": "English",
     "file": "movies/toystory052026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Vampires.of.the.Velvet.Lounge.2026",
+    "slug": "vampiresofthevelvetlounge2026",
+    "lang": "English",
+    "file": "movies/vampiresofthevelvetlounge2026-eng.srt"
   }
 ]

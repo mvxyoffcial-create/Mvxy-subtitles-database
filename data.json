@@ -2852,5 +2852,12 @@
     "slug": "lanternss01e012026",
     "lang": "English",
     "file": "tv/lanternss01e012026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Toy.Story.05..2026",
+    "slug": "toystory052026",
+    "lang": "English",
+    "file": "movies/toystory052026-eng.srt"
   }
 ]

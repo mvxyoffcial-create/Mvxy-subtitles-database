@@ -2866,5 +2866,12 @@
     "slug": "vampiresofthevelvetlounge2026",
     "lang": "English",
     "file": "movies/vampiresofthevelvetlounge2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Euphoria.2026",
+    "slug": "euphoria2026",
+    "lang": "English",
+    "file": "movies/euphoria2026-eng.srt"
   }
 ]

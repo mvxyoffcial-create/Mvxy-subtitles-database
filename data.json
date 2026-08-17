@@ -2873,5 +2873,12 @@
     "slug": "euphoria2026",
     "lang": "English",
     "file": "movies/euphoria2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Wrangler.2026",
+    "slug": "wrangler2026",
+    "lang": "English",
+    "file": "movies/wrangler2026-eng.srt"
   }
 ]

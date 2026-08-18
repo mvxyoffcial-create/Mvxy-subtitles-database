@@ -2915,5 +2915,12 @@
     "slug": "luca2021",
     "lang": "English",
     "file": "movies/luca2021-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Heartin.2026",
+    "slug": "heartin2026",
+    "lang": "English",
+    "file": "movies/heartin2026-eng.srt"
   }
 ]

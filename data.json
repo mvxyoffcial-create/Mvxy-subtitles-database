@@ -2922,5 +2922,12 @@
     "slug": "heartin2026",
     "lang": "English",
     "file": "movies/heartin2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Stolen.Girl.2025",
+    "slug": "stolengirl2025",
+    "lang": "English",
+    "file": "movies/stolengirl2025-eng.srt"
   }
 ]

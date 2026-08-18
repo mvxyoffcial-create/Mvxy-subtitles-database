@@ -2894,5 +2894,12 @@
     "slug": "maaintibangaram2026",
     "lang": "English",
     "file": "movies/maaintibangaram2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Close.to.Me.2025",
+    "slug": "closetome2025",
+    "lang": "English",
+    "file": "movies/closetome2025-eng.srt"
   }
 ]

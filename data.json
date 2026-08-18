@@ -2880,5 +2880,12 @@
     "slug": "wrangler2026",
     "lang": "English",
     "file": "movies/wrangler2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Dont.Say.Good.Luck.2026",
+    "slug": "dontsaygoodluck2026",
+    "lang": "English",
+    "file": "movies/dontsaygoodluck2026-eng.srt"
   }
 ]

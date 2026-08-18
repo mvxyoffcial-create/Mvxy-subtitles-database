@@ -2887,5 +2887,12 @@
     "slug": "dontsaygoodluck2026",
     "lang": "English",
     "file": "movies/dontsaygoodluck2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Maa.Inti.Bangaram.2026",
+    "slug": "maaintibangaram2026",
+    "lang": "English",
+    "file": "movies/maaintibangaram2026-eng.srt"
   }
 ]

@@ -2901,5 +2901,12 @@
     "slug": "closetome2025",
     "lang": "English",
     "file": "movies/closetome2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Moda.Kavida.Vaatavarana.2026",
+    "slug": "modakavidavaatavarana2026",
+    "lang": "English",
+    "file": "movies/modakavidavaatavarana2026-eng.srt"
   }
 ]

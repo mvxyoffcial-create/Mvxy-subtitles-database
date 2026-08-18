@@ -2908,5 +2908,12 @@
     "slug": "modakavidavaatavarana2026",
     "lang": "English",
     "file": "movies/modakavidavaatavarana2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Luca.2021",
+    "slug": "luca2021",
+    "lang": "English",
+    "file": "movies/luca2021-eng.srt"
   }
 ]

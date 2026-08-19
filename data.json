@@ -2943,5 +2943,12 @@
     "slug": "fast2furious2003",
     "lang": "English",
     "file": "movies/fast2furious2003-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "3.The.Fast.and.the.Furious.Tokyo.Drift.2006",
+    "slug": "3thefastandthefurioustokyodrift2006",
+    "lang": "English",
+    "file": "movies/3thefastandthefurioustokyodrift2006-eng.srt"
   }
 ]

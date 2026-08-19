@@ -1,0 +1,3669 @@
+1
+00:00:58,415 --> 00:01:01,665
+<font color="#c0c0c0" face="Perpetua">Just packed up a real money load,
+and it's coming your way.</font>
+
+2
+00:01:01,752 --> 00:01:05,915
+<font color="#c0c0c0" face="Perpetua">Look for "Rodgers" on the truck's side.
+Don't forget my share of the deal.</font>
+
+3
+00:03:55,927 --> 00:03:56,508
+<font color="#c0c0c0" face="Perpetua">Shit!</font>
+
+4
+00:04:37,845 --> 00:04:41,296
+<font color="#c0c0c0" face="Perpetua">- Tuna on white, no crust, right?
+- I don't know. How is it?</font>
+
+5
+00:04:41,974 --> 00:04:46,268
+<font color="#c0c0c0" face="Perpetua">Every day, for the last three weeks,
+you've come here, asking how the tuna is.</font>
+
+6
+00:04:46,353 --> 00:04:50,102
+<font color="#c0c0c0" face="Perpetua">Now, it was crappy yesterday.
+It was crappy the day before.</font>
+
+7
+00:04:50,190 --> 00:04:52,978
+<font color="#c0c0c0" face="Perpetua">And guess what? It hasn't changed.</font>
+
+8
+00:04:53,611 --> 00:04:55,520
+<font color="#c0c0c0" face="Perpetua">- I'll have the tuna.
+- No crust?</font>
+
+9
+00:04:55,613 --> 00:04:56,692
+<font color="#c0c0c0" face="Perpetua">No crust.</font>
+
+10
+00:05:20,930 --> 00:05:22,044
+<font color="#c0c0c0" face="Perpetua">Thank you.</font>
+
+11
+00:06:09,103 --> 00:06:11,476
+<font color="#c0c0c0" face="Perpetua">Talk to me, Jesse.
+This ain't working, brother.</font>
+
+12
+00:06:11,564 --> 00:06:14,186
+<font color="#c0c0c0" face="Perpetua">It's your fuel map. It's got a nasty hole.</font>
+
+13
+00:06:14,609 --> 00:06:17,361
+<font color="#c0c0c0" face="Perpetua">- That's why you're unloading in third.
+- Told you.</font>
+
+14
+00:06:17,445 --> 00:06:22,570
+<font color="#c0c0c0" face="Perpetua">I lengthen the injector pulse a millisecond.
+Just tune the NOS timer, you'll run nines.</font>
+
+15
+00:06:30,417 --> 00:06:33,038
+<font color="#c0c0c0" face="Perpetua">What's up with this fool?
+Is he sandwich-crazy?</font>
+
+16
+00:06:33,128 --> 00:06:37,754
+<font color="#c0c0c0" face="Perpetua">- No. He ain't here for the food, dog.
+- Chill out. He's slinging parts for Harry.</font>
+
+17
+00:06:37,841 --> 00:06:41,340
+<font color="#c0c0c0" face="Perpetua">- I know what he's slinging.
+- He's trying to get in Mia's pants, dog.</font>
+
+18
+00:06:41,428 --> 00:06:43,670
+<font color="#c0c0c0" face="Perpetua">- What's up, guys?
+- How you doing, Mia?</font>
+
+19
+00:06:43,763 --> 00:06:45,922
+<font color="#c0c0c0" face="Perpetua">- How you living, girl?
+- Hey!</font>
+
+20
+00:06:46,516 --> 00:06:48,924
+<font color="#c0c0c0" face="Perpetua">Hey, Dom. You want something to drink?</font>
+
+21
+00:06:59,946 --> 00:07:03,066
+<font color="#c0c0c0" face="Perpetua">- He's beautiful.
+- I like his haircut.</font>
+
+22
+00:07:05,786 --> 00:07:06,817
+<font color="#c0c0c0" face="Perpetua">Vince!</font>
+
+23
+00:07:08,080 --> 00:07:10,072
+<font color="#c0c0c0" face="Perpetua">- What?
+- Can I get you anything?</font>
+
+24
+00:07:11,833 --> 00:07:13,114
+<font color="#c0c0c0" face="Perpetua">You look good.</font>
+
+25
+00:07:17,297 --> 00:07:19,967
+<font color="#c0c0c0" face="Perpetua">- Thanks a lot, Mia. See you tomorrow.
+- Sure.</font>
+
+26
+00:07:22,886 --> 00:07:24,843
+<font color="#c0c0c0" face="Perpetua">- Tomorrow?
+- I love this part.</font>
+
+27
+00:07:29,601 --> 00:07:34,228
+<font color="#c0c0c0" face="Perpetua">Try Fatburger from now on. Get yourself a
+Double Cheese with fries for $2.95, faggot.</font>
+
+28
+00:07:34,314 --> 00:07:37,814
+<font color="#c0c0c0" face="Perpetua">- I like the tuna here.
+- Bullshit. No one likes the tuna here.</font>
+
+29
+00:07:37,901 --> 00:07:39,312
+<font color="#c0c0c0" face="Perpetua">Yeah, well, I do.</font>
+
+30
+00:07:51,832 --> 00:07:55,367
+<font color="#c0c0c0" face="Perpetua">Jesus Christ, Dom! Would you get out
+there? I'm sick of this shit.</font>
+
+31
+00:07:55,461 --> 00:07:57,786
+<font color="#c0c0c0" face="Perpetua">I'm not kidding, Dom. Get out there!</font>
+
+32
+00:08:02,176 --> 00:08:04,667
+<font color="#c0c0c0" face="Perpetua">- What did you put in that sandwich?
+- That's funny.</font>
+
+33
+00:08:04,762 --> 00:08:06,968
+<font color="#c0c0c0" face="Perpetua">- Dom!
+- All right.</font>
+
+34
+00:08:25,491 --> 00:08:28,362
+<font color="#c0c0c0" face="Perpetua">- Hey, man. He was in my face.
+- I'm in your face.</font>
+
+35
+00:08:29,996 --> 00:08:32,913
+<font color="#c0c0c0" face="Perpetua">Relax! Don't push it! You embarrass me!</font>
+
+36
+00:08:35,585 --> 00:08:36,865
+<font color="#c0c0c0" face="Perpetua">Get over there!</font>
+
+37
+00:08:38,379 --> 00:08:40,170
+<font color="#c0c0c0" face="Perpetua">Jesse, give me the wallet.</font>
+
+38
+00:08:43,050 --> 00:08:46,419
+<font color="#c0c0c0" face="Perpetua">"Brian Earl Spilner."
+Sounds like a serial killer name.</font>
+
+39
+00:08:46,554 --> 00:08:48,345
+<font color="#c0c0c0" face="Perpetua">- Is that what you are?
+- No, man.</font>
+
+40
+00:08:48,431 --> 00:08:50,388
+<font color="#c0c0c0" face="Perpetua">Don't come around here again.</font>
+
+41
+00:08:52,810 --> 00:08:54,719
+<font color="#c0c0c0" face="Perpetua">Hey, man. This is bullshit.</font>
+
+42
+00:08:55,772 --> 00:08:58,772
+<font color="#c0c0c0" face="Perpetua">- You work for Harry, right?
+- Yeah. I just started.</font>
+
+43
+00:08:58,983 --> 00:09:00,525
+<font color="#c0c0c0" face="Perpetua">You were just fired.</font>
+
+44
+00:09:13,456 --> 00:09:16,576
+<font color="#c0c0c0" face="Perpetua">Hey, Dominic.
+I appreciate what you did, in a big way.</font>
+
+45
+00:09:17,085 --> 00:09:18,579
+<font color="#c0c0c0" face="Perpetua">Dominic, I owe you.</font>
+
+46
+00:09:20,505 --> 00:09:25,048
+<font color="#c0c0c0" face="Perpetua">Brian, you're messing with my business.
+When Dominic drives, he's golden.</font>
+
+47
+00:09:25,176 --> 00:09:29,803
+<font color="#c0c0c0" face="Perpetua">Kids pour in. They want everything he has.
+Every performance part. They pay cash!</font>
+
+48
+00:09:30,348 --> 00:09:33,100
+<font color="#c0c0c0" face="Perpetua">- What did Dominic say?
+- You don't want to know.</font>
+
+49
+00:09:33,435 --> 00:09:36,305
+<font color="#c0c0c0" face="Perpetua">- What did Dominic say?
+- He wants you out of here.</font>
+
+50
+00:09:36,896 --> 00:09:38,854
+<font color="#c0c0c0" face="Perpetua">- He wants me out of here?
+- Yes.</font>
+
+51
+00:09:38,940 --> 00:09:42,226
+<font color="#c0c0c0" face="Perpetua">- And what did you say to Dom?
+- What do you think I said?</font>
+
+52
+00:09:42,527 --> 00:09:45,018
+<font color="#c0c0c0" face="Perpetua">I told him, "Good help is hard to find."</font>
+
+53
+00:09:48,199 --> 00:09:49,231
+<font color="#c0c0c0" face="Perpetua">Relax.</font>
+
+54
+00:09:52,913 --> 00:09:54,158
+<font color="#c0c0c0" face="Perpetua">I need NOS.</font>
+
+55
+00:09:54,706 --> 00:09:56,912
+<font color="#c0c0c0" face="Perpetua">- I need NOS.
+- No.</font>
+
+56
+00:09:57,083 --> 00:09:59,871
+<font color="#c0c0c0" face="Perpetua">My car topped out at 140 miles per hour,
+this morning.</font>
+
+57
+00:09:59,961 --> 00:10:04,374
+<font color="#c0c0c0" face="Perpetua">Amateurs don't use nitrous oxide. I've
+seen how you drive. You've a heavy foot.</font>
+
+58
+00:10:05,175 --> 00:10:08,295
+<font color="#c0c0c0" face="Perpetua">- You'll blow yourself to pieces.
+- I need one of these.</font>
+
+59
+00:10:08,553 --> 00:10:11,922
+<font color="#c0c0c0" face="Perpetua">One of the big ones.
+Actually, let's make it two.</font>
+
+60
+00:10:12,432 --> 00:10:14,591
+<font color="#c0c0c0" face="Perpetua">And, Harry, I need it by tonight.</font>
+
+61
+00:11:26,382 --> 00:11:29,667
+<font color="#c0c0c0" face="Perpetua">Hold up, hold up.
+Look at this snowman right here, man.</font>
+
+62
+00:11:34,014 --> 00:11:36,850
+<font color="#c0c0c0" face="Perpetua">Sweet ride.
+What you running under there, man?</font>
+
+63
+00:11:39,603 --> 00:11:42,474
+<font color="#c0c0c0" face="Perpetua">- Going to make me find out the hard way?
+- Hell, yeah.</font>
+
+64
+00:11:42,565 --> 00:11:45,435
+<font color="#c0c0c0" face="Perpetua">You brave. You brave.
+They call me Hector.</font>
+
+65
+00:11:46,068 --> 00:11:48,856
+<font color="#c0c0c0" face="Perpetua">I got a last name, too,
+but I can't pronounce it.</font>
+
+66
+00:11:48,946 --> 00:11:51,402
+<font color="#c0c0c0" face="Perpetua">- Brian Spilner.
+- Typical white-boy name.</font>
+
+67
+00:11:51,741 --> 00:11:53,614
+<font color="#c0c0c0" face="Perpetua">Know what I'm saying?</font>
+
+68
+00:11:55,912 --> 00:12:00,787
+<font color="#c0c0c0" face="Perpetua">See that over there? That's mine.
+My baby. I ain't cutting her loose tonight.</font>
+
+69
+00:12:01,083 --> 00:12:02,910
+<font color="#c0c0c0" face="Perpetua">- Why not?
+- I'm going legit, homey.</font>
+
+70
+00:12:03,002 --> 00:12:05,671
+<font color="#c0c0c0" face="Perpetua">Trying to get on the NIRA circuit.
+Heard about that?</font>
+
+71
+00:12:05,755 --> 00:12:08,756
+<font color="#c0c0c0" face="Perpetua">- Hell, yeah.
+- So, what's up with you, man?</font>
+
+72
+00:12:08,966 --> 00:12:13,130
+<font color="#c0c0c0" face="Perpetua">- I'm just waiting for Toretto.
+- Shit. Better get in line. This yours?</font>
+
+73
+00:12:14,305 --> 00:12:16,796
+<font color="#c0c0c0" face="Perpetua">- I'm standing next to it.
+- That's funny.</font>
+
+74
+00:12:16,933 --> 00:12:19,602
+<font color="#c0c0c0" face="Perpetua">You know,
+Edwin happens to know a few things.</font>
+
+75
+00:12:21,771 --> 00:12:23,977
+<font color="#c0c0c0" face="Perpetua">And one of the things Edwin knows is:
+It's not how you stand by your car...</font>
+
+76
+00:12:24,399 --> 00:12:27,316
+<font color="#c0c0c0" face="Perpetua">...it's how you race your car.
+You better learn that.</font>
+
+77
+00:12:33,283 --> 00:12:36,200
+<font color="#c0c0c0" face="Perpetua">Oh, shit. Here they come. It's on.</font>
+
+78
+00:12:51,593 --> 00:12:53,384
+<font color="#c0c0c0" face="Perpetua">- Dom.
+- Marvin.</font>
+
+79
+00:12:55,096 --> 00:12:58,679
+<font color="#c0c0c0" face="Perpetua">- Hey, Dom. How you doing?
+- Hey, Camille. You been doing yoga?</font>
+
+80
+00:13:03,063 --> 00:13:05,980
+<font color="#c0c0c0" face="Perpetua">You did? Of course you did. Monica.</font>
+
+81
+00:13:08,860 --> 00:13:10,853
+<font color="#c0c0c0" face="Perpetua">I smell skanks.</font>
+
+82
+00:13:11,571 --> 00:13:15,439
+<font color="#c0c0c0" face="Perpetua">Why don't you girls pack it up,
+before I leave tread marks on your face?</font>
+
+83
+00:13:15,534 --> 00:13:16,447
+<font color="#c0c0c0" face="Perpetua">Okay.</font>
+
+84
+00:13:16,701 --> 00:13:19,371
+<font color="#c0c0c0" face="Perpetua">- Letty, I was just talking.
+- Yeah. Whatever.</font>
+
+85
+00:13:19,788 --> 00:13:22,789
+<font color="#c0c0c0" face="Perpetua">- Okay, Hector.
+- Yeah? What's up, man?</font>
+
+86
+00:13:24,501 --> 00:13:26,043
+<font color="#c0c0c0" face="Perpetua">- Yo. What's up?
+- Edwin.</font>
+
+87
+00:13:26,128 --> 00:13:28,500
+<font color="#c0c0c0" face="Perpetua">- How we doing this tonight?
+- One race.</font>
+
+88
+00:13:29,005 --> 00:13:33,134
+<font color="#c0c0c0" face="Perpetua">$2,000 buy-in. Winner takes all.
+Hector, you're going to hold the cash.</font>
+
+89
+00:13:33,635 --> 00:13:36,636
+<font color="#c0c0c0" face="Perpetua">- Why Hector?
+- Too slow to make away with the money.</font>
+
+90
+00:13:39,099 --> 00:13:41,768
+<font color="#c0c0c0" face="Perpetua">- Okay. Good luck, guys.
+- Hey, wait. Hold up.</font>
+
+91
+00:13:42,269 --> 00:13:46,136
+<font color="#c0c0c0" face="Perpetua">I don't have any cash.
+But I do have the pink slip to my car.</font>
+
+92
+00:13:46,607 --> 00:13:50,439
+<font color="#c0c0c0" face="Perpetua">You just can't climb in the ring with Ali,
+'cause you think you box.</font>
+
+93
+00:13:50,652 --> 00:13:53,902
+<font color="#c0c0c0" face="Perpetua">He knows I can box. Check it out.
+It's like this.</font>
+
+94
+00:13:54,907 --> 00:13:58,026
+<font color="#c0c0c0" face="Perpetua">I lose, the winner takes my car.
+Clean and clear.</font>
+
+95
+00:13:58,452 --> 00:14:01,821
+<font color="#c0c0c0" face="Perpetua">But if I win, I take the cash,
+and I take the respect.</font>
+
+96
+00:14:02,456 --> 00:14:03,487
+<font color="#c0c0c0" face="Perpetua">Respect.</font>
+
+97
+00:14:05,834 --> 00:14:08,206
+<font color="#c0c0c0" face="Perpetua">To some people, that's more important.</font>
+
+98
+00:14:10,339 --> 00:14:11,667
+<font color="#c0c0c0" face="Perpetua">That your car?</font>
+
+99
+00:14:15,469 --> 00:14:20,297
+<font color="#c0c0c0" face="Perpetua">I see a cool air intake. It's got a NOS
+fogger system and a T 4 turbo, Dominic.</font>
+
+100
+00:14:20,474 --> 00:14:25,432
+<font color="#c0c0c0" face="Perpetua">I see an AIC controller.
+It has direct port nitrous injection.</font>
+
+101
+00:14:25,688 --> 00:14:28,475
+<font color="#c0c0c0" face="Perpetua">Yeah. And a stand-alone
+fuel management system.</font>
+
+102
+00:14:29,483 --> 00:14:31,559
+<font color="#c0c0c0" face="Perpetua">Not a bad way to spend $10,000.</font>
+
+103
+00:14:34,572 --> 00:14:36,030
+<font color="#c0c0c0" face="Perpetua">You see that shit?</font>
+
+104
+00:14:36,907 --> 00:14:40,193
+<font color="#c0c0c0" face="Perpetua">He's got enough NOS in there
+to blow himself up. Period.</font>
+
+105
+00:14:41,120 --> 00:14:44,287
+<font color="#c0c0c0" face="Perpetua">- So, what do you say? Am I worthy?
+- We don't know yet.</font>
+
+106
+00:14:44,999 --> 00:14:46,790
+<font color="#c0c0c0" face="Perpetua">But you're in. Let's go.</font>
+
+107
+00:14:47,668 --> 00:14:49,210
+<font color="#c0c0c0" face="Perpetua">- All right.
+- Let's go!</font>
+
+108
+00:15:53,651 --> 00:15:57,483
+<font color="#c0c0c0" face="Perpetua">- What the hell is going on around here?
+- Street's closed, pizza boy.</font>
+
+109
+00:15:57,989 --> 00:16:00,907
+<font color="#c0c0c0" face="Perpetua">- Find another way home.
+- Goddamn street racers.</font>
+
+110
+00:16:01,659 --> 00:16:05,953
+<font color="#c0c0c0" face="Perpetua"><i>Log on, 22. Code 3. Tension is high.
+They've blocked the street.</i></font>
+
+111
+00:16:52,127 --> 00:16:53,502
+<font color="#c0c0c0" face="Perpetua">Edwin.</font>
+
+112
+00:16:55,047 --> 00:16:58,001
+<font color="#c0c0c0" face="Perpetua">This is yours, whether you win or lose.</font>
+
+113
+00:16:58,884 --> 00:17:01,505
+<font color="#c0c0c0" face="Perpetua">But if you win, you get her, too.</font>
+
+114
+00:17:11,021 --> 00:17:12,563
+<font color="#c0c0c0" face="Perpetua">You're going to win.</font>
+
+115
+00:17:13,941 --> 00:17:15,518
+<font color="#c0c0c0" face="Perpetua">I'm going to win.</font>
+
+116
+00:17:59,904 --> 00:18:02,774
+<font color="#c0c0c0" face="Perpetua"><i>We had a reported homicide.
+187, at Barabian Liquors.</i></font>
+
+117
+00:18:02,865 --> 00:18:07,242
+<font color="#c0c0c0" face="Perpetua">I've got a 187 in Glendale.
+Cops are all over it. We're good to roll.</font>
+
+118
+00:18:07,954 --> 00:18:09,364
+<font color="#c0c0c0" face="Perpetua">- All right.
+- Let's race!</font>
+
+119
+00:18:09,455 --> 00:18:10,486
+<font color="#c0c0c0" face="Perpetua">Right.</font>
+
+120
+00:18:20,258 --> 00:18:21,040
+<font color="#c0c0c0" face="Perpetua">Go!</font>
+
+121
+00:18:35,189 --> 00:18:36,304
+<font color="#c0c0c0" face="Perpetua">Hell, yeah!</font>
+
+122
+00:18:52,373 --> 00:18:53,998
+<font color="#c0c0c0" face="Perpetua">Damn, that guy's fast.</font>
+
+123
+00:19:02,175 --> 00:19:04,333
+<font color="#c0c0c0" face="Perpetua">Let's go! Mčnage!</font>
+
+124
+00:19:31,371 --> 00:19:34,158
+<font color="#c0c0c0" face="Perpetua">No! Monica!</font>
+
+125
+00:19:49,931 --> 00:19:51,390
+<font color="#c0c0c0" face="Perpetua">Shut up!</font>
+
+126
+00:20:46,113 --> 00:20:47,607
+<font color="#c0c0c0" face="Perpetua">Well done, baby!</font>
+
+127
+00:20:56,999 --> 00:20:58,908
+<font color="#c0c0c0" face="Perpetua">Come on. Come on. Back up.</font>
+
+128
+00:20:59,710 --> 00:21:03,044
+<font color="#c0c0c0" face="Perpetua">Here's what you won, right here.
+There you go.</font>
+
+129
+00:21:03,130 --> 00:21:06,001
+<font color="#c0c0c0" face="Perpetua">You were racing a bunch of skateboards.
+Know what I mean?</font>
+
+130
+00:21:07,426 --> 00:21:10,096
+<font color="#c0c0c0" face="Perpetua">My sister holds the money. Count it.</font>
+
+131
+00:21:13,140 --> 00:21:14,718
+<font color="#c0c0c0" face="Perpetua">And you're my trophy.</font>
+
+132
+00:21:17,979 --> 00:21:21,928
+<font color="#c0c0c0" face="Perpetua">- Hey, Monica. What's up, baby?
+- What's your problem? You didn't win.</font>
+
+133
+00:21:24,902 --> 00:21:26,183
+<font color="#c0c0c0" face="Perpetua">Fuck you then!</font>
+
+134
+00:21:39,500 --> 00:21:40,781
+<font color="#c0c0c0" face="Perpetua">Was that fun?</font>
+
+135
+00:21:41,002 --> 00:21:42,911
+<font color="#c0c0c0" face="Perpetua">Got a problem there, buddy?</font>
+
+136
+00:21:49,635 --> 00:21:52,886
+<font color="#c0c0c0" face="Perpetua">- What are you smiling about?
+- Dude. I almost had you.</font>
+
+137
+00:21:55,725 --> 00:21:57,516
+<font color="#c0c0c0" face="Perpetua">You almost had me?</font>
+
+138
+00:21:58,186 --> 00:22:00,641
+<font color="#c0c0c0" face="Perpetua">You never had me.
+You never had your car.</font>
+
+139
+00:22:03,942 --> 00:22:07,108
+<font color="#c0c0c0" face="Perpetua">Granny-shifting.
+Not double-clutching, like you should.</font>
+
+140
+00:22:08,029 --> 00:22:12,193
+<font color="#c0c0c0" face="Perpetua">You're lucky that 100-shot of NOS
+didn't blow the welds on the intake.</font>
+
+141
+00:22:13,451 --> 00:22:17,829
+<font color="#c0c0c0" face="Perpetua">- Almost had me?
+- You tell him, Dominic. Get out of here.</font>
+
+142
+00:22:19,207 --> 00:22:22,291
+<font color="#c0c0c0" face="Perpetua">Now, me and the mad scientist
+got to rip apart the block...</font>
+
+143
+00:22:22,377 --> 00:22:24,950
+<font color="#c0c0c0" face="Perpetua">...and replace the piston rings you fried.</font>
+
+144
+00:22:32,721 --> 00:22:34,760
+<font color="#c0c0c0" face="Perpetua">Ask any racer. Any real racer.</font>
+
+145
+00:22:35,515 --> 00:22:39,976
+<font color="#c0c0c0" face="Perpetua">It don't matter if you win by an inch
+or a mile. Winning's winning.</font>
+
+146
+00:22:40,270 --> 00:22:41,598
+<font color="#c0c0c0" face="Perpetua">Yeah!</font>
+
+147
+00:22:47,194 --> 00:22:50,278
+<font color="#c0c0c0" face="Perpetua"><i>All available units,
+we have street-racing along Hawthorne....</i></font>
+
+148
+00:22:50,363 --> 00:22:52,273
+<font color="#c0c0c0" face="Perpetua">Oh, shit! We got cops. Cops!</font>
+
+149
+00:22:52,574 --> 00:22:53,819
+<font color="#c0c0c0" face="Perpetua">Go!</font>
+
+150
+00:23:05,545 --> 00:23:07,337
+<font color="#c0c0c0" face="Perpetua">Cops! Get in the car! Go!</font>
+
+151
+00:24:31,591 --> 00:24:33,797
+<font color="#c0c0c0" face="Perpetua"><i>Toretto, stop right there!</i></font>
+
+152
+00:24:35,511 --> 00:24:36,626
+<font color="#c0c0c0" face="Perpetua"><i>Toretto!</i></font>
+
+153
+00:24:51,652 --> 00:24:52,851
+<font color="#c0c0c0" face="Perpetua">Get in!</font>
+
+154
+00:25:39,367 --> 00:25:42,701
+<font color="#c0c0c0" face="Perpetua">You're the last person in the world
+I expected to show up.</font>
+
+155
+00:25:43,872 --> 00:25:47,786
+<font color="#c0c0c0" face="Perpetua">I thought if I got in your good graces,
+you might let me keep my car.</font>
+
+156
+00:25:48,043 --> 00:25:51,376
+<font color="#c0c0c0" face="Perpetua">You are in my good graces,
+but you ain't keeping your car.</font>
+
+157
+00:25:52,255 --> 00:25:55,256
+<font color="#c0c0c0" face="Perpetua">You drive like you've done this before.
+Are you a wheelman?</font>
+
+158
+00:25:55,342 --> 00:25:57,714
+<font color="#c0c0c0" face="Perpetua">- No.
+- You boost cars?</font>
+
+159
+00:26:00,138 --> 00:26:02,297
+<font color="#c0c0c0" face="Perpetua">- No. Never.
+- Ever done time?</font>
+
+160
+00:26:02,682 --> 00:26:05,008
+<font color="#c0c0c0" face="Perpetua">Couple of overnighters. No big deal.</font>
+
+161
+00:26:05,769 --> 00:26:08,805
+<font color="#c0c0c0" face="Perpetua">What about the two years
+in juvie for boosting cars?</font>
+
+162
+00:26:11,775 --> 00:26:13,269
+<font color="#c0c0c0" face="Perpetua">Tucson, right?</font>
+
+163
+00:26:13,985 --> 00:26:17,070
+<font color="#c0c0c0" face="Perpetua">I had Jesse run a profile on you,
+Brian Earl Spilner.</font>
+
+164
+00:26:18,615 --> 00:26:21,782
+<font color="#c0c0c0" face="Perpetua">He'll find anything on the Web.
+Anything about anybody.</font>
+
+165
+00:26:22,494 --> 00:26:23,905
+<font color="#c0c0c0" face="Perpetua">So, why bullshit?</font>
+
+166
+00:26:25,622 --> 00:26:27,116
+<font color="#c0c0c0" face="Perpetua">So, what about you?</font>
+
+167
+00:26:29,585 --> 00:26:31,079
+<font color="#c0c0c0" face="Perpetua">Two years in Lompoc.</font>
+
+168
+00:26:34,131 --> 00:26:35,922
+<font color="#c0c0c0" face="Perpetua">I'll die before I go back.</font>
+
+169
+00:26:42,055 --> 00:26:44,048
+<font color="#c0c0c0" face="Perpetua">- Oh, great.
+- What?</font>
+
+170
+00:26:46,977 --> 00:26:49,349
+<font color="#c0c0c0" face="Perpetua">It's going to be a long-ass night.
+That's what.</font>
+
+171
+00:26:53,651 --> 00:26:55,026
+<font color="#c0c0c0" face="Perpetua">Follow us.</font>
+
+172
+00:27:45,745 --> 00:27:49,956
+<font color="#c0c0c0" face="Perpetua">I thought we had an agreement.
+You stay away. I stay away.</font>
+
+173
+00:27:51,375 --> 00:27:53,000
+<font color="#c0c0c0" face="Perpetua">Everybody stays happy.</font>
+
+174
+00:27:53,127 --> 00:27:55,452
+<font color="#c0c0c0" face="Perpetua">We got lost.
+What do you want me to tell you?</font>
+
+175
+00:27:55,546 --> 00:27:58,464
+<font color="#c0c0c0" face="Perpetua">- Who's "we"?
+- My new mechanic.</font>
+
+176
+00:27:58,841 --> 00:28:00,668
+<font color="#c0c0c0" face="Perpetua">Brian, meet Johnny Tran.</font>
+
+177
+00:28:00,802 --> 00:28:03,803
+<font color="#c0c0c0" face="Perpetua">The guy in the snakeskin pants.
+That's his cousin. Lance.</font>
+
+178
+00:28:03,888 --> 00:28:07,589
+<font color="#c0c0c0" face="Perpetua">So, when are you going to give me a shot
+at that Honda 2000 of yours?</font>
+
+179
+00:28:07,684 --> 00:28:10,091
+<font color="#c0c0c0" face="Perpetua">- This your ride?
+- It was. It's his now.</font>
+
+180
+00:28:10,520 --> 00:28:13,011
+<font color="#c0c0c0" face="Perpetua">No, it's not. I haven't taken delivery.</font>
+
+181
+00:28:15,191 --> 00:28:18,892
+<font color="#c0c0c0" face="Perpetua">Then, it's nobody's car.
+But somebody put in the wrench time.</font>
+
+182
+00:28:21,948 --> 00:28:25,566
+<font color="#c0c0c0" face="Perpetua">- What do you think, Lance?
+- It's an amazing machine.</font>
+
+183
+00:28:26,244 --> 00:28:27,703
+<font color="#c0c0c0" face="Perpetua">Yes, indeed.</font>
+
+184
+00:28:29,914 --> 00:28:31,325
+<font color="#c0c0c0" face="Perpetua">Let's go.</font>
+
+185
+00:28:33,501 --> 00:28:37,914
+<font color="#c0c0c0" face="Perpetua">I'll see you in the desert next month.
+Be ready to have your ass handed to you.</font>
+
+186
+00:28:38,173 --> 00:28:42,040
+<font color="#c0c0c0" face="Perpetua">- You'll need more than that crotch rocket.
+- I got something for you.</font>
+
+187
+00:28:55,941 --> 00:28:59,475
+<font color="#c0c0c0" face="Perpetua">- What the hell was that all about?
+- Long story. I'll tell you later.</font>
+
+188
+00:28:59,569 --> 00:29:01,194
+<font color="#c0c0c0" face="Perpetua">Let's get out of here.</font>
+
+189
+00:29:28,598 --> 00:29:29,713
+<font color="#c0c0c0" face="Perpetua">NOS!</font>
+
+190
+00:29:41,904 --> 00:29:45,320
+<font color="#c0c0c0" face="Perpetua">- So, what the hell was that all about?
+- It's a long story.</font>
+
+191
+00:29:46,200 --> 00:29:48,109
+<font color="#c0c0c0" face="Perpetua">Well, we got a 20-mile hike. Humor me.</font>
+
+192
+00:29:49,119 --> 00:29:51,242
+<font color="#c0c0c0" face="Perpetua">A business deal that went sour.</font>
+
+193
+00:29:52,206 --> 00:29:55,290
+<font color="#c0c0c0" face="Perpetua">Plus, I made the mistake
+of sleeping with his sister.</font>
+
+194
+00:30:21,485 --> 00:30:22,730
+<font color="#c0c0c0" face="Perpetua">Take care.</font>
+
+195
+00:30:27,825 --> 00:30:29,367
+<font color="#c0c0c0" face="Perpetua">Yo, Spilner.</font>
+
+196
+00:30:30,786 --> 00:30:32,993
+<font color="#c0c0c0" face="Perpetua">- You want a beer?
+- Yeah, sure.</font>
+
+197
+00:30:33,664 --> 00:30:35,242
+<font color="#c0c0c0" face="Perpetua">Oh, shit.</font>
+
+198
+00:30:59,315 --> 00:31:02,269
+<font color="#c0c0c0" face="Perpetua">We were all there, right? Falling behind.</font>
+
+199
+00:31:02,360 --> 00:31:04,815
+<font color="#c0c0c0" face="Perpetua">- With all that nitrous.
+- Yeah.</font>
+
+200
+00:31:11,702 --> 00:31:15,154
+<font color="#c0c0c0" face="Perpetua">Yo, Dom. We were just about to go
+looking for you, brother.</font>
+
+201
+00:31:21,087 --> 00:31:22,367
+<font color="#c0c0c0" face="Perpetua">Where were you?</font>
+
+202
+00:31:22,463 --> 00:31:26,710
+<font color="#c0c0c0" face="Perpetua">There were mass cops there. They came in
+from every direction. It was orchestrated.</font>
+
+203
+00:31:26,801 --> 00:31:29,173
+<font color="#c0c0c0" face="Perpetua">- This your beer?
+- Yeah, that's my beer.</font>
+
+204
+00:31:32,265 --> 00:31:34,756
+<font color="#c0c0c0" face="Perpetua">Yo, Einstein. Take it upstairs.</font>
+
+205
+00:31:35,435 --> 00:31:37,973
+<font color="#c0c0c0" face="Perpetua">You can't detail a car with the cover on.</font>
+
+206
+00:31:38,813 --> 00:31:41,684
+<font color="#c0c0c0" face="Perpetua">- Can't even get that right.
+- You all right?</font>
+
+207
+00:31:43,860 --> 00:31:46,731
+<font color="#c0c0c0" face="Perpetua">- Am I all right?
+- It was just a question.</font>
+
+208
+00:31:50,492 --> 00:31:51,772
+<font color="#c0c0c0" face="Perpetua">Yo, Dom.</font>
+
+209
+00:31:52,035 --> 00:31:56,115
+<font color="#c0c0c0" face="Perpetua">- Why did you bring the buster here?
+- 'Cause he kept me out of handcuffs!</font>
+
+210
+00:31:56,373 --> 00:32:00,205
+<font color="#c0c0c0" face="Perpetua">He didn't just run back to the fort!
+The buster brought me back.</font>
+
+211
+00:32:06,091 --> 00:32:09,839
+<font color="#c0c0c0" face="Perpetua">You can have any brew you want,
+as long as it's a Corona.</font>
+
+212
+00:32:10,512 --> 00:32:13,133
+<font color="#c0c0c0" face="Perpetua">- Thanks, man.
+- That's Vince's. So, enjoy it.</font>
+
+213
+00:32:15,141 --> 00:32:16,386
+<font color="#c0c0c0" face="Perpetua">You.</font>
+
+214
+00:32:23,525 --> 00:32:27,605
+<font color="#c0c0c0" face="Perpetua">- Hey, bro. You got a bathroom?
+- Upstairs. First door on the right.</font>
+
+215
+00:32:43,837 --> 00:32:47,253
+<font color="#c0c0c0" face="Perpetua">He's got no call being up in here.
+You don't know that fool for shit.</font>
+
+216
+00:32:47,341 --> 00:32:50,840
+<font color="#c0c0c0" face="Perpetua">- He's right, Dom.
+- There was a time when I didn't know you.</font>
+
+217
+00:32:51,011 --> 00:32:52,920
+<font color="#c0c0c0" face="Perpetua">That was in the third grade!</font>
+
+218
+00:32:56,141 --> 00:32:59,641
+<font color="#c0c0c0" face="Perpetua">- Yeah. So, what girls are here?
+- You name it. You want mine?</font>
+
+219
+00:32:59,728 --> 00:33:02,136
+<font color="#c0c0c0" face="Perpetua">- You need to shut the....
+- You want two?</font>
+
+220
+00:33:02,356 --> 00:33:05,025
+<font color="#c0c0c0" face="Perpetua">- You don't have anything?
+- You look a bit tired.</font>
+
+221
+00:33:05,109 --> 00:33:07,896
+<font color="#c0c0c0" face="Perpetua">I think you should go upstairs
+and give me a massage.</font>
+
+222
+00:33:07,986 --> 00:33:11,355
+<font color="#c0c0c0" face="Perpetua">- Look at all our guests.
+- How about you give me a massage?</font>
+
+223
+00:33:14,702 --> 00:33:16,160
+<font color="#c0c0c0" face="Perpetua">Crazy lady.</font>
+
+224
+00:33:23,836 --> 00:33:26,505
+<font color="#c0c0c0" face="Perpetua">You know you owe me
+a 10-second car, right?</font>
+
+225
+00:33:31,135 --> 00:33:32,415
+<font color="#c0c0c0" face="Perpetua">Oh, shit.</font>
+
+226
+00:33:38,184 --> 00:33:39,808
+<font color="#c0c0c0" face="Perpetua">Did you wipe the seat?</font>
+
+227
+00:33:43,063 --> 00:33:46,433
+<font color="#c0c0c0" face="Perpetua">Jesus Christ! Would you cut this shit?
+Come on!</font>
+
+228
+00:33:48,530 --> 00:33:53,758
+<font color="#c0c0c0" face="Perpetua">- Come on. Let's go get me a drink.
+- We were just about to get along.</font>
+
+229
+00:34:00,623 --> 00:34:03,790
+<font color="#c0c0c0" face="Perpetua">- So, what do you want?
+- Anything, as long as it's cold.</font>
+
+230
+00:34:05,419 --> 00:34:09,002
+<font color="#c0c0c0" face="Perpetua">You know, my brother likes you.
+He usually doesn't like anybody.</font>
+
+231
+00:34:09,090 --> 00:34:12,340
+<font color="#c0c0c0" face="Perpetua">- He's a complicated guy.
+- Yeah? What about you?</font>
+
+232
+00:34:15,555 --> 00:34:17,880
+<font color="#c0c0c0" face="Perpetua">- I'm simpler.
+- You're a shitty liar.</font>
+
+233
+00:34:19,600 --> 00:34:21,926
+<font color="#c0c0c0" face="Perpetua">Well, I'll take that as a compliment.</font>
+
+234
+00:34:23,604 --> 00:34:26,274
+<font color="#c0c0c0" face="Perpetua">- But there's a problem.
+- What's that?</font>
+
+235
+00:34:26,357 --> 00:34:28,564
+<font color="#c0c0c0" face="Perpetua">You need to get some sleep.</font>
+
+236
+00:34:29,152 --> 00:34:33,101
+<font color="#c0c0c0" face="Perpetua">And you definitely,
+definitely need a shower.</font>
+
+237
+00:34:34,073 --> 00:34:36,362
+<font color="#c0c0c0" face="Perpetua">Come on. I'll take you home.</font>
+
+238
+00:34:58,181 --> 00:35:01,098
+<font color="#c0c0c0" face="Perpetua"><i>Show me your hands.
+Very good. Now open the door.</i></font>
+
+239
+00:35:01,601 --> 00:35:04,721
+<font color="#c0c0c0" face="Perpetua"><i>Put your hands on your head.
+Behind your head.</i></font>
+
+240
+00:35:05,271 --> 00:35:08,854
+<font color="#c0c0c0" face="Perpetua"><i>Face the front of the vehicle,
+walk backwards towards the rear.</i></font>
+
+241
+00:35:09,067 --> 00:35:12,436
+<font color="#c0c0c0" face="Perpetua"><i>Take two steps to your right.
+Stop right there.</i></font>
+
+242
+00:35:15,490 --> 00:35:19,440
+<font color="#c0c0c0" face="Perpetua">- What did I do?
+- Shut up. He's clean, Sarge.</font>
+
+243
+00:35:30,213 --> 00:35:32,539
+<font color="#c0c0c0" face="Perpetua">Damn!
+Muse, will you take these things off?</font>
+
+244
+00:35:32,632 --> 00:35:35,550
+<font color="#c0c0c0" face="Perpetua">- Shit. You put them on so tight.
+- I like realism.</font>
+
+245
+00:35:36,178 --> 00:35:38,503
+<font color="#c0c0c0" face="Perpetua">You never know who's watching, Brian.</font>
+
+246
+00:35:42,809 --> 00:35:46,593
+<font color="#c0c0c0" face="Perpetua">Nice crib, Sergeant. It's a lot nicer
+than the last place you confiscated.</font>
+
+247
+00:35:46,688 --> 00:35:50,900
+<font color="#c0c0c0" face="Perpetua">Ain't it? Eddie Fisher built this house
+for Elizabeth Taylor in the '50s.</font>
+
+248
+00:35:51,068 --> 00:35:53,985
+<font color="#c0c0c0" face="Perpetua">You see, even the cops
+are Hollywood in Hollywood.</font>
+
+249
+00:35:57,741 --> 00:36:01,075
+<font color="#c0c0c0" face="Perpetua">Okay, here he is,
+fresh from Toretto's hot rod heaven.</font>
+
+250
+00:36:01,161 --> 00:36:03,486
+<font color="#c0c0c0" face="Perpetua">That was an $80,000 vehicle, Officer.</font>
+
+251
+00:36:03,580 --> 00:36:05,787
+<font color="#c0c0c0" face="Perpetua">- You told him what happened?
+- He knows.</font>
+
+252
+00:36:05,874 --> 00:36:09,789
+<font color="#c0c0c0" face="Perpetua">- Send the bill to Johnny Tran.
+- The kid's giving me attitude?</font>
+
+253
+00:36:09,878 --> 00:36:12,630
+<font color="#c0c0c0" face="Perpetua">It doesn't speak well
+for police/FBI relations, Tanner.</font>
+
+254
+00:36:12,714 --> 00:36:16,333
+<font color="#c0c0c0" face="Perpetua">- I walk in the door and the guy's already--
+- All right, all right.</font>
+
+255
+00:36:16,427 --> 00:36:18,633
+<font color="#c0c0c0" face="Perpetua">We'll talk, okay? Let's talk about it.</font>
+
+256
+00:36:18,721 --> 00:36:22,006
+<font color="#c0c0c0" face="Perpetua">Muse, why don't you make us
+four iced cappuccinos, please?</font>
+
+257
+00:36:22,099 --> 00:36:24,424
+<font color="#c0c0c0" face="Perpetua">- Come on.
+- Regular or decaf, Sarge?</font>
+
+258
+00:36:26,020 --> 00:36:27,430
+<font color="#c0c0c0" face="Perpetua">Decaf, I think.</font>
+
+259
+00:36:27,771 --> 00:36:30,476
+<font color="#c0c0c0" face="Perpetua">Four hijackings in two months,
+and we have nothing.</font>
+
+260
+00:36:30,566 --> 00:36:33,650
+<font color="#c0c0c0" face="Perpetua">The DVD players and digital cameras
+are worth $1.2 million...</font>
+
+261
+00:36:33,736 --> 00:36:36,523
+<font color="#c0c0c0" face="Perpetua">...which brings the grand total
+to $6 million plus.</font>
+
+262
+00:36:36,614 --> 00:36:39,449
+<font color="#c0c0c0" face="Perpetua">We're in the political crosshairs now, Brian.</font>
+
+263
+00:36:40,201 --> 00:36:42,027
+<font color="#c0c0c0" face="Perpetua">That's why you're undercover.</font>
+
+264
+00:36:42,119 --> 00:36:46,069
+<font color="#c0c0c0" face="Perpetua">You want that detective badge fast, kid.
+And you want to know something?</font>
+
+265
+00:36:46,415 --> 00:36:49,250
+<font color="#c0c0c0" face="Perpetua">The FBI can help,
+if you come through for us.</font>
+
+266
+00:36:50,294 --> 00:36:52,251
+<font color="#c0c0c0" face="Perpetua">What does the truckdriver say?</font>
+
+267
+00:36:52,338 --> 00:36:55,873
+<font color="#c0c0c0" face="Perpetua">He gave us the same M.O.:
+Three Honda Civics, precision driving...</font>
+
+268
+00:36:55,966 --> 00:36:58,920
+<font color="#c0c0c0" face="Perpetua">...the same green neon glow
+from under the chassis.</font>
+
+269
+00:36:59,011 --> 00:37:03,472
+<font color="#c0c0c0" face="Perpetua">Lab says the skidmarks came back
+the same: Mashamoto ZX tires.</font>
+
+270
+00:37:03,557 --> 00:37:06,262
+<font color="#c0c0c0" face="Perpetua">So, we know it's somebody
+in the street-racing world.</font>
+
+271
+00:37:06,352 --> 00:37:10,813
+<font color="#c0c0c0" face="Perpetua">If we don't make this case, the truckers
+will take matters into their own hands.</font>
+
+272
+00:37:10,898 --> 00:37:12,606
+<font color="#c0c0c0" face="Perpetua">I tell them we're close.</font>
+
+273
+00:37:13,818 --> 00:37:15,727
+<font color="#c0c0c0" face="Perpetua">Are you going to make me a liar?</font>
+
+274
+00:37:15,820 --> 00:37:17,362
+<font color="#c0c0c0" face="Perpetua">Look, what do we know?</font>
+
+275
+00:37:17,446 --> 00:37:19,937
+<font color="#c0c0c0" face="Perpetua">We know this world
+revolves around Toretto, right?</font>
+
+276
+00:37:20,032 --> 00:37:23,117
+<font color="#c0c0c0" face="Perpetua">I'm not saying that he's the one
+that's popping these trucks...</font>
+
+277
+00:37:23,202 --> 00:37:27,532
+<font color="#c0c0c0" face="Perpetua">...but I can guarantee he knows who is.
+It's just a matter of time until I win--</font>
+
+278
+00:37:27,623 --> 00:37:31,573
+<font color="#c0c0c0" face="Perpetua">You want time, buy the magazine.
+We don't have time.</font>
+
+279
+00:37:33,379 --> 00:37:35,455
+<font color="#c0c0c0" face="Perpetua">Just get me something I can use.</font>
+
+280
+00:37:37,300 --> 00:37:38,960
+<font color="#c0c0c0" face="Perpetua">Is Harry cooperating?</font>
+
+281
+00:37:39,052 --> 00:37:42,634
+<font color="#c0c0c0" face="Perpetua">Like a guy that'll do time
+for receiving stolen property if he doesn't.</font>
+
+282
+00:37:42,722 --> 00:37:44,845
+<font color="#c0c0c0" face="Perpetua">What kind of vibe
+is he getting from Toretto?</font>
+
+283
+00:37:44,932 --> 00:37:48,052
+<font color="#c0c0c0" face="Perpetua">He's scared of him,
+but he doesn't think he's jacking trucks.</font>
+
+284
+00:37:48,144 --> 00:37:50,516
+<font color="#c0c0c0" face="Perpetua">- He's too controlled for that.
+- Wait.</font>
+
+285
+00:37:50,605 --> 00:37:53,725
+<font color="#c0c0c0" face="Perpetua">Not that I want to contradict
+Harry's fine judge of character...</font>
+
+286
+00:37:53,816 --> 00:37:57,351
+<font color="#c0c0c0" face="Perpetua">...but Toretto did hard time
+for nearly beating a guy to death.</font>
+
+287
+00:37:57,445 --> 00:38:00,565
+<font color="#c0c0c0" face="Perpetua">He's got nitrous oxide in his blood
+and a gas tank for a brain.</font>
+
+288
+00:38:00,657 --> 00:38:02,566
+<font color="#c0c0c0" face="Perpetua">Do not turn your back on him.</font>
+
+289
+00:38:02,992 --> 00:38:04,535
+<font color="#c0c0c0" face="Perpetua">Tanner, I'm gonna need another car.</font>
+
+290
+00:38:10,083 --> 00:38:12,490
+<font color="#c0c0c0" face="Perpetua">- What about parts and service?
+- Hold off on it.</font>
+
+291
+00:38:12,585 --> 00:38:14,911
+<font color="#c0c0c0" face="Perpetua">Dom, I don't know what to do with it.</font>
+
+292
+00:38:18,008 --> 00:38:21,840
+<font color="#c0c0c0" face="Perpetua">All right, what the hell is this?
+What do you got there?</font>
+
+293
+00:38:23,596 --> 00:38:26,004
+<font color="#c0c0c0" face="Perpetua">- This is your car.
+- My car?</font>
+
+294
+00:38:26,641 --> 00:38:29,595
+<font color="#c0c0c0" face="Perpetua">I said a 10-second car, not a 10-minute car.</font>
+
+295
+00:38:29,686 --> 00:38:33,518
+<font color="#c0c0c0" face="Perpetua">You could push this across the finish line,
+or tow it.</font>
+
+296
+00:38:34,816 --> 00:38:37,734
+<font color="#c0c0c0" face="Perpetua">You couldn't even tow that
+across the finish line.</font>
+
+297
+00:38:38,487 --> 00:38:39,685
+<font color="#c0c0c0" face="Perpetua">No faith.</font>
+
+298
+00:38:39,779 --> 00:38:42,187
+<font color="#c0c0c0" face="Perpetua">I have faith in you,
+but this isn't a junkyard.</font>
+
+299
+00:38:42,282 --> 00:38:44,524
+<font color="#c0c0c0" face="Perpetua">- This is a garage.
+- Pop the hood.</font>
+
+300
+00:38:44,826 --> 00:38:46,071
+<font color="#c0c0c0" face="Perpetua">- Pop the hood?
+- Pop the hood.</font>
+
+301
+00:38:49,206 --> 00:38:52,871
+<font color="#c0c0c0" face="Perpetua">- 2JZ engine. No shit.
+- And what did I tell you?</font>
+
+302
+00:38:52,959 --> 00:38:55,711
+<font color="#c0c0c0" face="Perpetua">- I retract my previous statement.
+- You know what?</font>
+
+303
+00:38:55,796 --> 00:39:00,374
+<font color="#c0c0c0" face="Perpetua">This will decimate all
+after you put about $15,000 in it.</font>
+
+304
+00:39:00,467 --> 00:39:04,216
+<font color="#c0c0c0" face="Perpetua">Or more,
+if we have to overnight parts from Japan.</font>
+
+305
+00:39:04,680 --> 00:39:07,384
+<font color="#c0c0c0" face="Perpetua">- We'll put it on my tab at Harry's.
+- Yes!</font>
+
+306
+00:39:07,808 --> 00:39:11,592
+<font color="#c0c0c0" face="Perpetua">I gotta get you racing again
+so I can make some money off your ass.</font>
+
+307
+00:39:12,145 --> 00:39:14,850
+<font color="#c0c0c0" face="Perpetua">There's a show down in the desert
+called Race Wars.</font>
+
+308
+00:39:14,940 --> 00:39:17,229
+<font color="#c0c0c0" face="Perpetua">That's where you'll do it.</font>
+
+309
+00:39:17,609 --> 00:39:20,943
+<font color="#c0c0c0" face="Perpetua">When you're not working at Harry's,
+you're working here.</font>
+
+310
+00:39:21,196 --> 00:39:24,945
+<font color="#c0c0c0" face="Perpetua">If you can't find the right tool
+in this garage, Mr. Arizona...</font>
+
+311
+00:39:26,285 --> 00:39:27,530
+<font color="#c0c0c0" face="Perpetua">...you don't belong near a car.</font>
+
+312
+00:39:31,123 --> 00:39:32,498
+<font color="#c0c0c0" face="Perpetua">He owns you now.</font>
+
+313
+00:39:59,819 --> 00:40:01,610
+<font color="#c0c0c0" face="Perpetua">Tell me what you think about this.
+Koni adjustables.</font>
+
+314
+00:40:02,446 --> 00:40:04,653
+<font color="#c0c0c0" face="Perpetua">Gonna save us about 2 pounds.</font>
+
+315
+00:40:04,865 --> 00:40:08,199
+<font color="#c0c0c0" face="Perpetua">And they're gonna give us
+better traction for the hole shot.</font>
+
+316
+00:40:08,285 --> 00:40:09,530
+<font color="#c0c0c0" face="Perpetua">All right?</font>
+
+317
+00:40:10,371 --> 00:40:12,447
+<font color="#c0c0c0" face="Perpetua">This is your basic layout of the car.</font>
+
+318
+00:40:12,540 --> 00:40:16,372
+<font color="#c0c0c0" face="Perpetua">And that's pretty much
+what it could look like when it's finished.</font>
+
+319
+00:40:17,128 --> 00:40:18,503
+<font color="#c0c0c0" face="Perpetua">Red, green.</font>
+
+320
+00:40:19,130 --> 00:40:22,665
+<font color="#c0c0c0" face="Perpetua">- You should be going to MIT or something.
+- Yeah, right.</font>
+
+321
+00:40:23,342 --> 00:40:26,177
+<font color="#c0c0c0" face="Perpetua">No, I got that.... What's it called?</font>
+
+322
+00:40:27,263 --> 00:40:29,421
+<font color="#c0c0c0" face="Perpetua">That attention disorder--</font>
+
+323
+00:40:29,515 --> 00:40:33,216
+<font color="#c0c0c0" face="Perpetua">- ADD?
+- Yes, that shit. Yeah.</font>
+
+324
+00:40:34,353 --> 00:40:38,268
+<font color="#c0c0c0" face="Perpetua">You know, I was good in algebra
+and like math and shit.</font>
+
+325
+00:40:39,108 --> 00:40:42,857
+<font color="#c0c0c0" face="Perpetua">Everything else I failed.
+Dropped out of school.</font>
+
+326
+00:40:43,738 --> 00:40:46,858
+<font color="#c0c0c0" face="Perpetua">I don't know.
+It's just something about engines...</font>
+
+327
+00:40:46,949 --> 00:40:50,069
+<font color="#c0c0c0" face="Perpetua">...that calms me down, you know.</font>
+
+328
+00:41:10,932 --> 00:41:13,388
+<font color="#c0c0c0" face="Perpetua">- I'm outta here.
+- Come on, dog.</font>
+
+329
+00:41:14,018 --> 00:41:16,688
+<font color="#c0c0c0" face="Perpetua">- Yo, Dom.
+- Vince, get over here and give us a hand.</font>
+
+330
+00:41:16,771 --> 00:41:19,689
+<font color="#c0c0c0" face="Perpetua">Looks like you got
+all the help you need, brother.</font>
+
+331
+00:41:33,371 --> 00:41:36,491
+<font color="#c0c0c0" face="Perpetua">- Mia! The chicken's dry.
+- All right. I'm coming out already.</font>
+
+332
+00:41:41,838 --> 00:41:43,332
+<font color="#c0c0c0" face="Perpetua">Here you go.</font>
+
+333
+00:41:45,258 --> 00:41:46,669
+<font color="#c0c0c0" face="Perpetua">Hey, hold up.</font>
+
+334
+00:41:47,177 --> 00:41:52,420
+<font color="#c0c0c0" face="Perpetua">Because you were the first to reach in
+to get the chicken, you say grace.</font>
+
+335
+00:41:58,438 --> 00:42:01,143
+<font color="#c0c0c0" face="Perpetua">- Dear heavenly....
+- Spirit.</font>
+
+336
+00:42:02,818 --> 00:42:04,478
+<font color="#c0c0c0" face="Perpetua">Spirit. Thank you.</font>
+
+337
+00:42:05,028 --> 00:42:10,236
+<font color="#c0c0c0" face="Perpetua">Thank you for providing us
+with a direct port nitrous injection...</font>
+
+338
+00:42:11,201 --> 00:42:15,033
+<font color="#c0c0c0" face="Perpetua">...four core intercoolers
+and ball-bearing turbos...</font>
+
+339
+00:42:15,205 --> 00:42:17,696
+<font color="#c0c0c0" face="Perpetua">...and titanium valve springs.</font>
+
+340
+00:42:18,458 --> 00:42:20,083
+<font color="#c0c0c0" face="Perpetua">- Thank you.
+- Amen.</font>
+
+341
+00:42:21,211 --> 00:42:23,168
+<font color="#c0c0c0" face="Perpetua">- Not bad.
+- Amen.</font>
+
+342
+00:42:23,255 --> 00:42:25,497
+<font color="#c0c0c0" face="Perpetua">He was praying to the car gods, man.</font>
+
+343
+00:42:26,842 --> 00:42:28,384
+<font color="#c0c0c0" face="Perpetua">He's not the best.</font>
+
+344
+00:42:28,468 --> 00:42:30,627
+<font color="#c0c0c0" face="Perpetua">- What do you want?
+- Practice.</font>
+
+345
+00:42:30,721 --> 00:42:32,049
+<font color="#c0c0c0" face="Perpetua">Thank you, girl.</font>
+
+346
+00:42:32,139 --> 00:42:35,722
+<font color="#c0c0c0" face="Perpetua">Look who it is. "Old Coyotes 'R' Us."</font>
+
+347
+00:42:35,809 --> 00:42:38,561
+<font color="#c0c0c0" face="Perpetua">I thought you weren't hungry, pumpkin.</font>
+
+348
+00:42:38,729 --> 00:42:41,683
+<font color="#c0c0c0" face="Perpetua">- You know, I gotta eat.
+- He's always hungry.</font>
+
+349
+00:42:41,774 --> 00:42:43,813
+<font color="#c0c0c0" face="Perpetua">All right, sit down.</font>
+
+350
+00:42:51,200 --> 00:42:53,109
+<font color="#c0c0c0" face="Perpetua">How you doing, Mia?</font>
+
+351
+00:42:56,288 --> 00:42:57,913
+<font color="#c0c0c0" face="Perpetua">Here you go.</font>
+
+352
+00:43:04,380 --> 00:43:07,131
+<font color="#c0c0c0" face="Perpetua">- Jesse, hand me that chicken.
+- Let's eat some grub, man.</font>
+
+353
+00:43:07,216 --> 00:43:10,336
+<font color="#c0c0c0" face="Perpetua">- Want some of that chicken?
+- What, you rent a movie or something?</font>
+
+354
+00:43:17,435 --> 00:43:19,344
+<font color="#c0c0c0" face="Perpetua">Need a hand with anything else?</font>
+
+355
+00:43:19,437 --> 00:43:22,888
+<font color="#c0c0c0" face="Perpetua">No, I'm good. You can go join the boys
+and watch the movie.</font>
+
+356
+00:43:23,399 --> 00:43:27,064
+<font color="#c0c0c0" face="Perpetua">- The cook doesn't clean where I come from.
+- I'd like to go there.</font>
+
+357
+00:43:32,241 --> 00:43:36,453
+<font color="#c0c0c0" face="Perpetua">- I think we should go out sometime.
+- No, I don't date my brother's friends.</font>
+
+358
+00:43:37,163 --> 00:43:38,657
+<font color="#c0c0c0" face="Perpetua">That sucks.</font>
+
+359
+00:43:38,748 --> 00:43:42,081
+<font color="#c0c0c0" face="Perpetua">- I'll have to kick his ass then.
+- I'd love to see that one.</font>
+
+360
+00:43:42,168 --> 00:43:45,453
+<font color="#c0c0c0" face="Perpetua">I would pay to see that one, actually.</font>
+
+361
+00:43:59,394 --> 00:44:01,102
+<font color="#c0c0c0" face="Perpetua">Wash my car when you get done.</font>
+
+362
+00:44:01,187 --> 00:44:04,852
+<font color="#c0c0c0" face="Perpetua">- What was that?
+- No, Mia. I'm talking to the punk.</font>
+
+363
+00:44:05,692 --> 00:44:08,147
+<font color="#c0c0c0" face="Perpetua">Wear your favorite dress,
+'cause when you're done...</font>
+
+364
+00:44:08,236 --> 00:44:11,521
+<font color="#c0c0c0" face="Perpetua">...I'm putting you on the street
+where you belong, cutie.</font>
+
+365
+00:44:14,826 --> 00:44:18,526
+<font color="#c0c0c0" face="Perpetua">Is this thing broken?
+What's wrong with this thing?</font>
+
+366
+00:44:19,789 --> 00:44:23,787
+<font color="#c0c0c0" face="Perpetua">What was that Cuban restaurant
+you wanted to take me to?</font>
+
+367
+00:44:23,960 --> 00:44:25,953
+<font color="#c0c0c0" face="Perpetua">The one with the picadillo and--</font>
+
+368
+00:44:26,045 --> 00:44:29,829
+<font color="#c0c0c0" face="Perpetua">- With red candles, wooden tables--
+- The plantain, food all over the place.</font>
+
+369
+00:44:29,924 --> 00:44:31,798
+<font color="#c0c0c0" face="Perpetua">- What it's called?
+- Cha Cha Cha.</font>
+
+370
+00:44:31,885 --> 00:44:33,842
+<font color="#c0c0c0" face="Perpetua">- Yeah, that's it.
+- Yeah.</font>
+
+371
+00:44:35,013 --> 00:44:37,005
+<font color="#c0c0c0" face="Perpetua">Well, you can take me there.</font>
+
+372
+00:44:37,140 --> 00:44:39,761
+<font color="#c0c0c0" face="Perpetua">Friday night at 10:00. Is that good for you?</font>
+
+373
+00:44:40,393 --> 00:44:42,433
+<font color="#c0c0c0" face="Perpetua">- Yeah, it's perfect.
+- Good.</font>
+
+374
+00:44:48,860 --> 00:44:52,774
+<font color="#c0c0c0" face="Perpetua">- There's no popcorn.
+- Make your own goddamn popcorn!</font>
+
+375
+00:45:06,795 --> 00:45:09,368
+<font color="#c0c0c0" face="Perpetua">All right. Now that's valet parking.</font>
+
+376
+00:45:13,301 --> 00:45:15,590
+<font color="#c0c0c0" face="Perpetua">- Harry. What's up, dog?
+- Nice to see you.</font>
+
+377
+00:45:15,679 --> 00:45:17,506
+<font color="#c0c0c0" face="Perpetua">Excellent. Come on in, man.</font>
+
+378
+00:45:17,597 --> 00:45:20,717
+<font color="#c0c0c0" face="Perpetua">- Check it. It's yours.
+- Damn. What do we got here?</font>
+
+379
+00:45:21,852 --> 00:45:24,343
+<font color="#c0c0c0" face="Perpetua">- Hired some new help?
+- Don't even think about it.</font>
+
+380
+00:45:24,438 --> 00:45:26,893
+<font color="#c0c0c0" face="Perpetua">- What's up?
+- What's up, Brian? How you feeling?</font>
+
+381
+00:45:26,982 --> 00:45:29,899
+<font color="#c0c0c0" face="Perpetua">- Pretty good. What do you need?
+- What's up, man?</font>
+
+382
+00:45:29,985 --> 00:45:33,520
+<font color="#c0c0c0" face="Perpetua">I need you to hook me up.
+Three of everything. I made a list.</font>
+
+383
+00:45:35,157 --> 00:45:37,114
+<font color="#c0c0c0" face="Perpetua">Why don't you look that over?</font>
+
+384
+00:45:37,409 --> 00:45:40,576
+<font color="#c0c0c0" face="Perpetua">- When do you need this stuff by?
+- Tomorrow, today, now.</font>
+
+385
+00:45:40,996 --> 00:45:43,238
+<font color="#c0c0c0" face="Perpetua">- Right.
+- White boys work fast, don't they?</font>
+
+386
+00:45:46,502 --> 00:45:47,830
+<font color="#c0c0c0" face="Perpetua">That's right.</font>
+
+387
+00:45:50,714 --> 00:45:54,214
+<font color="#c0c0c0" face="Perpetua">- You said you need three of each?
+- Yeah, three of everything.</font>
+
+388
+00:45:55,010 --> 00:45:57,680
+<font color="#c0c0c0" face="Perpetua">What do you think about that?
+Check this out.</font>
+
+389
+00:48:05,809 --> 00:48:07,351
+<font color="#c0c0c0" face="Perpetua">He moans like a cop.</font>
+
+390
+00:48:16,653 --> 00:48:20,817
+<font color="#c0c0c0" face="Perpetua">Brian, this is one of those times
+you need to be clear about what you say.</font>
+
+391
+00:48:21,575 --> 00:48:23,567
+<font color="#c0c0c0" face="Perpetua">Nod if you understand me.</font>
+
+392
+00:48:23,660 --> 00:48:24,941
+<font color="#c0c0c0" face="Perpetua">Nod!</font>
+
+393
+00:48:26,788 --> 00:48:28,199
+<font color="#c0c0c0" face="Perpetua">Sit up.</font>
+
+394
+00:48:34,463 --> 00:48:37,132
+<font color="#c0c0c0" face="Perpetua">Tell me what the hell you're doing
+down here.</font>
+
+395
+00:48:37,424 --> 00:48:39,880
+<font color="#c0c0c0" face="Perpetua">Shit. What I'm doing?</font>
+
+396
+00:48:42,471 --> 00:48:43,846
+<font color="#c0c0c0" face="Perpetua">Dom.</font>
+
+397
+00:48:46,099 --> 00:48:48,804
+<font color="#c0c0c0" face="Perpetua">I owe you a 10-second car.</font>
+
+398
+00:48:49,770 --> 00:48:53,388
+<font color="#c0c0c0" face="Perpetua">And what this is about,
+this is about Race Wars.</font>
+
+399
+00:48:56,568 --> 00:49:00,436
+<font color="#c0c0c0" face="Perpetua">I just went in there,
+and Hector is gonna be running...</font>
+
+400
+00:49:00,906 --> 00:49:03,444
+<font color="#c0c0c0" face="Perpetua">...three Honda Civics with Spoon engines.</font>
+
+401
+00:49:03,575 --> 00:49:06,411
+<font color="#c0c0c0" face="Perpetua">And on top of that,
+he just came into Harry's...</font>
+
+402
+00:49:06,495 --> 00:49:10,742
+<font color="#c0c0c0" face="Perpetua">...and he ordered three T66 turbos,
+with NOS...</font>
+
+403
+00:49:12,376 --> 00:49:14,452
+<font color="#c0c0c0" face="Perpetua">...and a MoTeC system exhaust.</font>
+
+404
+00:49:17,965 --> 00:49:19,673
+<font color="#c0c0c0" face="Perpetua">So, what are you saying?</font>
+
+405
+00:49:20,885 --> 00:49:25,428
+<font color="#c0c0c0" face="Perpetua">You're gonna check everybody's shit out,
+one garage after another?</font>
+
+406
+00:49:28,309 --> 00:49:29,767
+<font color="#c0c0c0" face="Perpetua">Yeah.</font>
+
+407
+00:49:32,605 --> 00:49:36,519
+<font color="#c0c0c0" face="Perpetua">Because, Dom, you know I can't lose again.</font>
+
+408
+00:49:38,527 --> 00:49:39,903
+<font color="#c0c0c0" face="Perpetua">He's a cop.</font>
+
+409
+00:49:42,239 --> 00:49:43,354
+<font color="#c0c0c0" face="Perpetua">He's a cop!</font>
+
+410
+00:49:46,661 --> 00:49:47,989
+<font color="#c0c0c0" face="Perpetua">You a cop?</font>
+
+411
+00:49:54,502 --> 00:49:56,329
+<font color="#c0c0c0" face="Perpetua">Let's go for a little ride.</font>
+
+412
+00:49:59,340 --> 00:50:00,715
+<font color="#c0c0c0" face="Perpetua">Walk!</font>
+
+413
+00:50:20,111 --> 00:50:21,819
+<font color="#c0c0c0" face="Perpetua">Okay. You stand watch.</font>
+
+414
+00:50:52,560 --> 00:50:54,220
+<font color="#c0c0c0" face="Perpetua">Yo, Dominic.</font>
+
+415
+00:50:55,980 --> 00:50:57,640
+<font color="#c0c0c0" face="Perpetua">There's no engines.</font>
+
+416
+00:50:58,775 --> 00:51:01,527
+<font color="#c0c0c0" face="Perpetua">What are they planning on racing with,
+hopes and dreams?</font>
+
+417
+00:51:01,611 --> 00:51:04,019
+<font color="#c0c0c0" face="Perpetua">I don't know, but they're sneaky as shit...</font>
+
+418
+00:51:04,114 --> 00:51:06,949
+<font color="#c0c0c0" face="Perpetua">...and they've got enough money
+to buy anything.</font>
+
+419
+00:51:12,122 --> 00:51:13,071
+<font color="#c0c0c0" face="Perpetua">What?</font>
+
+420
+00:51:22,215 --> 00:51:23,544
+<font color="#c0c0c0" face="Perpetua">We got a wolf pack.</font>
+
+421
+00:51:24,050 --> 00:51:27,716
+<font color="#c0c0c0" face="Perpetua"><i>It's Johnny Tran,
+and he's coming your way really fast.</i></font>
+
+422
+00:51:28,180 --> 00:51:30,801
+<font color="#c0c0c0" face="Perpetua">All right, we got company. Spilner.</font>
+
+423
+00:51:56,792 --> 00:51:59,081
+<font color="#c0c0c0" face="Perpetua">Come on. Move!</font>
+
+424
+00:51:59,336 --> 00:52:01,376
+<font color="#c0c0c0" face="Perpetua">Let me ask you a question, Ted.</font>
+
+425
+00:52:02,881 --> 00:52:06,085
+<font color="#c0c0c0" face="Perpetua">- Do you see anything wrong here?
+- No.</font>
+
+426
+00:52:09,972 --> 00:52:12,379
+<font color="#c0c0c0" face="Perpetua">- We got no engines, do we?
+- No.</font>
+
+427
+00:52:12,474 --> 00:52:13,755
+<font color="#c0c0c0" face="Perpetua">- Do we?
+- No.</font>
+
+428
+00:52:16,854 --> 00:52:19,427
+<font color="#c0c0c0" face="Perpetua">A couple of Nissan SR20 motors
+will pull a premium...</font>
+
+429
+00:52:19,523 --> 00:52:22,559
+<font color="#c0c0c0" face="Perpetua">- ... one week before Race Wars, huh?
+- Yeah, probably.</font>
+
+430
+00:52:22,943 --> 00:52:25,944
+<font color="#c0c0c0" face="Perpetua">You're a smart fence, Ted.
+Maybe too smart.</font>
+
+431
+00:52:27,448 --> 00:52:29,357
+<font color="#c0c0c0" face="Perpetua">What are you feeling, Lance?</font>
+
+432
+00:52:30,868 --> 00:52:32,410
+<font color="#c0c0c0" face="Perpetua">40-weight?</font>
+
+433
+00:52:32,912 --> 00:52:34,738
+<font color="#c0c0c0" face="Perpetua">50-weight?</font>
+
+434
+00:52:35,372 --> 00:52:37,080
+<font color="#c0c0c0" face="Perpetua">A 40-weight sounds nice.</font>
+
+435
+00:52:52,682 --> 00:52:54,224
+<font color="#c0c0c0" face="Perpetua">Where are they, Ted?</font>
+
+436
+00:52:54,392 --> 00:52:56,218
+<font color="#c0c0c0" face="Perpetua">- Where are they?
+- Enough!</font>
+
+437
+00:52:56,394 --> 00:52:58,885
+<font color="#c0c0c0" face="Perpetua">- Where are they?
+- They're in a warehouse.</font>
+
+438
+00:52:59,438 --> 00:53:01,348
+<font color="#c0c0c0" face="Perpetua">They're in a warehouse, man!</font>
+
+439
+00:53:17,623 --> 00:53:18,904
+<font color="#c0c0c0" face="Perpetua">Ted.</font>
+
+440
+00:53:19,000 --> 00:53:20,660
+<font color="#c0c0c0" face="Perpetua">Kiss my shoes?</font>
+
+441
+00:53:32,930 --> 00:53:34,804
+<font color="#c0c0c0" face="Perpetua">Let's go get our engines.</font>
+
+442
+00:53:35,683 --> 00:53:38,470
+<font color="#c0c0c0" face="Perpetua">My superiors are flying in from D.C.,
+in two days.</font>
+
+443
+00:53:38,561 --> 00:53:40,186
+<font color="#c0c0c0" face="Perpetua">I want something to show.</font>
+
+444
+00:53:40,271 --> 00:53:42,762
+<font color="#c0c0c0" face="Perpetua">We've got a fence
+with a lube hose in his mouth...</font>
+
+445
+00:53:42,857 --> 00:53:46,475
+<font color="#c0c0c0" face="Perpetua">...automatic weapons,
+priors on every one of these Asian punks...</font>
+
+446
+00:53:46,569 --> 00:53:49,903
+<font color="#c0c0c0" face="Perpetua">...a garage full of DVD players
+and generally psychotic behavior.</font>
+
+447
+00:53:49,989 --> 00:53:53,358
+<font color="#c0c0c0" face="Perpetua">Tell me why we shouldn't move
+on Tran now and figure it out later?</font>
+
+448
+00:53:53,451 --> 00:53:55,195
+<font color="#c0c0c0" face="Perpetua">Because all we have is behavior.</font>
+
+449
+00:53:55,286 --> 00:53:58,371
+<font color="#c0c0c0" face="Perpetua">Let me get hard evidence,
+because what we have now is just--</font>
+
+450
+00:53:58,456 --> 00:54:00,449
+<font color="#c0c0c0" face="Perpetua">What we have is probable cause.</font>
+
+451
+00:54:00,542 --> 00:54:04,409
+<font color="#c0c0c0" face="Perpetua">And truckers arming themselves for some
+good old-fashioned vigilante mayhem.</font>
+
+452
+00:54:04,504 --> 00:54:08,584
+<font color="#c0c0c0" face="Perpetua">- Tell us about Hector, Brian.
+- Latinos with spear guns. Give me a break.</font>
+
+453
+00:54:08,842 --> 00:54:12,424
+<font color="#c0c0c0" face="Perpetua">Hector's still working on the engines,
+but the tires don't match.</font>
+
+454
+00:54:12,512 --> 00:54:14,303
+<font color="#c0c0c0" face="Perpetua">Will somebody give me a cigarette?</font>
+
+455
+00:54:14,389 --> 00:54:16,512
+<font color="#c0c0c0" face="Perpetua">- Get him a cigarette.
+- Don't give him one.</font>
+
+456
+00:54:16,766 --> 00:54:19,222
+<font color="#c0c0c0" face="Perpetua">- I thought you quit.
+- I did. Just give me one.</font>
+
+457
+00:54:19,311 --> 00:54:21,054
+<font color="#c0c0c0" face="Perpetua">- Get him a cigarette.
+- No!</font>
+
+458
+00:54:23,356 --> 00:54:24,981
+<font color="#c0c0c0" face="Perpetua">Tell me about Toretto.</font>
+
+459
+00:54:25,233 --> 00:54:28,020
+<font color="#c0c0c0" face="Perpetua">I told you,
+I think he's too controlled for this.</font>
+
+460
+00:54:28,111 --> 00:54:32,738
+<font color="#c0c0c0" face="Perpetua">Going suicidal on semi-trucks? No way.
+Maybe Vince. But he's too dumb to do it.</font>
+
+461
+00:54:33,116 --> 00:54:36,781
+<font color="#c0c0c0" face="Perpetua">- I think the kid sister's blurring your vision.
+- What did you say?</font>
+
+462
+00:54:36,870 --> 00:54:40,453
+<font color="#c0c0c0" face="Perpetua">I don't blame you.
+I'd get off on her surveillance photos, too.</font>
+
+463
+00:54:43,251 --> 00:54:44,496
+<font color="#c0c0c0" face="Perpetua">Knock it off!</font>
+
+464
+00:54:45,670 --> 00:54:48,208
+<font color="#c0c0c0" face="Perpetua">What? Are you going native on me, Brian?</font>
+
+465
+00:54:52,886 --> 00:54:55,128
+<font color="#c0c0c0" face="Perpetua">Have you read Toretto's file lately?</font>
+
+466
+00:54:55,389 --> 00:54:57,714
+<font color="#c0c0c0" face="Perpetua">- Yeah. I memorized that file.
+- Read it again.</font>
+
+467
+00:54:57,808 --> 00:55:00,215
+<font color="#c0c0c0" face="Perpetua">No, better still, take a look at these.</font>
+
+468
+00:55:02,020 --> 00:55:05,389
+<font color="#c0c0c0" face="Perpetua">Remember I told you about the guy
+he nearly beat to death?</font>
+
+469
+00:55:05,816 --> 00:55:09,101
+<font color="#c0c0c0" face="Perpetua">Toretto did this
+with a three-quarter-inch torque wrench.</font>
+
+470
+00:55:09,611 --> 00:55:11,568
+<font color="#c0c0c0" face="Perpetua">He's a model of self-control.</font>
+
+471
+00:55:14,491 --> 00:55:16,199
+<font color="#c0c0c0" face="Perpetua">I need a few more days.</font>
+
+472
+00:55:18,954 --> 00:55:20,152
+<font color="#c0c0c0" face="Perpetua">I need a few more days.</font>
+
+473
+00:55:23,083 --> 00:55:24,661
+<font color="#c0c0c0" face="Perpetua">Got a TR7 here,
+with a ball-bearing upgrade.</font>
+
+474
+00:55:26,045 --> 00:55:29,912
+<font color="#c0c0c0" face="Perpetua">What it's going to do is,
+it's going to spool up really quick.</font>
+
+475
+00:55:30,090 --> 00:55:32,581
+<font color="#c0c0c0" face="Perpetua">- I got this set up for 24 psi.
+- Got it.</font>
+
+476
+00:55:36,096 --> 00:55:37,888
+<font color="#c0c0c0" face="Perpetua">You got big plans tonight?</font>
+
+477
+00:55:40,017 --> 00:55:42,175
+<font color="#c0c0c0" face="Perpetua">Yeah. We're going out to dinner.</font>
+
+478
+00:55:43,771 --> 00:55:46,344
+<font color="#c0c0c0" face="Perpetua">You break her heart, I'll break your neck.</font>
+
+479
+00:55:46,982 --> 00:55:48,477
+<font color="#c0c0c0" face="Perpetua">That's not gonna happen.</font>
+
+480
+00:55:53,656 --> 00:55:55,483
+<font color="#c0c0c0" face="Perpetua">I want to show you something.</font>
+
+481
+00:56:09,755 --> 00:56:11,463
+<font color="#c0c0c0" face="Perpetua">Me and my dad built her.</font>
+
+482
+00:56:12,341 --> 00:56:14,713
+<font color="#c0c0c0" face="Perpetua">Nine hundred horses of Detroit muscle.</font>
+
+483
+00:56:16,012 --> 00:56:17,257
+<font color="#c0c0c0" face="Perpetua">It's a beast.</font>
+
+484
+00:56:17,847 --> 00:56:20,717
+<font color="#c0c0c0" face="Perpetua">- You know what she ran in Palmdale?
+- No. What?</font>
+
+485
+00:56:20,892 --> 00:56:22,350
+<font color="#c0c0c0" face="Perpetua">Nine seconds flat.</font>
+
+486
+00:56:23,853 --> 00:56:25,976
+<font color="#c0c0c0" face="Perpetua">- God.
+- My dad was driving.</font>
+
+487
+00:56:26,522 --> 00:56:30,734
+<font color="#c0c0c0" face="Perpetua">So much torque,
+the chassis twisted coming off the line.</font>
+
+488
+00:56:31,819 --> 00:56:33,776
+<font color="#c0c0c0" face="Perpetua">Barely kept her on the track.</font>
+
+489
+00:56:34,530 --> 00:56:37,448
+<font color="#c0c0c0" face="Perpetua">- So, what's your best time?
+- I've never driven her.</font>
+
+490
+00:56:37,533 --> 00:56:38,613
+<font color="#c0c0c0" face="Perpetua">Why not?</font>
+
+491
+00:56:41,371 --> 00:56:43,328
+<font color="#c0c0c0" face="Perpetua">It scares the shit out of me.</font>
+
+492
+00:56:45,750 --> 00:56:46,995
+<font color="#c0c0c0" face="Perpetua">That's my dad.</font>
+
+493
+00:56:48,503 --> 00:56:51,208
+<font color="#c0c0c0" face="Perpetua">He was coming up
+in the pro stock-car circuit.</font>
+
+494
+00:56:51,631 --> 00:56:53,339
+<font color="#c0c0c0" face="Perpetua">Last race of the season.</font>
+
+495
+00:56:54,467 --> 00:56:58,679
+<font color="#c0c0c0" face="Perpetua">A guy named Kenny Linder
+came up from inside, in the final turn.</font>
+
+496
+00:56:59,514 --> 00:57:03,013
+<font color="#c0c0c0" face="Perpetua">He clipped his bumper
+and put him into the wall at 120.</font>
+
+497
+00:57:06,187 --> 00:57:08,559
+<font color="#c0c0c0" face="Perpetua">I watched my dad burn to death.</font>
+
+498
+00:57:11,109 --> 00:57:13,185
+<font color="#c0c0c0" face="Perpetua">I remembered hearing him scream.</font>
+
+499
+00:57:16,364 --> 00:57:20,907
+<font color="#c0c0c0" face="Perpetua">But the people that were there
+said he had died before the tanks blew.</font>
+
+500
+00:57:27,292 --> 00:57:29,664
+<font color="#c0c0c0" face="Perpetua">They said it was me who was screaming.</font>
+
+501
+00:57:33,214 --> 00:57:35,622
+<font color="#c0c0c0" face="Perpetua">I saw Linder about a week later.</font>
+
+502
+00:57:37,010 --> 00:57:40,426
+<font color="#c0c0c0" face="Perpetua">I had a wrench, and I hit him.</font>
+
+503
+00:57:40,764 --> 00:57:45,473
+<font color="#c0c0c0" face="Perpetua">And I didn't intend to keep hitting him,
+but when I finished, I couldn't lift my arm.</font>
+
+504
+00:57:50,857 --> 00:57:53,146
+<font color="#c0c0c0" face="Perpetua">He's a janitor at a high school.</font>
+
+505
+00:57:54,277 --> 00:57:56,815
+<font color="#c0c0c0" face="Perpetua">He has to take the bus to work every day.</font>
+
+506
+00:57:58,031 --> 00:58:00,736
+<font color="#c0c0c0" face="Perpetua">And they banned me
+from the tracks for life.</font>
+
+507
+00:58:06,373 --> 00:58:08,864
+<font color="#c0c0c0" face="Perpetua">I live my life a quarter-mile at a time.</font>
+
+508
+00:58:10,711 --> 00:58:13,498
+<font color="#c0c0c0" face="Perpetua">Nothing else matters.
+Not the mortgage, not the store...</font>
+
+509
+00:58:13,589 --> 00:58:16,080
+<font color="#c0c0c0" face="Perpetua">...not my team and all their bullshit.</font>
+
+510
+00:58:17,801 --> 00:58:20,173
+<font color="#c0c0c0" face="Perpetua">For those 10 seconds or less...</font>
+
+511
+00:58:21,680 --> 00:58:23,340
+<font color="#c0c0c0" face="Perpetua">...I'm free.</font>
+
+512
+00:58:43,827 --> 00:58:47,078
+<font color="#c0c0c0" face="Perpetua">So, how is it, anyways,
+that the gang came to be?</font>
+
+513
+00:58:47,331 --> 00:58:48,446
+<font color="#c0c0c0" face="Perpetua">- What?
+- The gang.</font>
+
+514
+00:58:48,540 --> 00:58:50,948
+<font color="#c0c0c0" face="Perpetua">The gang?
+No, they don't call themselves a gang.</font>
+
+515
+00:58:51,043 --> 00:58:53,368
+<font color="#c0c0c0" face="Perpetua">- What do they call themselves?
+- They're a team.</font>
+
+516
+00:58:53,462 --> 00:58:57,460
+<font color="#c0c0c0" face="Perpetua">- They call themselves a team.
+- All right. How did the team come to be?</font>
+
+517
+00:58:57,925 --> 00:59:00,214
+<font color="#c0c0c0" face="Perpetua">Well, that's a whole lot of history.</font>
+
+518
+00:59:01,637 --> 00:59:05,338
+<font color="#c0c0c0" face="Perpetua">- I've got time.
+- Okay. Vince grew up with my brother.</font>
+
+519
+00:59:06,308 --> 00:59:09,428
+<font color="#c0c0c0" face="Perpetua">Actually, he didn't ever actually grow up,
+as you can tell.</font>
+
+520
+00:59:09,520 --> 00:59:11,513
+<font color="#c0c0c0" face="Perpetua">But they were friends as kids.</font>
+
+521
+00:59:11,731 --> 00:59:14,304
+<font color="#c0c0c0" face="Perpetua">And Letty, she just lived down the street.</font>
+
+522
+00:59:14,483 --> 00:59:17,733
+<font color="#c0c0c0" face="Perpetua">Always into cars, though.
+Ever since she was, like, 10 years old.</font>
+
+523
+00:59:17,820 --> 00:59:21,403
+<font color="#c0c0c0" face="Perpetua">So, naturally, you know,
+my brother always had her attention.</font>
+
+524
+00:59:22,074 --> 00:59:25,739
+<font color="#c0c0c0" face="Perpetua">- And then she turned 16--
+- And then she had Dom's attention.</font>
+
+525
+00:59:26,037 --> 00:59:28,954
+<font color="#c0c0c0" face="Perpetua">Yeah. It's funny how that works, isn't it?</font>
+
+526
+00:59:29,707 --> 00:59:30,952
+<font color="#c0c0c0" face="Perpetua">Yeah.</font>
+
+527
+00:59:34,253 --> 00:59:36,744
+<font color="#c0c0c0" face="Perpetua">How does Jesse fit into the whole thing?</font>
+
+528
+00:59:36,881 --> 00:59:41,839
+<font color="#c0c0c0" face="Perpetua">Jesse. Well, Jesse and Leon just sort of
+showed up one night and never, ever left.</font>
+
+529
+00:59:42,678 --> 00:59:45,964
+<font color="#c0c0c0" face="Perpetua">It's just the way my brother is, you know.
+Dom's like....</font>
+
+530
+00:59:47,517 --> 00:59:49,474
+<font color="#c0c0c0" face="Perpetua">He's like gravity.</font>
+
+531
+00:59:50,603 --> 00:59:52,809
+<font color="#c0c0c0" face="Perpetua">Everything just gets pulled to him.</font>
+
+532
+00:59:54,440 --> 00:59:55,816
+<font color="#c0c0c0" face="Perpetua">Even you.</font>
+
+533
+00:59:58,027 --> 00:59:59,403
+<font color="#c0c0c0" face="Perpetua">No.</font>
+
+534
+00:59:59,529 --> 01:00:00,904
+<font color="#c0c0c0" face="Perpetua">No.</font>
+
+535
+01:00:01,364 --> 01:00:04,199
+<font color="#c0c0c0" face="Perpetua">The only thing that pulled me in was you.</font>
+
+536
+01:00:04,284 --> 01:00:07,119
+<font color="#c0c0c0" face="Perpetua">Being friends with your brother
+is just a bonus.</font>
+
+537
+01:00:09,873 --> 01:00:11,415
+<font color="#c0c0c0" face="Perpetua">That's good.</font>
+
+538
+01:00:13,251 --> 01:00:16,786
+<font color="#c0c0c0" face="Perpetua">That's good. It's nice to come first
+every once in a while.</font>
+
+539
+01:00:20,425 --> 01:00:21,456
+<font color="#c0c0c0" face="Perpetua">Want to go for a drive?</font>
+
+540
+01:01:00,173 --> 01:01:02,415
+<font color="#c0c0c0" face="Perpetua">- Yeah?
+<i>- The hijackers have hit again.</i></font>
+
+541
+01:01:02,509 --> 01:01:07,586
+<font color="#c0c0c0" face="Perpetua"><i>Bilkins has decided that we're gonna move
+on Johnny Tran and his guys at 17:00.</i></font>
+
+542
+01:01:07,681 --> 01:01:09,555
+<font color="#c0c0c0" face="Perpetua"><i>Unless you say otherwise.</i></font>
+
+543
+01:01:09,641 --> 01:01:11,515
+<font color="#c0c0c0" face="Perpetua"><i>If you agree, just say yes.</i></font>
+
+544
+01:01:12,144 --> 01:01:14,136
+<font color="#c0c0c0" face="Perpetua">- Yeah.
+- Who is that?</font>
+
+545
+01:01:16,398 --> 01:01:18,141
+<font color="#c0c0c0" face="Perpetua">It's just a wrong number.</font>
+
+546
+01:04:10,365 --> 01:04:12,524
+<font color="#c0c0c0" face="Perpetua">Yes, sir. Yeah, I know, but--</font>
+
+547
+01:04:12,743 --> 01:04:15,412
+<font color="#c0c0c0" face="Perpetua">Yeah. Yes, sir.</font>
+
+548
+01:04:15,620 --> 01:04:17,031
+<font color="#c0c0c0" face="Perpetua">Yeah. I got it.</font>
+
+549
+01:04:21,418 --> 01:04:23,457
+<font color="#c0c0c0" face="Perpetua">The DVD players were purchased legally.</font>
+
+550
+01:04:23,545 --> 01:04:26,795
+<font color="#c0c0c0" face="Perpetua">All we've got are a couple
+of low-rent weapons charges...</font>
+
+551
+01:04:26,882 --> 01:04:29,171
+<font color="#c0c0c0" face="Perpetua">...and some outstanding speeding tickets.</font>
+
+552
+01:04:29,259 --> 01:04:30,919
+<font color="#c0c0c0" face="Perpetua">- So, they're out.
+- Yeah.</font>
+
+553
+01:04:31,136 --> 01:04:32,714
+<font color="#c0c0c0" face="Perpetua">Father bailed them out.</font>
+
+554
+01:04:33,847 --> 01:04:37,596
+<font color="#c0c0c0" face="Perpetua">Is this the kind of intelligence
+I can expect from you, O'Conner?</font>
+
+555
+01:04:42,439 --> 01:04:45,606
+<font color="#c0c0c0" face="Perpetua">- You're gonna put this on me?
+- I can put it on whoever I want to.</font>
+
+556
+01:04:45,692 --> 01:04:48,397
+<font color="#c0c0c0" face="Perpetua">- Perks of the job.
+- No, you can't put this on me--</font>
+
+557
+01:04:48,487 --> 01:04:50,361
+<font color="#c0c0c0" face="Perpetua">No, wait a minute. Let me tell you.</font>
+
+558
+01:04:50,447 --> 01:04:54,659
+<font color="#c0c0c0" face="Perpetua">I don't care if you have to aim at someone
+and blow your cover to smithereens.</font>
+
+559
+01:04:54,743 --> 01:04:57,281
+<font color="#c0c0c0" face="Perpetua">You've got 36 hours to crack this bastard...</font>
+
+560
+01:04:57,371 --> 01:05:00,455
+<font color="#c0c0c0" face="Perpetua">...or you might want to think
+about another career.</font>
+
+561
+01:05:11,510 --> 01:05:14,926
+<font color="#c0c0c0" face="Perpetua">It's Toretto, Brian.
+It always has been Toretto.</font>
+
+562
+01:05:16,307 --> 01:05:18,180
+<font color="#c0c0c0" face="Perpetua">Tran and Hector are....</font>
+
+563
+01:05:18,601 --> 01:05:20,392
+<font color="#c0c0c0" face="Perpetua">They're just fumes.</font>
+
+564
+01:05:23,647 --> 01:05:26,352
+<font color="#c0c0c0" face="Perpetua">I know you've been lying to me.
+My question is this:</font>
+
+565
+01:05:26,442 --> 01:05:30,107
+<font color="#c0c0c0" face="Perpetua">Have you been lying to yourself
+because you can't see past Mia?</font>
+
+566
+01:05:32,740 --> 01:05:34,733
+<font color="#c0c0c0" face="Perpetua">He won't go back to prison.</font>
+
+567
+01:05:35,701 --> 01:05:38,572
+<font color="#c0c0c0" face="Perpetua">Well, that's a choice
+he's going to have to make.</font>
+
+568
+01:05:42,667 --> 01:05:45,074
+<font color="#c0c0c0" face="Perpetua">There's all kinds of family, Brian.</font>
+
+569
+01:05:46,504 --> 01:05:49,291
+<font color="#c0c0c0" face="Perpetua">And that's a choice
+you're gonna have to make.</font>
+
+570
+01:06:07,316 --> 01:06:09,309
+<font color="#c0c0c0" face="Perpetua">You ready for this?</font>
+
+571
+01:06:35,720 --> 01:06:38,555
+<font color="#c0c0c0" face="Perpetua">Nice car.
+What's the retail on one of those?</font>
+
+572
+01:06:39,182 --> 01:06:41,755
+<font color="#c0c0c0" face="Perpetua">More than you can afford, pal. Ferrari.</font>
+
+573
+01:06:47,941 --> 01:06:49,435
+<font color="#c0c0c0" face="Perpetua">Smoke him.</font>
+
+574
+01:07:44,373 --> 01:07:46,164
+<font color="#c0c0c0" face="Perpetua">So, what's wrong, Brian?</font>
+
+575
+01:07:47,125 --> 01:07:48,833
+<font color="#c0c0c0" face="Perpetua">Nothing, man, I'm fine.</font>
+
+576
+01:07:49,294 --> 01:07:52,544
+<font color="#c0c0c0" face="Perpetua">Come on. Obviously something's off.</font>
+
+577
+01:07:53,090 --> 01:07:56,790
+<font color="#c0c0c0" face="Perpetua">Look, I have my good days and bad days
+just like anybody else.</font>
+
+578
+01:07:57,469 --> 01:08:01,052
+<font color="#c0c0c0" face="Perpetua">Brian, don't lose that cool of yours.
+That's your meal ticket.</font>
+
+579
+01:08:03,016 --> 01:08:05,852
+<font color="#c0c0c0" face="Perpetua">My meal ticket?
+I can't pay for my own shrimp?</font>
+
+580
+01:08:06,019 --> 01:08:07,478
+<font color="#c0c0c0" face="Perpetua">I got the shrimp.</font>
+
+581
+01:08:07,896 --> 01:08:10,470
+<font color="#c0c0c0" face="Perpetua">No, that's one thing about me
+you don't understand.</font>
+
+582
+01:08:10,566 --> 01:08:14,231
+<font color="#c0c0c0" face="Perpetua">I don't take handouts.
+I earn my way, every step.</font>
+
+583
+01:08:15,154 --> 01:08:17,526
+<font color="#c0c0c0" face="Perpetua">I need something extra on the side,
+like you.</font>
+
+584
+01:08:17,615 --> 01:08:19,572
+<font color="#c0c0c0" face="Perpetua">What do you mean, like me?</font>
+
+585
+01:08:19,867 --> 01:08:22,737
+<font color="#c0c0c0" face="Perpetua">- What's that supposed to mean?
+- That's what I mean.</font>
+
+586
+01:08:22,828 --> 01:08:25,533
+<font color="#c0c0c0" face="Perpetua">- What does that mean, like me?
+- Don't try--</font>
+
+587
+01:08:25,831 --> 01:08:27,740
+<font color="#c0c0c0" face="Perpetua">I'm not stupid, all right?</font>
+
+588
+01:08:28,125 --> 01:08:32,205
+<font color="#c0c0c0" face="Perpetua">I know that there's no way you paid
+for all that shit you got under the hood--</font>
+
+589
+01:08:32,296 --> 01:08:35,665
+<font color="#c0c0c0" face="Perpetua">There's no way you paid for
+what's under the hood of those cars...</font>
+
+590
+01:08:35,758 --> 01:08:38,510
+<font color="#c0c0c0" face="Perpetua">...by doing tune-ups and selling groceries.</font>
+
+591
+01:08:39,345 --> 01:08:42,346
+<font color="#c0c0c0" face="Perpetua">Whatever it is you're in on,
+I want in on it, too.</font>
+
+592
+01:09:05,204 --> 01:09:07,280
+<font color="#c0c0c0" face="Perpetua">- Well, what is this?
+- Read it.</font>
+
+593
+01:09:08,082 --> 01:09:10,371
+<font color="#c0c0c0" face="Perpetua">- What is this for?
+- It's directions.</font>
+
+594
+01:09:12,378 --> 01:09:14,086
+<font color="#c0c0c0" face="Perpetua">To Race Wars.</font>
+
+595
+01:09:14,589 --> 01:09:16,380
+<font color="#c0c0c0" face="Perpetua">We'll see how you go.</font>
+
+596
+01:09:17,383 --> 01:09:19,008
+<font color="#c0c0c0" face="Perpetua">Then we'll talk.</font>
+
+597
+01:10:05,306 --> 01:10:06,931
+<font color="#c0c0c0" face="Perpetua">- How's it going?
+- What's up?</font>
+
+598
+01:10:07,017 --> 01:10:09,686
+<font color="#c0c0c0" face="Perpetua">- Welcome to Race Wars.
+- Great. Thanks a lot.</font>
+
+599
+01:10:33,085 --> 01:10:34,792
+<font color="#c0c0c0" face="Perpetua">Baby. Hey, baby.</font>
+
+600
+01:10:35,962 --> 01:10:37,789
+<font color="#c0c0c0" face="Perpetua">You should watch from the side.</font>
+
+601
+01:10:37,881 --> 01:10:40,337
+<font color="#c0c0c0" face="Perpetua">I wouldn't want to get exhaust
+on that pretty face.</font>
+
+602
+01:10:40,425 --> 01:10:44,505
+<font color="#c0c0c0" face="Perpetua">- Put your money where your mouth is.
+- I'll race you for that sweet little ass.</font>
+
+603
+01:10:44,596 --> 01:10:47,052
+<font color="#c0c0c0" face="Perpetua">You want ass,
+why don't you hit Hollywood Boulevard?</font>
+
+604
+01:10:47,140 --> 01:10:50,225
+<font color="#c0c0c0" face="Perpetua">You want an adrenaline rush,
+it'll be two large.</font>
+
+605
+01:10:50,310 --> 01:10:53,311
+<font color="#c0c0c0" face="Perpetua">Right here. Right now.
+What's it gonna be?</font>
+
+606
+01:10:55,983 --> 01:10:57,393
+<font color="#c0c0c0" face="Perpetua">You got it.</font>
+
+607
+01:11:17,421 --> 01:11:19,460
+<font color="#c0c0c0" face="Perpetua">"Another one bites the dust"</font>
+
+608
+01:11:22,760 --> 01:11:24,669
+<font color="#c0c0c0" face="Perpetua">Come on. What you got?</font>
+
+609
+01:11:25,387 --> 01:11:26,846
+<font color="#c0c0c0" face="Perpetua">See ya.</font>
+
+610
+01:12:02,842 --> 01:12:05,796
+<font color="#c0c0c0" face="Perpetua">- What's up?
+- Hey, what's up, Jesse?</font>
+
+611
+01:12:06,262 --> 01:12:07,542
+<font color="#c0c0c0" face="Perpetua">What's in your hand?</font>
+
+612
+01:12:07,638 --> 01:12:10,010
+<font color="#c0c0c0" face="Perpetua">Throwing down the pink slip, just like you.</font>
+
+613
+01:12:10,099 --> 01:12:12,720
+<font color="#c0c0c0" face="Perpetua">- The pink slip to what? The Jetta?
+- Yeah.</font>
+
+614
+01:12:13,144 --> 01:12:15,682
+<font color="#c0c0c0" face="Perpetua">- You can't bet your dad's car.
+- It's all right.</font>
+
+615
+01:12:15,771 --> 01:12:17,052
+<font color="#c0c0c0" face="Perpetua">I ain't losing.</font>
+
+616
+01:12:17,148 --> 01:12:20,647
+<font color="#c0c0c0" face="Perpetua">This fool is running a Honda 2000.
+I'll win.</font>
+
+617
+01:12:20,818 --> 01:12:25,361
+<font color="#c0c0c0" face="Perpetua">That way, me and my dad can roll
+when he gets out of prison. It's all good.</font>
+
+618
+01:12:25,448 --> 01:12:29,066
+<font color="#c0c0c0" face="Perpetua">They're gonna throw him right back
+in prison after he kills you.</font>
+
+619
+01:12:36,709 --> 01:12:38,666
+<font color="#c0c0c0" face="Perpetua">You visualize the win.</font>
+
+620
+01:12:38,753 --> 01:12:42,418
+<font color="#c0c0c0" face="Perpetua">Visualize the win, Jesse. I'm serious.
+You got to listen to me, man.</font>
+
+621
+01:12:42,507 --> 01:12:44,049
+<font color="#c0c0c0" face="Perpetua">Who are you racing?</font>
+
+622
+01:12:48,429 --> 01:12:50,636
+<font color="#c0c0c0" face="Perpetua">Jesse, don't do it.</font>
+
+623
+01:12:50,765 --> 01:12:54,430
+<font color="#c0c0c0" face="Perpetua">I bet you he's got more than $100,000
+under the hood of that car.</font>
+
+624
+01:13:17,584 --> 01:13:19,161
+<font color="#c0c0c0" face="Perpetua">Too soon, junior.</font>
+
+625
+01:13:22,797 --> 01:13:23,663
+<font color="#c0c0c0" face="Perpetua">No!</font>
+
+626
+01:13:26,801 --> 01:13:28,000
+<font color="#c0c0c0" face="Perpetua">Shit!</font>
+
+627
+01:13:28,637 --> 01:13:29,799
+<font color="#c0c0c0" face="Perpetua">Oh, God!</font>
+
+628
+01:13:40,232 --> 01:13:42,901
+<font color="#c0c0c0" face="Perpetua">Yo! Heads up, bro. We got problems.</font>
+
+629
+01:13:42,984 --> 01:13:44,728
+<font color="#c0c0c0" face="Perpetua">- What?
+- Jesse.</font>
+
+630
+01:13:46,238 --> 01:13:48,277
+<font color="#c0c0c0" face="Perpetua">Where's Jesse going?</font>
+
+631
+01:13:48,448 --> 01:13:51,948
+<font color="#c0c0c0" face="Perpetua">- He just raced Tran for slips.
+- Oh, shit.</font>
+
+632
+01:14:03,630 --> 01:14:06,750
+<font color="#c0c0c0" face="Perpetua">- Where's he going?
+- He went to the car wash.</font>
+
+633
+01:14:06,967 --> 01:14:08,924
+<font color="#c0c0c0" face="Perpetua">Whatever. Go fetch my car.</font>
+
+634
+01:14:09,511 --> 01:14:11,136
+<font color="#c0c0c0" face="Perpetua">Go fetch your car?</font>
+
+635
+01:14:12,097 --> 01:14:13,757
+<font color="#c0c0c0" face="Perpetua">We're not on your block.</font>
+
+636
+01:14:13,849 --> 01:14:16,470
+<font color="#c0c0c0" face="Perpetua">You better watch who you talk to like that.</font>
+
+637
+01:14:17,019 --> 01:14:18,133
+<font color="#c0c0c0" face="Perpetua">Toretto!</font>
+
+638
+01:14:21,440 --> 01:14:23,314
+<font color="#c0c0c0" face="Perpetua">SWAT came into my house...</font>
+
+639
+01:14:24,276 --> 01:14:28,523
+<font color="#c0c0c0" face="Perpetua">...disrespected my whole family,
+because somebody narked me out.</font>
+
+640
+01:14:29,239 --> 01:14:31,695
+<font color="#c0c0c0" face="Perpetua">And you know what? It was you!</font>
+
+641
+01:14:56,058 --> 01:14:58,098
+<font color="#c0c0c0" face="Perpetua">Get off of him, man.</font>
+
+642
+01:15:07,445 --> 01:15:09,236
+<font color="#c0c0c0" face="Perpetua">Dom, chill out, man. Come on!</font>
+
+643
+01:15:09,322 --> 01:15:11,113
+<font color="#c0c0c0" face="Perpetua">I never narked on nobody!</font>
+
+644
+01:15:11,240 --> 01:15:13,731
+<font color="#c0c0c0" face="Perpetua">I never narked on nobody!</font>
+
+645
+01:15:52,740 --> 01:15:53,820
+<font color="#c0c0c0" face="Perpetua">Mia.</font>
+
+646
+01:15:58,580 --> 01:16:00,952
+<font color="#c0c0c0" face="Perpetua">I have respected you
+and I haven't said shit.</font>
+
+647
+01:16:01,040 --> 01:16:02,784
+<font color="#c0c0c0" face="Perpetua">Now I am asking you not to go.</font>
+
+648
+01:16:02,876 --> 01:16:05,746
+<font color="#c0c0c0" face="Perpetua">- I'm doing this for both of us.
+- Don't give me that crap.</font>
+
+649
+01:16:05,837 --> 01:16:07,296
+<font color="#c0c0c0" face="Perpetua">You're doing this for you.</font>
+
+650
+01:16:07,380 --> 01:16:11,508
+<font color="#c0c0c0" face="Perpetua">Why are you insisting on doing this?
+Dom, please, just don't.</font>
+
+651
+01:16:23,480 --> 01:16:25,971
+<font color="#c0c0c0" face="Perpetua">- Mia, what's going on?
+- What?</font>
+
+652
+01:16:26,066 --> 01:16:28,557
+<font color="#c0c0c0" face="Perpetua">- You know what I'm talking about.
+- No, I don't.</font>
+
+653
+01:16:28,652 --> 01:16:31,902
+<font color="#c0c0c0" face="Perpetua">You always have tears in your eyes
+when Dom drives away?</font>
+
+654
+01:16:32,030 --> 01:16:33,572
+<font color="#c0c0c0" face="Perpetua">What's the matter with you?</font>
+
+655
+01:16:33,657 --> 01:16:36,230
+<font color="#c0c0c0" face="Perpetua">What's he racing off
+in the middle of the night for?</font>
+
+656
+01:16:36,326 --> 01:16:39,493
+<font color="#c0c0c0" face="Perpetua">- You know about the trucks?
+- No, Brian! What trucks?</font>
+
+657
+01:16:39,579 --> 01:16:43,447
+<font color="#c0c0c0" face="Perpetua">- Jesus Christ. What?
+- Listen to me.</font>
+
+658
+01:16:44,709 --> 01:16:46,168
+<font color="#c0c0c0" face="Perpetua">Mia, I'm a cop.</font>
+
+659
+01:16:47,712 --> 01:16:50,382
+<font color="#c0c0c0" face="Perpetua">What are you talking about, Brian?
+What is this?</font>
+
+660
+01:16:50,465 --> 01:16:53,917
+<font color="#c0c0c0" face="Perpetua">Ever since the first time I met you,
+I've been undercover.</font>
+
+661
+01:16:55,178 --> 01:16:56,376
+<font color="#c0c0c0" face="Perpetua">I'm a cop.</font>
+
+662
+01:17:01,435 --> 01:17:03,059
+<font color="#c0c0c0" face="Perpetua">Oh, you bastard.</font>
+
+663
+01:17:05,897 --> 01:17:07,178
+<font color="#c0c0c0" face="Perpetua">You bastard.</font>
+
+664
+01:17:09,568 --> 01:17:11,395
+<font color="#c0c0c0" face="Perpetua">- Mia.
+- Get off of me, Brian!</font>
+
+665
+01:17:11,486 --> 01:17:13,230
+<font color="#c0c0c0" face="Perpetua">Mia! Listen to me!</font>
+
+666
+01:17:14,489 --> 01:17:17,063
+<font color="#c0c0c0" face="Perpetua">Everything I ever said
+I felt about you was real.</font>
+
+667
+01:17:17,159 --> 01:17:19,780
+<font color="#c0c0c0" face="Perpetua">I swear to God.
+You have to believe me, Mia.</font>
+
+668
+01:17:19,870 --> 01:17:23,488
+<font color="#c0c0c0" face="Perpetua">But this isn't about you and me.
+Your brother's out there to pull a job.</font>
+
+669
+01:17:23,582 --> 01:17:27,033
+<font color="#c0c0c0" face="Perpetua">We're running out of time. Those truckers
+aren't laying down anymore.</font>
+
+670
+01:17:27,127 --> 01:17:30,876
+<font color="#c0c0c0" face="Perpetua">Maybe they'll make it through tonight,
+but every law enforcement agency...</font>
+
+671
+01:17:30,964 --> 01:17:32,672
+<font color="#c0c0c0" face="Perpetua">...is coming down on them.</font>
+
+672
+01:17:32,758 --> 01:17:35,675
+<font color="#c0c0c0" face="Perpetua">If you don't want anything to happen
+to them...</font>
+
+673
+01:17:35,761 --> 01:17:38,845
+<font color="#c0c0c0" face="Perpetua">...you have to get in that car
+with me right now and help me.</font>
+
+674
+01:17:40,391 --> 01:17:43,724
+<font color="#c0c0c0" face="Perpetua">Mia, you are the only person
+that can help me right now.</font>
+
+675
+01:17:44,520 --> 01:17:47,853
+<font color="#c0c0c0" face="Perpetua">Please, Mia. Please help me.</font>
+
+676
+01:17:59,785 --> 01:18:02,620
+<font color="#c0c0c0" face="Perpetua">Civics are stashed somewhere
+outside of Thermal.</font>
+
+677
+01:18:02,705 --> 01:18:05,990
+<font color="#c0c0c0" face="Perpetua">They wouldn't double back,
+and Highway 10 is too well patrolled.</font>
+
+678
+01:18:06,083 --> 01:18:09,037
+<font color="#c0c0c0" face="Perpetua">- So, what does that leave us with?
+- All this.</font>
+
+679
+01:18:17,970 --> 01:18:20,841
+<font color="#c0c0c0" face="Perpetua"><i>- Nextel.</i>
+- This is Officer Brian O'Conner.</font>
+
+680
+01:18:21,015 --> 01:18:25,392
+<font color="#c0c0c0" face="Perpetua">Serial number 34762.
+I need a cell phone trace.</font>
+
+681
+01:18:25,603 --> 01:18:28,639
+<font color="#c0c0c0" face="Perpetua"><i>- Okay. What's the cell number?</i>
+- Mia, what is it?</font>
+
+682
+01:18:30,775 --> 01:18:33,941
+<font color="#c0c0c0" face="Perpetua">Come on, Mia.
+She needs Dom's cell phone number now.</font>
+
+683
+01:18:37,281 --> 01:18:41,990
+<font color="#c0c0c0" face="Perpetua">323-555-6439.</font>
+
+684
+01:18:43,079 --> 01:18:45,652
+<font color="#c0c0c0" face="Perpetua">Thank you. Yeah, you get that?</font>
+
+685
+01:19:11,858 --> 01:19:15,690
+<font color="#c0c0c0" face="Perpetua">All right, we're one man short.
+Letty, I need you on the left side.</font>
+
+686
+01:19:17,989 --> 01:19:21,323
+<font color="#c0c0c0" face="Perpetua">Your sister's right about this one.
+This don't feel good.</font>
+
+687
+01:19:21,451 --> 01:19:25,579
+<font color="#c0c0c0" face="Perpetua">- Don't do that.
+- Something's wrong.</font>
+
+688
+01:19:25,663 --> 01:19:28,499
+<font color="#c0c0c0" face="Perpetua">- Stop.
+- We shouldn't be doing this without Jesse.</font>
+
+689
+01:19:29,626 --> 01:19:32,580
+<font color="#c0c0c0" face="Perpetua">This is the mother Iode.
+We've been on this for three months.</font>
+
+690
+01:19:32,670 --> 01:19:35,162
+<font color="#c0c0c0" face="Perpetua">After this, it's a long vacation for everyone.</font>
+
+691
+01:19:35,256 --> 01:19:37,214
+<font color="#c0c0c0" face="Perpetua">- Let's go.
+- I hope so.</font>
+
+692
+01:19:40,762 --> 01:19:43,846
+<font color="#c0c0c0" face="Perpetua">Listen, the other night I had a dream...</font>
+
+693
+01:19:44,349 --> 01:19:47,054
+<font color="#c0c0c0" face="Perpetua">...that you and I were
+on the beach in Mexico.</font>
+
+694
+01:19:47,435 --> 01:19:49,475
+<font color="#c0c0c0" face="Perpetua">- Really?
+- Really.</font>
+
+695
+01:19:52,649 --> 01:19:54,807
+<font color="#c0c0c0" face="Perpetua">Come on. Let's make this happen.</font>
+
+696
+01:19:57,904 --> 01:20:02,400
+<font color="#c0c0c0" face="Perpetua">- Leon, keep on those scanners.
+- Copy that.</font>
+
+697
+01:20:05,954 --> 01:20:07,994
+<font color="#c0c0c0" face="Perpetua">All right, let's go.</font>
+
+698
+01:20:18,592 --> 01:20:21,676
+<font color="#c0c0c0" face="Perpetua"><i>Okay, we traced the number
+to the northbound 86.</i></font>
+
+699
+01:20:21,762 --> 01:20:26,258
+<font color="#c0c0c0" face="Perpetua"><i>Mile 114, outside Coachella.
+We'll keep the trace open, Officer.</i></font>
+
+700
+01:20:26,600 --> 01:20:28,011
+<font color="#c0c0c0" face="Perpetua">Let me see this.</font>
+
+701
+01:20:32,814 --> 01:20:35,056
+<font color="#c0c0c0" face="Perpetua">I think we're about 40 miles away.</font>
+
+702
+01:20:35,484 --> 01:20:37,108
+<font color="#c0c0c0" face="Perpetua">What are you gonna do?</font>
+
+703
+01:20:38,403 --> 01:20:40,396
+<font color="#c0c0c0" face="Perpetua">What are you gonna do?</font>
+
+704
+01:21:12,688 --> 01:21:14,764
+<font color="#c0c0c0" face="Perpetua">Okay! Go time!</font>
+
+705
+01:21:30,456 --> 01:21:32,912
+<font color="#c0c0c0" face="Perpetua">We're all good.
+I got nothing on the scanners.</font>
+
+706
+01:21:33,000 --> 01:21:34,281
+<font color="#c0c0c0" face="Perpetua">Keep going.</font>
+
+707
+01:21:48,850 --> 01:21:50,012
+<font color="#c0c0c0" face="Perpetua">Vince!</font>
+
+708
+01:21:50,685 --> 01:21:52,761
+<font color="#c0c0c0" face="Perpetua">Vince, don't! Get back in!</font>
+
+709
+01:21:54,355 --> 01:21:55,470
+<font color="#c0c0c0" face="Perpetua">Vince!</font>
+
+710
+01:22:01,112 --> 01:22:02,820
+<font color="#c0c0c0" face="Perpetua">He's got a damn shotgun! Leon!</font>
+
+711
+01:22:02,905 --> 01:22:05,194
+<font color="#c0c0c0" face="Perpetua">Back off! Get him off of there!</font>
+
+712
+01:22:07,869 --> 01:22:09,149
+<font color="#c0c0c0" face="Perpetua">Oh, shit!</font>
+
+713
+01:22:20,214 --> 01:22:22,884
+<font color="#c0c0c0" face="Perpetua">Get me off this thing! Pull up!</font>
+
+714
+01:22:24,010 --> 01:22:27,344
+<font color="#c0c0c0" face="Perpetua">Unhook yourself. Do it!</font>
+
+715
+01:22:27,722 --> 01:22:29,715
+<font color="#c0c0c0" face="Perpetua">- Do it!
+- I can't get--</font>
+
+716
+01:22:29,808 --> 01:22:31,183
+<font color="#c0c0c0" face="Perpetua">You can do it!</font>
+
+717
+01:22:32,227 --> 01:22:33,685
+<font color="#c0c0c0" face="Perpetua">Come on, Vince!</font>
+
+718
+01:22:41,194 --> 01:22:43,767
+<font color="#c0c0c0" face="Perpetua">Dom! I'm pulling up to distract him!</font>
+
+719
+01:22:51,246 --> 01:22:52,705
+<font color="#c0c0c0" face="Perpetua">Come on, boy!</font>
+
+720
+01:22:53,915 --> 01:22:56,038
+<font color="#c0c0c0" face="Perpetua">Shot doesn't get better than this.</font>
+
+721
+01:23:01,089 --> 01:23:02,370
+<font color="#c0c0c0" face="Perpetua">Son of a bitch!</font>
+
+722
+01:23:07,220 --> 01:23:09,546
+<font color="#c0c0c0" face="Perpetua">Take me off here,
+or I'll have to unhook the wire!</font>
+
+723
+01:23:09,639 --> 01:23:13,886
+<font color="#c0c0c0" face="Perpetua">Try it again. One, two, three!</font>
+
+724
+01:23:25,906 --> 01:23:27,483
+<font color="#c0c0c0" face="Perpetua">Unhook yourself!</font>
+
+725
+01:23:29,242 --> 01:23:31,116
+<font color="#c0c0c0" face="Perpetua">I can't get my arm free!</font>
+
+726
+01:23:31,203 --> 01:23:33,445
+<font color="#c0c0c0" face="Perpetua">- Vince, grab my hand!
+- My arm!</font>
+
+727
+01:23:33,538 --> 01:23:35,330
+<font color="#c0c0c0" face="Perpetua">Listen, give me your hand.</font>
+
+728
+01:23:35,499 --> 01:23:37,954
+<font color="#c0c0c0" face="Perpetua">I'm gonna pull you off the rig!</font>
+
+729
+01:23:41,129 --> 01:23:42,754
+<font color="#c0c0c0" face="Perpetua">Vince!</font>
+
+730
+01:23:42,840 --> 01:23:44,832
+<font color="#c0c0c0" face="Perpetua">Hold on!</font>
+
+731
+01:23:44,925 --> 01:23:47,048
+<font color="#c0c0c0" face="Perpetua">Give me your hand! Listen to me!</font>
+
+732
+01:23:53,892 --> 01:23:54,888
+<font color="#c0c0c0" face="Perpetua">Dominic!</font>
+
+733
+01:23:54,977 --> 01:23:56,175
+<font color="#c0c0c0" face="Perpetua">Shit!</font>
+
+734
+01:23:59,732 --> 01:24:01,855
+<font color="#c0c0c0" face="Perpetua">- Dominic!
+- Hang on!</font>
+
+735
+01:24:02,443 --> 01:24:05,360
+<font color="#c0c0c0" face="Perpetua">Dom! Move out of the way.
+I'm coming to get him.</font>
+
+736
+01:24:30,471 --> 01:24:31,799
+<font color="#c0c0c0" face="Perpetua">Letty!</font>
+
+737
+01:24:32,598 --> 01:24:33,629
+<font color="#c0c0c0" face="Perpetua">Leon!</font>
+
+738
+01:24:33,724 --> 01:24:34,803
+<font color="#c0c0c0" face="Perpetua">Pull back for Letty.</font>
+
+739
+01:24:34,892 --> 01:24:36,172
+<font color="#c0c0c0" face="Perpetua"><i>Get her out of there!</i></font>
+
+740
+01:24:36,268 --> 01:24:37,679
+<font color="#c0c0c0" face="Perpetua">I'm on it! Go!</font>
+
+741
+01:24:46,862 --> 01:24:49,532
+<font color="#c0c0c0" face="Perpetua">I've got her! You get Vince off that truck.</font>
+
+742
+01:24:54,871 --> 01:24:57,112
+<font color="#c0c0c0" face="Perpetua">Letty! Come on, baby.</font>
+
+743
+01:24:58,165 --> 01:24:59,245
+<font color="#c0c0c0" face="Perpetua">You okay?</font>
+
+744
+01:24:59,333 --> 01:25:01,741
+<font color="#c0c0c0" face="Perpetua">Oh, shit. Come on, girl, you all right?</font>
+
+745
+01:25:01,836 --> 01:25:05,419
+<font color="#c0c0c0" face="Perpetua">Come on, let me look at you.
+Come on. We got to go. Let's go.</font>
+
+746
+01:25:19,228 --> 01:25:20,723
+<font color="#c0c0c0" face="Perpetua">Vince!</font>
+
+747
+01:25:49,008 --> 01:25:50,171
+<font color="#c0c0c0" face="Perpetua">Take the wheel.</font>
+
+748
+01:25:50,260 --> 01:25:52,965
+<font color="#c0c0c0" face="Perpetua">- What do you mean?
+- Put your foot on the gas!</font>
+
+749
+01:25:53,722 --> 01:25:56,010
+<font color="#c0c0c0" face="Perpetua">I'm gonna get him.
+Put your foot on the gas!</font>
+
+750
+01:25:56,099 --> 01:25:57,344
+<font color="#c0c0c0" face="Perpetua">Okay!</font>
+
+751
+01:26:00,729 --> 01:26:03,813
+<font color="#c0c0c0" face="Perpetua">- Come on. Keep it steady.
+- I got it!</font>
+
+752
+01:26:05,358 --> 01:26:07,315
+<font color="#c0c0c0" face="Perpetua">All right, hold on, Vince.</font>
+
+753
+01:26:08,111 --> 01:26:11,029
+<font color="#c0c0c0" face="Perpetua">He's having a hard time holding on.
+Get me a little closer.</font>
+
+754
+01:26:11,114 --> 01:26:12,395
+<font color="#c0c0c0" face="Perpetua">All right.</font>
+
+755
+01:26:13,241 --> 01:26:15,400
+<font color="#c0c0c0" face="Perpetua">- Closer.
+- I'm moving in.</font>
+
+756
+01:26:15,785 --> 01:26:17,363
+<font color="#c0c0c0" face="Perpetua">Hold it right there!</font>
+
+757
+01:26:18,205 --> 01:26:19,284
+<font color="#c0c0c0" face="Perpetua">Go!</font>
+
+758
+01:26:21,458 --> 01:26:24,031
+<font color="#c0c0c0" face="Perpetua">You got to hang in here with me now!</font>
+
+759
+01:26:24,127 --> 01:26:26,286
+<font color="#c0c0c0" face="Perpetua">We'll get you off. Give me your arm!</font>
+
+760
+01:26:26,379 --> 01:26:28,538
+<font color="#c0c0c0" face="Perpetua">Vince, look at me! Don't let go!</font>
+
+761
+01:26:32,511 --> 01:26:35,084
+<font color="#c0c0c0" face="Perpetua">Come on, Vince!
+Throw this arm around me!</font>
+
+762
+01:26:35,889 --> 01:26:38,214
+<font color="#c0c0c0" face="Perpetua">Vince, don't let go!</font>
+
+763
+01:26:42,437 --> 01:26:44,513
+<font color="#c0c0c0" face="Perpetua">Come on, Mia. Get closer!</font>
+
+764
+01:26:50,070 --> 01:26:51,778
+<font color="#c0c0c0" face="Perpetua">Mia, get closer! Come on.</font>
+
+765
+01:26:51,864 --> 01:26:53,737
+<font color="#c0c0c0" face="Perpetua">Come on, Vince. Here we go!</font>
+
+766
+01:27:21,810 --> 01:27:23,091
+<font color="#c0c0c0" face="Perpetua">Shit.</font>
+
+767
+01:27:26,732 --> 01:27:30,267
+<font color="#c0c0c0" face="Perpetua">It's gonna be okay, Letty. I love you.</font>
+
+768
+01:27:33,531 --> 01:27:35,155
+<font color="#c0c0c0" face="Perpetua">- Watch her.
+- I got her.</font>
+
+769
+01:27:36,075 --> 01:27:38,613
+<font color="#c0c0c0" face="Perpetua">Come on, Vince! Hang in there! Come on!</font>
+
+770
+01:27:42,790 --> 01:27:45,957
+<font color="#c0c0c0" face="Perpetua">If he doesn't get to an ambulance
+in 10 minutes, he's dead.</font>
+
+771
+01:27:46,043 --> 01:27:48,499
+<font color="#c0c0c0" face="Perpetua">- Hold the pressure. Hold his arm up.
+- I got it.</font>
+
+772
+01:27:54,427 --> 01:27:57,381
+<font color="#c0c0c0" face="Perpetua">Yeah. Yeah, this is Officer Brian O'Conner.</font>
+
+773
+01:27:57,596 --> 01:28:00,052
+<font color="#c0c0c0" face="Perpetua">I'm off-duty MAPD.</font>
+
+774
+01:28:00,182 --> 01:28:02,970
+<font color="#c0c0c0" face="Perpetua">I need a life flight roll out right away.</font>
+
+775
+01:28:04,103 --> 01:28:08,397
+<font color="#c0c0c0" face="Perpetua">My 20 is Highway 86, mile marker 147.</font>
+
+776
+01:28:08,941 --> 01:28:11,978
+<font color="#c0c0c0" face="Perpetua">I got one trauma victim,
+about 24 years of age.</font>
+
+777
+01:28:12,069 --> 01:28:14,643
+<font color="#c0c0c0" face="Perpetua">Six-foot, maybe 200 pounds.</font>
+
+778
+01:28:14,822 --> 01:28:18,571
+<font color="#c0c0c0" face="Perpetua">He's got a deep laceration to his right arm
+with arterial bleeding.</font>
+
+779
+01:28:18,659 --> 01:28:23,037
+<font color="#c0c0c0" face="Perpetua">And he's got a shotgun wound
+close range to his left flank.</font>
+
+780
+01:28:24,957 --> 01:28:26,867
+<font color="#c0c0c0" face="Perpetua">Yeah, he's going into shock!</font>
+
+781
+01:30:06,935 --> 01:30:08,845
+<font color="#c0c0c0" face="Perpetua">Dom, put the gun down now!</font>
+
+782
+01:30:11,440 --> 01:30:13,267
+<font color="#c0c0c0" face="Perpetua">- Move your car.
+- No bullshit!</font>
+
+783
+01:30:13,358 --> 01:30:15,814
+<font color="#c0c0c0" face="Perpetua">Put it down now! No more running!</font>
+
+784
+01:30:15,944 --> 01:30:17,487
+<font color="#c0c0c0" face="Perpetua">I'm not running!</font>
+
+785
+01:30:20,616 --> 01:30:23,023
+<font color="#c0c0c0" face="Perpetua">- Where's Leon and Letty?
+- They're long gone!</font>
+
+786
+01:30:23,118 --> 01:30:26,155
+<font color="#c0c0c0" face="Perpetua">Then it's over.
+I didn't call the police, but don't push me!</font>
+
+787
+01:30:26,246 --> 01:30:29,164
+<font color="#c0c0c0" face="Perpetua">- Put the gun down. I swear to God!
+- You are the cop!</font>
+
+788
+01:30:29,249 --> 01:30:30,660
+<font color="#c0c0c0" face="Perpetua">You're a cop!</font>
+
+789
+01:30:32,253 --> 01:30:35,622
+<font color="#c0c0c0" face="Perpetua">Brian, I got to find Jesse before they do.</font>
+
+790
+01:30:35,714 --> 01:30:38,585
+<font color="#c0c0c0" face="Perpetua">- I'm all the kid's got.
+- I'll call in the plates.</font>
+
+791
+01:30:38,676 --> 01:30:42,376
+<font color="#c0c0c0" face="Perpetua">PD will pick him up way before
+Johnny even gets near him.</font>
+
+792
+01:30:42,555 --> 01:30:46,006
+<font color="#c0c0c0" face="Perpetua">- Move your car.
+- Dom, stop it! It's over. Please.</font>
+
+793
+01:30:46,142 --> 01:30:47,849
+<font color="#c0c0c0" face="Perpetua">Mia, stay out of it!</font>
+
+794
+01:30:53,399 --> 01:30:56,602
+<font color="#c0c0c0" face="Perpetua">Dominic, I am so sorry.</font>
+
+795
+01:30:56,986 --> 01:30:59,192
+<font color="#c0c0c0" face="Perpetua">I don't know what I'm doing, Dom.</font>
+
+796
+01:30:59,280 --> 01:31:03,527
+<font color="#c0c0c0" face="Perpetua">I'm so scared right now.
+I don't know what's going on.</font>
+
+797
+01:31:03,617 --> 01:31:06,369
+<font color="#c0c0c0" face="Perpetua">What were you thinking, man?</font>
+
+798
+01:31:06,454 --> 01:31:08,945
+<font color="#c0c0c0" face="Perpetua">I don't know! I panicked! I'm sorry.</font>
+
+799
+01:31:09,040 --> 01:31:10,949
+<font color="#c0c0c0" face="Perpetua">I'm scared!</font>
+
+800
+01:31:11,042 --> 01:31:14,126
+<font color="#c0c0c0" face="Perpetua">I don't know what I'm doing!
+Will you please help me?</font>
+
+801
+01:31:18,674 --> 01:31:20,169
+<font color="#c0c0c0" face="Perpetua">Dom!</font>
+
+802
+01:31:39,028 --> 01:31:40,357
+<font color="#c0c0c0" face="Perpetua">Jesse!</font>
+
+803
+01:31:40,446 --> 01:31:41,941
+<font color="#c0c0c0" face="Perpetua">No, Jesse!</font>
+
+804
+01:31:56,671 --> 01:31:58,296
+<font color="#c0c0c0" face="Perpetua">No, Dom, no!</font>
+
+805
+01:34:53,182 --> 01:34:56,551
+<font color="#c0c0c0" face="Perpetua">Call 911. You call 911!</font>
+
+806
+01:35:31,388 --> 01:35:34,139
+<font color="#c0c0c0" face="Perpetua">I used to drag here back in high school.</font>
+
+807
+01:35:34,849 --> 01:35:39,013
+<font color="#c0c0c0" face="Perpetua">That railroad crossing up there
+is exactly a quarter mile away from here.</font>
+
+808
+01:35:40,188 --> 01:35:42,810
+<font color="#c0c0c0" face="Perpetua">On green, I'm going for it.</font>
+
+809
+01:38:17,388 --> 01:38:19,630
+<font color="#c0c0c0" face="Perpetua">That's not what I had in mind.</font>
+
+810
+01:39:06,188 --> 01:39:08,097
+<font color="#c0c0c0" face="Perpetua">You know what you're doing?</font>
+
+811
+01:39:08,565 --> 01:39:10,641
+<font color="#c0c0c0" face="Perpetua">I owe you a 10-second car.</font>
+

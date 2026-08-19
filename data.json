@@ -2929,5 +2929,12 @@
     "slug": "stolengirl2025",
     "lang": "English",
     "file": "movies/stolengirl2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Fast.and.the.Furious.2001",
+    "slug": "thefastandthefurious2001",
+    "lang": "English",
+    "file": "movies/thefastandthefurious2001-eng.srt"
   }
 ]

@@ -2936,5 +2936,12 @@
     "slug": "thefastandthefurious2001",
     "lang": "English",
     "file": "movies/thefastandthefurious2001-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Fast.2.Furious.2003",
+    "slug": "fast2furious2003",
+    "lang": "English",
+    "file": "movies/fast2furious2003-eng.srt"
   }
 ]

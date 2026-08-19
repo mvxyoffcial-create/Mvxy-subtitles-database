@@ -2957,5 +2957,12 @@
     "slug": "4fastfurious2009",
     "lang": "English",
     "file": "movies/4fastfurious2009-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Mister Middle Class 2026",
+    "slug": "mister-middle-class-2026",
+    "lang": "English",
+    "file": "movies/mister-middle-class-2026-eng.srt"
   }
 ]

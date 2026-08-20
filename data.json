@@ -2978,5 +2978,12 @@
     "slug": "mutiny2026",
     "lang": "English",
     "file": "movies/mutiny2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Young.Washington.2026",
+    "slug": "youngwashington2026",
+    "lang": "English",
+    "file": "movies/youngwashington2026-eng.srt"
   }
 ]

@@ -2964,5 +2964,12 @@
     "slug": "mister-middle-class-2026",
     "lang": "English",
     "file": "movies/mister-middle-class-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Srinivasa.Mangapuram.2026",
+    "slug": "srinivasamangapuram2026",
+    "lang": "English",
+    "file": "movies/srinivasamangapuram2026-eng.srt"
   }
 ]

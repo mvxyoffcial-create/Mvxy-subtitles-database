@@ -2985,5 +2985,12 @@
     "slug": "youngwashington2026",
     "lang": "English",
     "file": "movies/youngwashington2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Chennai.Love.Story.2026",
+    "slug": "chennailovestory2026",
+    "lang": "English",
+    "file": "movies/chennailovestory2026-eng.srt"
   }
 ]

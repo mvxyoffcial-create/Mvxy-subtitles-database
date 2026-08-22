@@ -3013,5 +3013,12 @@
     "slug": "leninn2026",
     "lang": "English",
     "file": "movies/leninn2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Pyaar.Prema.Kalyanam.2026",
+    "slug": "pyaarpremakalyanam2026",
+    "lang": "English",
+    "file": "movies/pyaarpremakalyanam2026-eng.srt"
   }
 ]

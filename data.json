@@ -3020,5 +3020,12 @@
     "slug": "pyaarpremakalyanam2026",
     "lang": "English",
     "file": "movies/pyaarpremakalyanam2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Bury.the.Devil.2026",
+    "slug": "burythedevil2026",
+    "lang": "English",
+    "file": "movies/burythedevil2026-eng.srt"
   }
 ]

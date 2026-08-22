@@ -2999,5 +2999,12 @@
     "slug": "thegreatgrandsuperheroalienskaaagman2026",
     "lang": "English",
     "file": "movies/thegreatgrandsuperheroalienskaaagman2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Jana.Nayagan.2026.",
+    "slug": "jananayagan2026",
+    "lang": "English",
+    "file": "movies/jananayagan2026-eng.srt"
   }
 ]

@@ -3006,5 +3006,12 @@
     "slug": "jananayagan2026",
     "lang": "English",
     "file": "movies/jananayagan2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "LENiNn.2026",
+    "slug": "leninn2026",
+    "lang": "English",
+    "file": "movies/leninn2026-eng.srt"
   }
 ]

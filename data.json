@@ -3027,5 +3027,12 @@
     "slug": "burythedevil2026",
     "lang": "English",
     "file": "movies/burythedevil2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Welcome.to.jungle.2026",
+    "slug": "welcometojungle2026",
+    "lang": "English",
+    "file": "movies/welcometojungle2026-eng.srt"
   }
 ]

@@ -3041,5 +3041,12 @@
     "slug": "lanternss01e02trustfall",
     "lang": "English",
     "file": "tv/lanternss01e02trustfall-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Facing.El.Chapo.2026",
+    "slug": "facingelchapo2026",
+    "lang": "English",
+    "file": "tv/facingelchapo2026-eng.srt"
   }
 ]

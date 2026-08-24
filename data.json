@@ -3034,5 +3034,12 @@
     "slug": "welcometojungle2026",
     "lang": "English",
     "file": "movies/welcometojungle2026-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Lanterns.S01E02.Trust.Fall",
+    "slug": "lanternss01e02trustfall",
+    "lang": "English",
+    "file": "tv/lanternss01e02trustfall-eng.srt"
   }
 ]

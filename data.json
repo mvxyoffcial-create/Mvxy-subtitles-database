@@ -3083,5 +3083,12 @@
     "slug": "madconcretedreamss01e04",
     "lang": "English",
     "file": "movies/madconcretedreamss01e04-eng.srt"
+  },
+  {
+    "type": "tv",
+    "name": "Mad.Concrete.Dreams.S01E05",
+    "slug": "madconcretedreamss01e05",
+    "lang": "English",
+    "file": "tv/madconcretedreamss01e05-eng.srt"
   }
 ]

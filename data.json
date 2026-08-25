@@ -3048,5 +3048,12 @@
     "slug": "facingelchapo2026",
     "lang": "English",
     "file": "tv/facingelchapo2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "I.Nobody.2026",
+    "slug": "inobody2026",
+    "lang": "English",
+    "file": "movies/inobody2026-eng.srt"
   }
 ]

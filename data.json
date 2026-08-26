@@ -3160,5 +3160,12 @@
     "slug": "booniebearsthehiddenprotector2026",
     "lang": "English",
     "file": "movies/booniebearsthehiddenprotector2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Karuppu.2026",
+    "slug": "karuppu2026",
+    "lang": "English",
+    "file": "movies/karuppu2026-eng.srt"
   }
 ]

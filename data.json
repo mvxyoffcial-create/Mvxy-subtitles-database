@@ -3146,5 +3146,12 @@
     "slug": "dark-2026",
     "lang": "English",
     "file": "movies/dark-2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Motor.City.2026",
+    "slug": "motorcity2026",
+    "lang": "English",
+    "file": "movies/motorcity2026-eng.srt"
   }
 ]

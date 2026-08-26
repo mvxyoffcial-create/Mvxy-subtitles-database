@@ -3167,5 +3167,12 @@
     "slug": "karuppu2026",
     "lang": "English",
     "file": "movies/karuppu2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Last.Sunrise.2026",
+    "slug": "thelastsunrise2026",
+    "lang": "English",
+    "file": "movies/thelastsunrise2026-eng.srt"
   }
 ]

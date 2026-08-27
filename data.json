@@ -3174,5 +3174,12 @@
     "slug": "thelastsunrise2026",
     "lang": "English",
     "file": "movies/thelastsunrise2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Master.2021",
+    "slug": "master2021",
+    "lang": "English",
+    "file": "movies/master2021-eng.srt"
   }
 ]

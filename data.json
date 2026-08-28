@@ -3188,5 +3188,12 @@
     "slug": "anbediana2026",
     "lang": "English",
     "file": "movies/anbediana2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Bandar.2026",
+    "slug": "bandar2026",
+    "lang": "English",
+    "file": "movies/bandar2026-eng.srt"
   }
 ]

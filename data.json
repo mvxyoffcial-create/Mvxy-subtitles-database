@@ -3181,5 +3181,12 @@
     "slug": "master2021",
     "lang": "English",
     "file": "movies/master2021-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Anbe.Diana.2026",
+    "slug": "anbediana2026",
+    "lang": "English",
+    "file": "movies/anbediana2026-eng.srt"
   }
 ]

@@ -3195,5 +3195,12 @@
     "slug": "bandar2026",
     "lang": "English",
     "file": "movies/bandar2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Alpha.2026",
+    "slug": "alpha2026",
+    "lang": "English",
+    "file": "movies/alpha2026-eng.srt"
   }
 ]

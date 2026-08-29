@@ -3202,5 +3202,12 @@
     "slug": "alpha2026",
     "lang": "English",
     "file": "movies/alpha2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Wishper.2026",
+    "slug": "wishper2026",
+    "lang": "English",
+    "file": "movies/wishper2026-eng.srt"
   }
 ]

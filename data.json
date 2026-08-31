@@ -3209,5 +3209,12 @@
     "slug": "wishper2026",
     "lang": "English",
     "file": "movies/wishper2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Nagabandham.2026",
+    "slug": "nagabandham2026",
+    "lang": "English",
+    "file": "movies/nagabandham2026-eng.srt"
   }
 ]

@@ -3216,5 +3216,12 @@
     "slug": "nagabandham2026",
     "lang": "English",
     "file": "movies/nagabandham2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Lanterns.S01E03.OutKast",
+    "slug": "lanternss01e03outkast",
+    "lang": "English",
+    "file": "movies/lanternss01e03outkast-eng.srt"
   }
 ]

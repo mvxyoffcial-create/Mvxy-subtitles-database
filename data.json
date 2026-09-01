@@ -3251,5 +3251,12 @@
     "slug": "confinement2026",
     "lang": "English",
     "file": "movies/confinement2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "I.Want.Your.Sex.2026",
+    "slug": "iwantyoursex2026",
+    "lang": "English",
+    "file": "movies/iwantyoursex2026-eng.srt"
   }
 ]

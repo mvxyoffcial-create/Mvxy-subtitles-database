@@ -3244,5 +3244,12 @@
     "slug": "justplaydead2026",
     "lang": "English",
     "file": "movies/justplaydead2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Confinement.2026",
+    "slug": "confinement2026",
+    "lang": "English",
+    "file": "movies/confinement2026-eng.srt"
   }
 ]

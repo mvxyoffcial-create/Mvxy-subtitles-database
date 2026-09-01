@@ -3223,5 +3223,12 @@
     "slug": "lanternss01e03outkast",
     "lang": "English",
     "file": "movies/lanternss01e03outkast-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "The.Beloved.2026",
+    "slug": "thebeloved2026",
+    "lang": "English",
+    "file": "movies/thebeloved2026-eng.srt"
   }
 ]

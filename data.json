@@ -3237,5 +3237,12 @@
     "slug": "newtons3rdlaw2026",
     "lang": "English",
     "file": "movies/newtons3rdlaw2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Just.Play.Dead.2026",
+    "slug": "justplaydead2026",
+    "lang": "English",
+    "file": "movies/justplaydead2026-eng.srt"
   }
 ]

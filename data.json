@@ -3230,5 +3230,12 @@
     "slug": "thebeloved2026",
     "lang": "English",
     "file": "movies/thebeloved2026-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "Newtons.3rd.Law.2026.",
+    "slug": "newtons3rdlaw2026",
+    "lang": "English",
+    "file": "movies/newtons3rdlaw2026-eng.srt"
   }
 ]

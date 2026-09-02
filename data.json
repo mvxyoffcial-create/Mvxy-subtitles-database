@@ -3265,5 +3265,12 @@
     "slug": "theorphans2025",
     "lang": "English",
     "file": "movies/theorphans2025-eng.srt"
+  },
+  {
+    "type": "movie",
+    "name": "LEGO.Star.Wars.The.Mandalorian.2026",
+    "slug": "legostarwarsthemandalorian2026",
+    "lang": "English",
+    "file": "movies/legostarwarsthemandalorian2026-eng.srt"
   }
 ]
